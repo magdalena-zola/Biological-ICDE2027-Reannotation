@@ -1,0 +1,10 @@
+{
+  "repetitions": 3,
+  "updates_per_repetition": 120,
+  "pairwise_comparisons_per_full_rebuild": 240,
+  "median_total_full_ms": 959.8188690001734,
+  "median_total_indexed_ms": 25.06842200000392,
+  "median_speedup_per_run": 37.34338403908153,
+  "max_error": 0.0,
+  "limitations": "Synthetic aggregate payloads; no native DB engine or actual taxonomy reload; same Python pair operator only."
+}

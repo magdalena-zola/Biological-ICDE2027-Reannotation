@@ -1,0 +1,56 @@
+{
+  "runs": 18,
+  "all_passed": true,
+  "synthetic_hierarchies": true,
+  "same_state_semantics": true,
+  "summary": [
+    {
+      "nodes": 255,
+      "query_every_updates": 1,
+      "median_eager_ms": 31.753983,
+      "median_lazy_ms": 34.0738,
+      "median_full_ms": 546.649904,
+      "max_abs_error": 0
+    },
+    {
+      "nodes": 255,
+      "query_every_updates": 5,
+      "median_eager_ms": 26.208013,
+      "median_lazy_ms": 19.736522,
+      "median_full_ms": 107.916834,
+      "max_abs_error": 0
+    },
+    {
+      "nodes": 255,
+      "query_every_updates": 20,
+      "median_eager_ms": 27.81405,
+      "median_lazy_ms": 11.448679,
+      "median_full_ms": 27.011657,
+      "max_abs_error": 0
+    },
+    {
+      "nodes": 1023,
+      "query_every_updates": 1,
+      "median_eager_ms": 39.105246,
+      "median_lazy_ms": 43.480722,
+      "median_full_ms": 2410.750239,
+      "max_abs_error": 0
+    },
+    {
+      "nodes": 1023,
+      "query_every_updates": 5,
+      "median_eager_ms": 37.914511,
+      "median_lazy_ms": 28.297471,
+      "median_full_ms": 452.963399,
+      "max_abs_error": 0
+    },
+    {
+      "nodes": 1023,
+      "query_every_updates": 20,
+      "median_eager_ms": 34.075761,
+      "median_lazy_ms": 19.927747,
+      "median_full_ms": 115.710648,
+      "max_abs_error": 0
+    }
+  ]
+}

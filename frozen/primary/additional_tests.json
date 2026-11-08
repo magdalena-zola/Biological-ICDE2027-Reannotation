@@ -1,0 +1,39 @@
+{
+  "execution_date": "2026-11-05",
+  "real_input": {
+    "features": 770,
+    "samples": 34,
+    "reads": 153807,
+    "contrast_rank_settings": 9
+  },
+  "exact_pairwise_topk": {
+    "scenarios": 27,
+    "observed_agreement": 11,
+    "interval_certified": 10,
+    "pairwise_certified": 10,
+    "additional_pairwise_certifications": 0,
+    "observed_agreement_cases_with_pairwise_failure": 1,
+    "negative_topk_witnesses": 1,
+    "pairwise_comparisons": 3860,
+    "counterexamples": [
+      {
+        "contrast": "left palm - right palm",
+        "rank": "phylum",
+        "k": 1,
+        "worst_pair": [
+          "Pseudomonadota",
+          "Firmicutes"
+        ],
+        "exact_margin": -0.005215111178576769,
+        "witness_negative_and_swaps": true,
+        "witness_topk": "Firmicutes"
+      }
+    ]
+  },
+  "exhaustive_finite_worlds": {
+    "test_instances": 1440,
+    "max_abs_error": 1.7763568394002505e-15,
+    "block_monotonicity_checks": 720
+  },
+  "interpretation": "Pairwise minima are exact for the feature-independent additive world model. They do NOT establish biological likelihood of mixed worlds. Strict top-k certification assumes positive margins and no cross-boundary ties."
+}

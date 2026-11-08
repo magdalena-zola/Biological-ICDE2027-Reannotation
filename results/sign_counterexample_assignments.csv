@@ -1,0 +1,5 @@
+contrast,rank,partition,taxon,critical_edit_radius,oriented_margin_at_radius,anchor,number_switched_blocks,switched_block_labels
+left palm - right palm,family,feature,Aerococcaceae,1,-0.0001933514261637172,Greengenes2,1,feature:8cd2a871fab61bdea4ef23a295c371cf
+left palm - right palm,family,silva_family,Aerococcaceae,1,-0.00019335142616371684,SILVA,1,unknown_feature:44
+left palm - right palm,genus,feature,Corynebacterium,1,-0.003713720584324334,SILVA,1,feature:4ea5683e2c2a183c11c45dc8fbd0c67c
+left palm - right palm,genus,feature,Prevotella,4,-7.87517507088247e-05,SILVA,4,feature:26b8b1509edf09c438db1634308c3c90|feature:4ab53e40e06f3a9b0b9b2669d8a52f65|feature:846cbaf603b77be035fe0cb61d14a23c|feature:b5bf6383b53e0add0d6589b73949462a

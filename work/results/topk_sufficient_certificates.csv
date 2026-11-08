@@ -1,0 +1,28 @@
+contrast,rank,k,observed_topk_same,feature_topk_certified_sufficient,sufficient_margin,silva_topk,gg2_topk
+gut - tongue,phylum,1,True,True,0.10874781652131987,Bacteroidota,Bacteroidota
+gut - tongue,phylum,3,False,False,,Bacteroidota|Firmicutes|Verrucomicrobiota,Bacillota_A_368345|Bacteroidota|Verrucomicrobiota
+gut - tongue,phylum,5,False,False,,Abditibacteriota|Bacteroidota|Desulfobacterota|Firmicutes|Verrucomicrobiota,Abditibacteriota|Bacillota_A_368345|Bacteroidota|Desulfobacterota_G_459543|Verrucomicrobiota
+gut - tongue,family,1,True,True,0.24266464866908904,Bacteroidaceae,Bacteroidaceae
+gut - tongue,family,3,True,True,0.058741964512121686,Bacteroidaceae|Lachnospiraceae|Ruminococcaceae,Bacteroidaceae|Lachnospiraceae|Ruminococcaceae
+gut - tongue,family,5,False,False,,Acidaminococcaceae|Bacteroidaceae|Lachnospiraceae|Oscillospiraceae|Ruminococcaceae,Acidaminococcaceae|Bacteroidaceae|Lachnospiraceae|Oscillospiraceae_88309|Ruminococcaceae
+gut - tongue,genus,1,False,False,,Bacteroides,Phocaeicola_A
+gut - tongue,genus,3,False,False,,Bacteroides|Faecalibacterium|Phascolarctobacterium,Bacteroides_H_857956|Faecalibacterium|Phocaeicola_A
+gut - tongue,genus,5,False,False,,Bacteroides|Faecalibacterium|Lachnospira|Phascolarctobacterium|[Eubacterium]_eligens_group,Bacteroides_H_857956|Faecalibacterium|Lachnospira|Phascolarctobacterium_A_40086|Phocaeicola_A
+left palm - right palm,phylum,1,True,False,-0.005215111178576773,Pseudomonadota,Pseudomonadota
+left palm - right palm,phylum,3,False,False,,Actinobacteriota|Fusobacteriota|Pseudomonadota,Bacillota_I|Fusobacteriota|Pseudomonadota
+left palm - right palm,phylum,5,False,False,,Actinobacteriota|Campylobacterota|Fusobacteriota|Pseudomonadota|Spirochaetota,Actinomycetota|Bacillota_I|Campylobacterota_A|Fusobacteriota|Pseudomonadota
+left palm - right palm,family,1,True,True,0.005795386370184535,Streptococcaceae,Streptococcaceae
+left palm - right palm,family,3,True,True,0.006277005362397576,Neisseriaceae|Pasteurellaceae|Streptococcaceae,Neisseriaceae|Pasteurellaceae|Streptococcaceae
+left palm - right palm,family,5,True,True,0.000801873626165725,Fusobacteriaceae|Neisseriaceae|Pasteurellaceae|Pseudomonadaceae|Streptococcaceae,Fusobacteriaceae|Neisseriaceae|Pasteurellaceae|Pseudomonadaceae|Streptococcaceae
+left palm - right palm,genus,1,True,True,0.005062793034478423,Streptococcus,Streptococcus
+left palm - right palm,genus,3,False,False,,Fusobacterium|Neisseria|Streptococcus,Fusobacterium_C|Neisseria_563205|Streptococcus
+left palm - right palm,genus,5,False,False,,Fusobacterium|Neisseria|Prevotella_7|Pseudomonas|Streptococcus,Fusobacterium_C|Haemophilus_D_735815|Neisseria_563205|Pseudomonas_E_647464|Streptococcus
+gut - left palm,phylum,1,True,True,0.1835435507203209,Bacteroidota,Bacteroidota
+gut - left palm,phylum,3,False,False,,Bacteroidota|Firmicutes|Verrucomicrobiota,Bacillota_A_368345|Bacteroidota|Verrucomicrobiota
+gut - left palm,phylum,5,False,False,,Acidobacteriota|Bacteroidota|Desulfobacterota|Firmicutes|Verrucomicrobiota,Bacillota_A_368345|Bacillota_C|Bacteroidota|Desulfobacterota_G_459543|Verrucomicrobiota
+gut - left palm,family,1,True,True,0.3417775906927827,Bacteroidaceae,Bacteroidaceae
+gut - left palm,family,3,True,True,0.05573117844172054,Bacteroidaceae|Lachnospiraceae|Ruminococcaceae,Bacteroidaceae|Lachnospiraceae|Ruminococcaceae
+gut - left palm,family,5,False,False,,Acidaminococcaceae|Bacteroidaceae|Lachnospiraceae|Oscillospiraceae|Ruminococcaceae,Acidaminococcaceae|Bacteroidaceae|Lachnospiraceae|Oscillospiraceae_88309|Ruminococcaceae
+gut - left palm,genus,1,False,False,,Bacteroides,Phocaeicola_A
+gut - left palm,genus,3,False,False,,Bacteroides|Faecalibacterium|[Eubacterium]_eligens_group,Bacteroides_H_857956|Faecalibacterium|Phocaeicola_A
+gut - left palm,genus,5,False,False,,Bacteroides|Faecalibacterium|Lachnospira|Phascolarctobacterium|[Eubacterium]_eligens_group,Bacteroides_H_857956|Faecalibacterium|Lachnospira|Phascolarctobacterium_A_40086|Phocaeicola_A

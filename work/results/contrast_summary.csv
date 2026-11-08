@@ -1,0 +1,10 @@
+contrast,rank,queries,observed_same_nonzero_sign,feature_sign_certified,agreement_but_uncertified
+gut - tongue,phylum,34,5,5,0
+gut - tongue,family,197,29,29,0
+gut - tongue,genus,468,29,29,0
+left palm - right palm,phylum,34,10,10,0
+left palm - right palm,family,197,72,71,1
+left palm - right palm,genus,468,93,91,2
+gut - left palm,phylum,34,8,8,0
+gut - left palm,family,197,64,64,0
+gut - left palm,genus,468,84,84,0

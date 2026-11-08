@@ -1,0 +1,17 @@
+{
+  "features": 770,
+  "samples": 34,
+  "reads": 153807,
+  "total_contrast_queries": 2097,
+  "observed_agreement_but_uncertified": 3,
+  "topk_scenarios": 27,
+  "topk_observed_same": 11,
+  "topk_certified_sufficient": 10,
+  "caveats": [
+    "Per-feature alternative worlds are model scenarios, not independently observed biological reality",
+    "No biological synonym matching apart from explicit Proteobacteria/Pseudomonadota canonicalization",
+    "Top-k interval separation sufficient but not necessary; failures do not prove top-k can change",
+    "Subject-balanced within-site contrast; not a significance test",
+    "Taxon label comparisons literal; unclassified placeholders may occur"
+  ]
+}

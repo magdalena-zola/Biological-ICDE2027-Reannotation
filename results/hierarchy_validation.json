@@ -1,0 +1,8 @@
+{
+  "tree_DP_brute_cases": 1380,
+  "max_abs_error": 8.881784197001252e-16,
+  "taxonomy_tree_nodes": 1528,
+  "hierarchical_real_queries": 4,
+  "real_DP_evaluations": 20,
+  "max_budget": 4
+}

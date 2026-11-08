@@ -1,0 +1,17 @@
+{
+  "features": 770,
+  "samples": 34,
+  "reads": 153807,
+  "rank_contrast_contexts": 9,
+  "topk_scenarios": 27,
+  "observed_topk_agreements": 11,
+  "total_tested_pair_comparisons": 11580,
+  "partition_block_count": {
+    "feature": 770,
+    "silva_family": 206,
+    "silva_phylum": 40
+  },
+  "observed_agreement_sign": 394,
+  "sign_query_radii_computed": 1182,
+  "topk_witnesses_computed": 1
+}

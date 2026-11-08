@@ -1,0 +1,28 @@
+contrast,rank,k,observed_agreement,interval_certified,exact_pairwise_certified,min_exact_pairwise_margin,negative_witness,witness_margin,witness_new_topk,worst_pair
+gut - tongue,phylum,1,True,True,True,0.10874781652131989,False,0.10874781652131982,Bacteroidota,Bacteroidota vs Firmicutes
+gut - tongue,phylum,3,False,False,False,,False,,,
+gut - tongue,phylum,5,False,False,False,,False,,,
+gut - tongue,family,1,True,True,True,0.24266464866908913,False,0.24266464866908904,Bacteroidaceae,Bacteroidaceae vs Lachnospiraceae
+gut - tongue,family,3,True,True,True,0.058741964512121686,False,0.05874196451212167,Bacteroidaceae|Lachnospiraceae|Ruminococcaceae,Ruminococcaceae vs Acidaminococcaceae
+gut - tongue,family,5,False,False,False,,False,,,
+gut - tongue,genus,1,False,False,False,,False,,,
+gut - tongue,genus,3,False,False,False,,False,,,
+gut - tongue,genus,5,False,False,False,,False,,,
+left palm - right palm,phylum,1,True,False,False,-0.005215111178576769,True,-0.005215111178576773,Firmicutes,Pseudomonadota vs Firmicutes
+left palm - right palm,phylum,3,False,False,False,,False,,,
+left palm - right palm,phylum,5,False,False,False,,False,,,
+left palm - right palm,family,1,True,True,True,0.0057953863701845475,False,0.005795386370184563,Streptococcaceae,Streptococcaceae vs Pasteurellaceae
+left palm - right palm,family,3,True,True,True,0.006277005362397581,False,0.00627700536239759,Neisseriaceae|Pasteurellaceae|Streptococcaceae,Neisseriaceae vs Fusobacteriaceae
+left palm - right palm,family,5,True,True,True,0.000801873626165731,False,0.0008018736261657285,Fusobacteriaceae|Neisseriaceae|Pasteurellaceae|Pseudomonadaceae|Streptococcaceae,Pseudomonadaceae vs Mycobacteriaceae
+left palm - right palm,genus,1,True,True,True,0.005062793034478424,False,0.005062793034478423,Streptococcus,Streptococcus vs Neisseria
+left palm - right palm,genus,3,False,False,False,,False,,,
+left palm - right palm,genus,5,False,False,False,,False,,,
+gut - left palm,phylum,1,True,True,True,0.18354355072032086,False,0.1835435507203208,Bacteroidota,Bacteroidota vs Firmicutes
+gut - left palm,phylum,3,False,False,False,,False,,,
+gut - left palm,phylum,5,False,False,False,,False,,,
+gut - left palm,family,1,True,True,True,0.34177759069278263,False,0.34177759069278263,Bacteroidaceae,Bacteroidaceae vs Lachnospiraceae
+gut - left palm,family,3,True,True,True,0.055731178441720534,False,0.05573117844172054,Bacteroidaceae|Lachnospiraceae|Ruminococcaceae,Ruminococcaceae vs Acidaminococcaceae
+gut - left palm,family,5,False,False,False,,False,,,
+gut - left palm,genus,1,False,False,False,,False,,,
+gut - left palm,genus,3,False,False,False,,False,,,
+gut - left palm,genus,5,False,False,False,,False,,,

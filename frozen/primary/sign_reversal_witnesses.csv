@@ -1,0 +1,4 @@
+contrast,rank,taxon,observed_silva,observed_gg2,mixed_world_witness,witness_opposite_sign,reference_choices_gg2,reference_choices_silva,status
+left palm - right palm,family,Aerococcaceae,-7.066251717433386e-05,-0.002187431853695,0.00019335142616371684,True,1,769,"counterfactual feature-independent mixed world, NOT biological observation"
+left palm - right palm,genus,Corynebacterium,0.0024592335193047,0.006047045501107,-0.0039759027115160725,True,4,766,"counterfactual feature-independent mixed world, NOT biological observation"
+left palm - right palm,genus,Prevotella,0.0027649271385818,0.0162981571156461,-0.00011723697238370199,True,5,765,"counterfactual feature-independent mixed world, NOT biological observation"

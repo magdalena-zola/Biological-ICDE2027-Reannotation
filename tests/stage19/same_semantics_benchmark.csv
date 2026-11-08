@@ -1,0 +1,4 @@
+nodes,queries,events,incremental_median_ms,full_dp_median_ms,full_over_incremental,median_recomputed_nodes,full_recomputed_nodes
+63,48,60,0.15179900000000002,1.093683,7.204810308368302,5.0,63
+255,48,60,0.218194,4.686226,21.47733668203525,7.0,255
+1023,48,60,0.2852595,17.9540965,62.939521733719644,9.0,1023

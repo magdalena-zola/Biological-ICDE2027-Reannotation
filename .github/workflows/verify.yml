@@ -1,0 +1,22 @@
+name: Verify biological ICDE 2027 artifact
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  standard-library-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify file hashes and frozen research results
+        run: |
+          python verify_artifact.py
+          python verify_results.py
+          python external/check_frozen_results.py
+      - name: External algorithm exact small-world tests (no external download)
+        run: python external/reproduce_independent_validation.py /tmp/no_qzv --skip-computation --out build/external_smoke
+      - name: Compile Python sources
+        run: python -m compileall -q correlated_certificates.py hierarchical_certificates.py matched_semantics_benchmark.py make_figures.py work/stage25/run_stage25.py external

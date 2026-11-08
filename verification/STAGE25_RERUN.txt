@@ -1,0 +1,3 @@
+Stage25 independently re-run from the bundled QIIME 2 inputs on 2026-11-08.
+All five baseline files (contrast_summary.csv, contrast_certificates.csv, topk_sufficient_certificates.csv, agreement_failure_examples.csv, validation.json) exactly matched the frozen originals, byte for byte.
+The paired features/samples/read totals are 770 / 34 / 153807.

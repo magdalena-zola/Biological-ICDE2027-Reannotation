@@ -1,0 +1,1183 @@
+contrast,rank,partition,taxon,blocks,observed_sign,critical_edit_radius,critical_edit_fraction,margin_b0,margin_all
+gut - tongue,phylum,feature,Bacteroidota,770,1,-1,,0.45544796815177835,0.45544796815177835
+gut - tongue,phylum,feature,Fusobacteriota,770,-1,-1,,0.10523082824248436,0.10523082824248436
+gut - tongue,phylum,feature,Patescibacteria,770,-1,-1,,3.5955702574428306e-05,3.5955702574428306e-05
+gut - tongue,phylum,feature,Pseudomonadota,770,-1,-1,,0.4058910356120461,0.4058910356120461
+gut - tongue,phylum,feature,Verrucomicrobiota,770,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,phylum,silva_family,Bacteroidota,206,1,-1,,0.45544796815177835,0.45544796815177835
+gut - tongue,phylum,silva_family,Fusobacteriota,206,-1,-1,,0.10523082824248436,0.10523082824248436
+gut - tongue,phylum,silva_family,Patescibacteria,206,-1,-1,,3.5955702574428306e-05,3.5955702574428306e-05
+gut - tongue,phylum,silva_family,Pseudomonadota,206,-1,-1,,0.4058910356120461,0.4058910356120461
+gut - tongue,phylum,silva_family,Verrucomicrobiota,206,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,phylum,silva_phylum,Bacteroidota,40,1,-1,,0.45544796815177846,0.45544796815177846
+gut - tongue,phylum,silva_phylum,Fusobacteriota,40,-1,-1,,0.10523082824248436,0.10523082824248436
+gut - tongue,phylum,silva_phylum,Patescibacteria,40,-1,-1,,3.5955702574428306e-05,3.5955702574428306e-05
+gut - tongue,phylum,silva_phylum,Pseudomonadota,40,-1,-1,,0.4058910356120461,0.4058910356120461
+gut - tongue,phylum,silva_phylum,Verrucomicrobiota,40,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,family,feature,Acidaminococcaceae,770,1,-1,,0.031050690390858133,0.031050690390858133
+gut - tongue,family,feature,Actinomycetaceae,770,-1,-1,,0.00643054404282878,0.00643054404282878
+gut - tongue,family,feature,Akkermansiaceae,770,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,family,feature,Anaerovoracaceae,770,-1,-1,,0.0013572411110755757,0.0013572411110755757
+gut - tongue,family,feature,Atopobiaceae,770,-1,-1,,0.0007272238473265335,0.0007272238473265335
+gut - tongue,family,feature,Bacteroidaceae,770,1,-1,,0.4201269741868813,0.4096206817781347
+gut - tongue,family,feature,Butyricicoccaceae,770,1,-1,,0.0011369209068075778,0.0011369209068075778
+gut - tongue,family,feature,Campylobacteraceae,770,-1,-1,,0.008873042439856026,0.008873042439856026
+gut - tongue,family,feature,Christensenellaceae,770,1,-1,,5.8703819661866e-05,5.8703819661866e-05
+gut - tongue,family,feature,Desulfovibrionaceae,770,1,-1,,0.00718965001850572,0.00718965001850572
+gut - tongue,family,feature,Erysipelotrichaceae,770,-1,-1,,0.0007133743814954397,0.0007133743814954397
+gut - tongue,family,feature,Flavobacteriaceae,770,-1,-1,,0.00040543600755137534,0.00040543600755137534
+gut - tongue,family,feature,Fusobacteriaceae,770,-1,-1,,0.0982431686502628,0.0982431686502628
+gut - tongue,family,feature,Gemellaceae,770,-1,-1,,0.008248913912514397,0.008248913912514397
+gut - tongue,family,feature,Lachnospiraceae,770,1,-1,,0.1636195006583912,0.1636195006583912
+gut - tongue,family,feature,Leptotrichiaceae,770,-1,-1,,0.00698765959222157,0.00698765959222157
+gut - tongue,family,feature,Marinifilaceae,770,1,-1,,0.002140877678781774,0.002140877678781774
+gut - tongue,family,feature,Micrococcaceae,770,-1,-1,,0.033601375784592116,0.033601375784592116
+gut - tongue,family,feature,Mitochondria,770,-1,-1,,0.002379883251010328,0.002379883251010328
+gut - tongue,family,feature,Neisseriaceae,770,-1,-1,,0.23022946895914723,0.23022946895914723
+gut - tongue,family,feature,Pasteurellaceae,770,-1,-1,,0.18921117837025356,0.18921117837025356
+gut - tongue,family,feature,Porphyromonadaceae,770,-1,-1,,0.002747840251957456,0.002747840251957456
+gut - tongue,family,feature,Rikenellaceae,770,1,-1,,0.015932423900186468,0.015932423900186468
+gut - tongue,family,feature,Ruminococcaceae,770,1,-1,,0.09028128757128577,0.08979265490297983
+gut - tongue,family,feature,Staphylococcaceae,770,1,-1,,0.00022897754191955844,0.00022897754191955844
+gut - tongue,family,feature,Streptococcaceae,770,-1,-1,,0.13823289635358293,0.13823289635358293
+gut - tongue,family,feature,Tannerellaceae,770,1,-1,,0.018372221180357688,0.018372221180357688
+gut - tongue,family,feature,Veillonellaceae,770,-1,-1,,0.06660145333398239,0.06628095995308003
+gut - tongue,family,feature,Weeksellaceae,770,-1,-1,,0.0007295263352616043,0.0007295263352616043
+gut - tongue,family,silva_family,Acidaminococcaceae,206,1,-1,,0.031050690390858133,0.031050690390858133
+gut - tongue,family,silva_family,Actinomycetaceae,206,-1,-1,,0.00643054404282878,0.00643054404282878
+gut - tongue,family,silva_family,Akkermansiaceae,206,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,family,silva_family,Anaerovoracaceae,206,-1,-1,,0.0013572411110755757,0.0013572411110755757
+gut - tongue,family,silva_family,Atopobiaceae,206,-1,-1,,0.0007272238473265335,0.0007272238473265335
+gut - tongue,family,silva_family,Bacteroidaceae,206,1,-1,,0.4201269741868814,0.4201269741868814
+gut - tongue,family,silva_family,Butyricicoccaceae,206,1,-1,,0.0011369209068075778,0.0011369209068075778
+gut - tongue,family,silva_family,Campylobacteraceae,206,-1,-1,,0.008873042439856026,0.008873042439856026
+gut - tongue,family,silva_family,Christensenellaceae,206,1,-1,,5.8703819661866e-05,5.8703819661866e-05
+gut - tongue,family,silva_family,Desulfovibrionaceae,206,1,-1,,0.00718965001850572,0.00718965001850572
+gut - tongue,family,silva_family,Erysipelotrichaceae,206,-1,-1,,0.0007133743814954397,0.0007133743814954397
+gut - tongue,family,silva_family,Flavobacteriaceae,206,-1,-1,,0.00040543600755137534,0.00040543600755137534
+gut - tongue,family,silva_family,Fusobacteriaceae,206,-1,-1,,0.0982431686502628,0.0982431686502628
+gut - tongue,family,silva_family,Gemellaceae,206,-1,-1,,0.008248913912514397,0.008248913912514397
+gut - tongue,family,silva_family,Lachnospiraceae,206,1,-1,,0.1636195006583912,0.1636195006583912
+gut - tongue,family,silva_family,Leptotrichiaceae,206,-1,-1,,0.00698765959222157,0.00698765959222157
+gut - tongue,family,silva_family,Marinifilaceae,206,1,-1,,0.002140877678781774,0.002140877678781774
+gut - tongue,family,silva_family,Micrococcaceae,206,-1,-1,,0.033601375784592116,0.033601375784592116
+gut - tongue,family,silva_family,Mitochondria,206,-1,-1,,0.002379883251010328,0.002379883251010328
+gut - tongue,family,silva_family,Neisseriaceae,206,-1,-1,,0.23022946895914723,0.23022946895914723
+gut - tongue,family,silva_family,Pasteurellaceae,206,-1,-1,,0.18921117837025356,0.18921117837025356
+gut - tongue,family,silva_family,Porphyromonadaceae,206,-1,-1,,0.002747840251957456,0.002747840251957456
+gut - tongue,family,silva_family,Rikenellaceae,206,1,-1,,0.015932423900186468,0.015932423900186468
+gut - tongue,family,silva_family,Ruminococcaceae,206,1,-1,,0.09028128757128576,0.08979265490297982
+gut - tongue,family,silva_family,Staphylococcaceae,206,1,-1,,0.00022897754191955844,0.00022897754191955844
+gut - tongue,family,silva_family,Streptococcaceae,206,-1,-1,,0.13823289635358293,0.13823289635358293
+gut - tongue,family,silva_family,Tannerellaceae,206,1,-1,,0.018372221180357688,0.018372221180357688
+gut - tongue,family,silva_family,Veillonellaceae,206,-1,-1,,0.06660145333398237,0.06660145333398237
+gut - tongue,family,silva_family,Weeksellaceae,206,-1,-1,,0.0007295263352616043,0.0007295263352616043
+gut - tongue,family,silva_phylum,Acidaminococcaceae,40,1,-1,,0.031050690390858133,0.031050690390858133
+gut - tongue,family,silva_phylum,Actinomycetaceae,40,-1,-1,,0.00643054404282878,0.00643054404282878
+gut - tongue,family,silva_phylum,Akkermansiaceae,40,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,family,silva_phylum,Anaerovoracaceae,40,-1,-1,,0.0013572411110755757,0.0013572411110755757
+gut - tongue,family,silva_phylum,Atopobiaceae,40,-1,-1,,0.0007272238473265335,0.0007272238473265335
+gut - tongue,family,silva_phylum,Bacteroidaceae,40,1,-1,,0.4201269741868814,0.4201269741868814
+gut - tongue,family,silva_phylum,Butyricicoccaceae,40,1,-1,,0.0011369209068075778,0.0011369209068075778
+gut - tongue,family,silva_phylum,Campylobacteraceae,40,-1,-1,,0.008873042439856026,0.008873042439856026
+gut - tongue,family,silva_phylum,Christensenellaceae,40,1,-1,,5.8703819661866e-05,5.8703819661866e-05
+gut - tongue,family,silva_phylum,Desulfovibrionaceae,40,1,-1,,0.00718965001850572,0.00718965001850572
+gut - tongue,family,silva_phylum,Erysipelotrichaceae,40,-1,-1,,0.0007133743814954397,0.0007133743814954397
+gut - tongue,family,silva_phylum,Flavobacteriaceae,40,-1,-1,,0.00040543600755137534,0.00040543600755137534
+gut - tongue,family,silva_phylum,Fusobacteriaceae,40,-1,-1,,0.0982431686502628,0.0982431686502628
+gut - tongue,family,silva_phylum,Gemellaceae,40,-1,-1,,0.008248913912514397,0.008248913912514397
+gut - tongue,family,silva_phylum,Lachnospiraceae,40,1,-1,,0.1636195006583912,0.1636195006583912
+gut - tongue,family,silva_phylum,Leptotrichiaceae,40,-1,-1,,0.00698765959222157,0.00698765959222157
+gut - tongue,family,silva_phylum,Marinifilaceae,40,1,-1,,0.002140877678781774,0.002140877678781774
+gut - tongue,family,silva_phylum,Micrococcaceae,40,-1,-1,,0.033601375784592116,0.033601375784592116
+gut - tongue,family,silva_phylum,Mitochondria,40,-1,-1,,0.002379883251010328,0.002379883251010328
+gut - tongue,family,silva_phylum,Neisseriaceae,40,-1,-1,,0.23022946895914723,0.23022946895914723
+gut - tongue,family,silva_phylum,Pasteurellaceae,40,-1,-1,,0.18921117837025356,0.18921117837025356
+gut - tongue,family,silva_phylum,Porphyromonadaceae,40,-1,-1,,0.0027478402519574563,0.0027478402519574563
+gut - tongue,family,silva_phylum,Rikenellaceae,40,1,-1,,0.015932423900186468,0.015932423900186468
+gut - tongue,family,silva_phylum,Ruminococcaceae,40,1,-1,,0.09028128757128576,0.09028128757128576
+gut - tongue,family,silva_phylum,Staphylococcaceae,40,1,-1,,0.00022897754191955844,0.00022897754191955844
+gut - tongue,family,silva_phylum,Streptococcaceae,40,-1,-1,,0.13823289635358293,0.13823289635358293
+gut - tongue,family,silva_phylum,Tannerellaceae,40,1,-1,,0.018372221180357688,0.018372221180357688
+gut - tongue,family,silva_phylum,Veillonellaceae,40,-1,-1,,0.06660145333398237,0.06660145333398237
+gut - tongue,family,silva_phylum,Weeksellaceae,40,-1,-1,,0.0007295263352616043,0.0007295263352616043
+gut - tongue,genus,feature,Akkermansia,770,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,genus,feature,Alloprevotella,770,-1,-1,,0.014399723751513424,0.014399723751513424
+gut - tongue,genus,feature,Anaerostipes,770,1,-1,,0.006024272909401061,0.006024272909401061
+gut - tongue,genus,feature,Bilophila,770,1,-1,,0.0018529907699358138,0.0018529907699358138
+gut - tongue,genus,feature,Butyricimonas,770,1,-1,,0.0008154392759705464,0.0008154392759705464
+gut - tongue,genus,feature,Capnocytophaga,770,-1,-1,,0.00040543600755137534,0.00040543600755137534
+gut - tongue,genus,feature,Catonella,770,-1,-1,,9.117432530999271e-05,9.117432530999271e-05
+gut - tongue,genus,feature,Corynebacterium,770,-1,-1,,1.988993311588595e-05,1.988993311588595e-05
+gut - tongue,genus,feature,Faecalibacterium,770,1,-1,,0.07360627131695614,0.07360627131695614
+gut - tongue,genus,feature,Fenollaria,770,1,-1,,9.640102827763497e-05,9.640102827763497e-05
+gut - tongue,genus,feature,Finegoldia,770,1,-1,,0.00019195867653217926,0.00019195867653217926
+gut - tongue,genus,feature,Fusicatenibacter,770,1,-1,,0.0027326026624912973,0.0027326026624912973
+gut - tongue,genus,feature,Gemella,770,-1,-1,,0.008248913912514397,0.008248913912514397
+gut - tongue,genus,feature,Holdemania,770,1,-1,,0.0003036012618061557,0.0003036012618061557
+gut - tongue,genus,feature,Howardella,770,1,-1,,0.0002912399765386293,0.0002912399765386293
+gut - tongue,genus,feature,Intestinibacter,770,1,-1,,0.0003199203753732404,0.0003199203753732404
+gut - tongue,genus,feature,Intestinimonas,770,1,-1,,0.0002739511584220413,0.0002739511584220413
+gut - tongue,genus,feature,Lachnoanaerobaculum,770,-1,-1,,0.004351351030626532,0.004351351030626532
+gut - tongue,genus,feature,Lachnospira,770,1,-1,,0.02156667115188847,0.02156667115188847
+gut - tongue,genus,feature,Lautropia,770,-1,-1,,0.0008437065444837435,0.0008437065444837435
+gut - tongue,genus,feature,Oribacterium,770,-1,-1,,0.007937176625477573,0.007937176625477573
+gut - tongue,genus,feature,Oxalobacter,770,1,-1,,7.666830225711482e-05,7.666830225711482e-05
+gut - tongue,genus,feature,Parvimonas,770,-1,-1,,0.0009460989996589955,0.0009460989996589955
+gut - tongue,genus,feature,Prevotella,770,-1,-1,,0.004758716062843389,0.0024786740589293754
+gut - tongue,genus,feature,Rothia,770,-1,-1,,0.033601375784592116,0.033601375784592116
+gut - tongue,genus,feature,Staphylococcus,770,1,-1,,0.00022897754191955844,0.00022897754191955844
+gut - tongue,genus,feature,Streptococcus,770,-1,-1,,0.13823289635358293,0.13823289635358293
+gut - tongue,genus,feature,Tannerella,770,-1,-1,,0.00016945007550087942,0.00016945007550087942
+gut - tongue,genus,feature,Turicibacter,770,1,-1,,4.766747171730011e-05,4.766747171730011e-05
+gut - tongue,genus,silva_family,Akkermansia,206,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,genus,silva_family,Alloprevotella,206,-1,-1,,0.014399723751513422,0.014399723751513422
+gut - tongue,genus,silva_family,Anaerostipes,206,1,-1,,0.006024272909401061,0.006024272909401061
+gut - tongue,genus,silva_family,Bilophila,206,1,-1,,0.0018529907699358138,0.0018529907699358138
+gut - tongue,genus,silva_family,Butyricimonas,206,1,-1,,0.0008154392759705464,0.0008154392759705464
+gut - tongue,genus,silva_family,Capnocytophaga,206,-1,-1,,0.00040543600755137534,0.00040543600755137534
+gut - tongue,genus,silva_family,Catonella,206,-1,-1,,9.117432530999271e-05,9.117432530999271e-05
+gut - tongue,genus,silva_family,Corynebacterium,206,-1,-1,,1.988993311588595e-05,1.988993311588595e-05
+gut - tongue,genus,silva_family,Faecalibacterium,206,1,-1,,0.07360627131695614,0.07360627131695614
+gut - tongue,genus,silva_family,Fenollaria,206,1,-1,,9.640102827763497e-05,9.640102827763497e-05
+gut - tongue,genus,silva_family,Finegoldia,206,1,-1,,0.00019195867653217926,0.00019195867653217926
+gut - tongue,genus,silva_family,Fusicatenibacter,206,1,-1,,0.0027326026624912973,0.0027326026624912973
+gut - tongue,genus,silva_family,Gemella,206,-1,-1,,0.008248913912514397,0.008248913912514397
+gut - tongue,genus,silva_family,Holdemania,206,1,-1,,0.0003036012618061557,0.0003036012618061557
+gut - tongue,genus,silva_family,Howardella,206,1,-1,,0.0002912399765386293,0.0002912399765386293
+gut - tongue,genus,silva_family,Intestinibacter,206,1,-1,,0.0003199203753732404,0.0003199203753732404
+gut - tongue,genus,silva_family,Intestinimonas,206,1,-1,,0.0002739511584220413,0.0002739511584220413
+gut - tongue,genus,silva_family,Lachnoanaerobaculum,206,-1,-1,,0.004351351030626532,0.004351351030626532
+gut - tongue,genus,silva_family,Lachnospira,206,1,-1,,0.02156667115188847,0.02156667115188847
+gut - tongue,genus,silva_family,Lautropia,206,-1,-1,,0.0008437065444837435,0.0008437065444837435
+gut - tongue,genus,silva_family,Oribacterium,206,-1,-1,,0.007937176625477573,0.007937176625477573
+gut - tongue,genus,silva_family,Oxalobacter,206,1,-1,,7.666830225711482e-05,7.666830225711482e-05
+gut - tongue,genus,silva_family,Parvimonas,206,-1,-1,,0.0009460989996589955,0.0009460989996589955
+gut - tongue,genus,silva_family,Prevotella,206,-1,-1,,0.004758716062843389,0.004758716062843389
+gut - tongue,genus,silva_family,Rothia,206,-1,-1,,0.033601375784592116,0.033601375784592116
+gut - tongue,genus,silva_family,Staphylococcus,206,1,-1,,0.00022897754191955844,0.00022897754191955844
+gut - tongue,genus,silva_family,Streptococcus,206,-1,-1,,0.13823289635358293,0.13823289635358293
+gut - tongue,genus,silva_family,Tannerella,206,-1,-1,,0.00016945007550087942,0.00016945007550087942
+gut - tongue,genus,silva_family,Turicibacter,206,1,-1,,4.766747171730011e-05,4.766747171730011e-05
+gut - tongue,genus,silva_phylum,Akkermansia,40,1,-1,,0.014339602065153964,0.014339602065153964
+gut - tongue,genus,silva_phylum,Alloprevotella,40,-1,-1,,0.014399723751513422,0.014399723751513422
+gut - tongue,genus,silva_phylum,Anaerostipes,40,1,-1,,0.006024272909401061,0.006024272909401061
+gut - tongue,genus,silva_phylum,Bilophila,40,1,-1,,0.0018529907699358138,0.0018529907699358138
+gut - tongue,genus,silva_phylum,Butyricimonas,40,1,-1,,0.0008154392759705464,0.0008154392759705464
+gut - tongue,genus,silva_phylum,Capnocytophaga,40,-1,-1,,0.00040543600755137534,0.00040543600755137534
+gut - tongue,genus,silva_phylum,Catonella,40,-1,-1,,9.117432530999271e-05,9.117432530999271e-05
+gut - tongue,genus,silva_phylum,Corynebacterium,40,-1,-1,,1.988993311588595e-05,1.988993311588595e-05
+gut - tongue,genus,silva_phylum,Faecalibacterium,40,1,-1,,0.07360627131695614,0.07360627131695614
+gut - tongue,genus,silva_phylum,Fenollaria,40,1,-1,,9.640102827763497e-05,9.640102827763497e-05
+gut - tongue,genus,silva_phylum,Finegoldia,40,1,-1,,0.00019195867653217926,0.00019195867653217926
+gut - tongue,genus,silva_phylum,Fusicatenibacter,40,1,-1,,0.0027326026624912973,0.0027326026624912973
+gut - tongue,genus,silva_phylum,Gemella,40,-1,-1,,0.008248913912514397,0.008248913912514397
+gut - tongue,genus,silva_phylum,Holdemania,40,1,-1,,0.0003036012618061557,0.0003036012618061557
+gut - tongue,genus,silva_phylum,Howardella,40,1,-1,,0.0002912399765386293,0.0002912399765386293
+gut - tongue,genus,silva_phylum,Intestinibacter,40,1,-1,,0.0003199203753732404,0.0003199203753732404
+gut - tongue,genus,silva_phylum,Intestinimonas,40,1,-1,,0.0002739511584220413,0.0002739511584220413
+gut - tongue,genus,silva_phylum,Lachnoanaerobaculum,40,-1,-1,,0.004351351030626532,0.004351351030626532
+gut - tongue,genus,silva_phylum,Lachnospira,40,1,-1,,0.02156667115188847,0.02156667115188847
+gut - tongue,genus,silva_phylum,Lautropia,40,-1,-1,,0.0008437065444837435,0.0008437065444837435
+gut - tongue,genus,silva_phylum,Oribacterium,40,-1,-1,,0.007937176625477573,0.007937176625477573
+gut - tongue,genus,silva_phylum,Oxalobacter,40,1,-1,,7.666830225711482e-05,7.666830225711482e-05
+gut - tongue,genus,silva_phylum,Parvimonas,40,-1,-1,,0.0009460989996589955,0.0009460989996589955
+gut - tongue,genus,silva_phylum,Prevotella,40,-1,-1,,0.004758716062843389,0.004758716062843389
+gut - tongue,genus,silva_phylum,Rothia,40,-1,-1,,0.033601375784592116,0.033601375784592116
+gut - tongue,genus,silva_phylum,Staphylococcus,40,1,-1,,0.00022897754191955844,0.00022897754191955844
+gut - tongue,genus,silva_phylum,Streptococcus,40,-1,-1,,0.13823289635358293,0.13823289635358293
+gut - tongue,genus,silva_phylum,Tannerella,40,-1,-1,,0.00016945007550087942,0.00016945007550087942
+gut - tongue,genus,silva_phylum,Turicibacter,40,1,-1,,4.766747171730011e-05,4.766747171730011e-05
+left palm - right palm,phylum,feature,Acidobacteriota,770,-1,-1,,0.0002566973514784232,0.0002566973514784232
+left palm - right palm,phylum,feature,Bacteroidota,770,-1,-1,,0.1199346250856468,0.1199346250856468
+left palm - right palm,phylum,feature,Deinococcota,770,-1,-1,,0.00044473423381914207,0.00044473423381914207
+left palm - right palm,phylum,feature,Fusobacteriota,770,1,-1,,0.03348252648922279,0.03348252648922279
+left palm - right palm,phylum,feature,Patescibacteria,770,1,-1,,0.0005492734246910028,0.00047230298134124906
+left palm - right palm,phylum,feature,Planctomycetota,770,-1,-1,,0.0001434012888211598,0.0001434012888211598
+left palm - right palm,phylum,feature,Pseudomonadota,770,1,-1,,0.08579368592140889,0.08569105866360921
+left palm - right palm,phylum,feature,Spirochaetota,770,1,-1,,0.0012889454589201724,0.0012889454589201724
+left palm - right palm,phylum,feature,Synergistota,770,1,-1,,0.0008179668615664002,0.0008179668615664002
+left palm - right palm,phylum,feature,Verrucomicrobiota,770,-1,-1,,0.0024144853151814904,0.0024144853151814904
+left palm - right palm,phylum,silva_family,Acidobacteriota,206,-1,-1,,0.0002566973514784232,0.0002566973514784232
+left palm - right palm,phylum,silva_family,Bacteroidota,206,-1,-1,,0.11993462508564681,0.11993462508564681
+left palm - right palm,phylum,silva_family,Deinococcota,206,-1,-1,,0.00044473423381914207,0.00044473423381914207
+left palm - right palm,phylum,silva_family,Fusobacteriota,206,1,-1,,0.03348252648922279,0.03348252648922279
+left palm - right palm,phylum,silva_family,Patescibacteria,206,1,-1,,0.0005492734246910027,0.000472302981341249
+left palm - right palm,phylum,silva_family,Planctomycetota,206,-1,-1,,0.00014340128882115984,0.00014340128882115984
+left palm - right palm,phylum,silva_family,Pseudomonadota,206,1,-1,,0.08579368592140889,0.08575463953848206
+left palm - right palm,phylum,silva_family,Spirochaetota,206,1,-1,,0.0012889454589201724,0.0012889454589201724
+left palm - right palm,phylum,silva_family,Synergistota,206,1,-1,,0.0008179668615664002,0.0008179668615664002
+left palm - right palm,phylum,silva_family,Verrucomicrobiota,206,-1,-1,,0.0024144853151814904,0.0024144853151814904
+left palm - right palm,phylum,silva_phylum,Acidobacteriota,40,-1,-1,,0.0002566973514784232,0.0002566973514784232
+left palm - right palm,phylum,silva_phylum,Bacteroidota,40,-1,-1,,0.11993462508564681,0.11993462508564681
+left palm - right palm,phylum,silva_phylum,Deinococcota,40,-1,-1,,0.00044473423381914207,0.00044473423381914207
+left palm - right palm,phylum,silva_phylum,Fusobacteriota,40,1,-1,,0.03348252648922279,0.03348252648922279
+left palm - right palm,phylum,silva_phylum,Patescibacteria,40,1,-1,,0.0005492734246910028,0.0005492734246910028
+left palm - right palm,phylum,silva_phylum,Planctomycetota,40,-1,-1,,0.00014340128882115984,0.00014340128882115984
+left palm - right palm,phylum,silva_phylum,Pseudomonadota,40,1,-1,,0.08579368592140886,0.08575463953848202
+left palm - right palm,phylum,silva_phylum,Spirochaetota,40,1,-1,,0.0012889454589201724,0.0012889454589201724
+left palm - right palm,phylum,silva_phylum,Synergistota,40,1,-1,,0.0008179668615664002,0.0008179668615664002
+left palm - right palm,phylum,silva_phylum,Verrucomicrobiota,40,-1,-1,,0.0024144853151814904,0.0024144853151814904
+left palm - right palm,family,feature,Acetobacteraceae,770,-1,-1,,0.0007360166629883603,0.0007360166629883603
+left palm - right palm,family,feature,Acidaminococcaceae,770,-1,-1,,0.010450636102352695,0.010450636102352695
+left palm - right palm,family,feature,Actinomycetaceae,770,-1,-1,,0.00022133312668602847,0.00022133312668602847
+left palm - right palm,family,feature,Aerococcaceae,770,-1,1,0.0012987012987012987,7.066251717433386e-05,-0.0001933514261637172
+left palm - right palm,family,feature,Aeromonadaceae,770,-1,-1,,0.0003157094918954486,0.0003157094918954486
+left palm - right palm,family,feature,Akkermansiaceae,770,-1,-1,,0.0024687312517933067,0.0024687312517933067
+left palm - right palm,family,feature,Anaerovoracaceae,770,1,-1,,0.0013399670077730262,0.0013399670077730262
+left palm - right palm,family,feature,Arcobacteraceae,770,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,feature,Atopobiaceae,770,1,-1,,0.00034398520395736607,0.00034398520395736607
+left palm - right palm,family,feature,Bacteriovoracaceae,770,-1,-1,,2.5656814449917897e-05,2.5656814449917897e-05
+left palm - right palm,family,feature,Bacteroidaceae,770,-1,-1,,0.12903616388271671,0.12018733025924372
+left palm - right palm,family,feature,Beijerinckiaceae,770,1,-1,,0.00092291268465348,0.00092291268465348
+left palm - right palm,family,feature,Bifidobacteriaceae,770,1,-1,,0.00015796068036095053,0.00015796068036095053
+left palm - right palm,family,feature,Brevibacteriaceae,770,-1,-1,,6.789399381319163e-05,6.789399381319163e-05
+left palm - right palm,family,feature,Caldilineaceae,770,-1,-1,,5.1313628899835795e-05,5.1313628899835795e-05
+left palm - right palm,family,feature,Campylobacteraceae,770,1,-1,,0.0032179371569406104,0.0032179371569406104
+left palm - right palm,family,feature,Cardiobacteriaceae,770,1,-1,,0.0007053439611649508,0.0007053439611649508
+left palm - right palm,family,feature,Carnobacteriaceae,770,1,-1,,0.0028009873933072037,0.0028009873933072037
+left palm - right palm,family,feature,Caulobacteraceae,770,-1,-1,,0.001250873047855894,0.001250873047855894
+left palm - right palm,family,feature,Cellvibrionaceae,770,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,feature,Chitinophagaceae,770,1,-1,,0.0013858924148429774,0.0013858924148429774
+left palm - right palm,family,feature,Chromobacteriaceae,770,1,-1,,0.0002469867615095831,0.0002469867615095831
+left palm - right palm,family,feature,Chthoniobacteraceae,770,-1,-1,,3.848522167487685e-05,3.848522167487685e-05
+left palm - right palm,family,feature,Deinococcaceae,770,-1,-1,,0.0003934206049193063,0.0003934206049193063
+left palm - right palm,family,feature,Dermabacteraceae,770,1,-1,,1.1876045751806497e-06,1.1876045751806497e-06
+left palm - right palm,family,feature,Desulfomicrobiaceae,770,1,-1,,0.00011766551615939755,0.00011766551615939755
+left palm - right palm,family,feature,Desulfovibrionaceae,770,-1,-1,,0.0038081301161330405,0.0038081301161330405
+left palm - right palm,family,feature,Erysipelotrichaceae,770,1,-1,,3.697230064943232e-05,3.697230064943231e-05
+left palm - right palm,family,feature,Flavobacteriaceae,770,1,-1,,0.006109371055030911,0.006109371055030911
+left palm - right palm,family,feature,Fusobacteriaceae,770,1,-1,,0.028061521568704,0.028061521568704
+left palm - right palm,family,feature,Gaiellaceae,770,1,-1,,0.0001206119843390869,0.0001206119843390869
+left palm - right palm,family,feature,Gemellaceae,770,1,-1,,0.0002875298804131015,0.0002875298804131015
+left palm - right palm,family,feature,Geodermatophilaceae,770,1,-1,,0.0008003125358444581,0.0008003125358444581
+left palm - right palm,family,feature,Helicobacteraceae,770,-1,-1,,4.496402877697842e-05,4.496402877697842e-05
+left palm - right palm,family,feature,Hymenobacteraceae,770,-1,-1,,0.00032081798992107105,0.00032081798992107105
+left palm - right palm,family,feature,Lachnospiraceae,770,-1,-1,,0.01494972240073886,0.014916117545050674
+left palm - right palm,family,feature,Lactobacillaceae,770,1,-1,,0.00022230462825052657,0.00022230462825052657
+left palm - right palm,family,feature,Legionellaceae,770,1,-1,,7.916402786573781e-05,7.916402786573781e-05
+left palm - right palm,family,feature,Leptotrichiaceae,770,1,-1,,0.00542100492051879,0.00542100492051879
+left palm - right palm,family,feature,Marinifilaceae,770,-1,-1,,5.995203836930456e-05,5.995203836930456e-05
+left palm - right palm,family,feature,Methylophilaceae,770,-1,-1,,2.589852336978989e-07,2.589852336978989e-07
+left palm - right palm,family,feature,Microbacteriaceae,770,-1,-1,,0.004739127463018517,0.004739127463018517
+left palm - right palm,family,feature,Micrococcaceae,770,1,-1,,0.005824053297002066,0.005824053297002066
+left palm - right palm,family,feature,Mitochondria,770,1,-1,,0.002465912779554228,0.002402331904681389
+left palm - right palm,family,feature,Moraxellaceae,770,1,-1,,0.0004516254972607339,0.0004516254972607339
+left palm - right palm,family,feature,Muribaculaceae,770,1,-1,,0.00013329537273217774,0.00013329537273217774
+left palm - right palm,family,feature,Myxococcaceae,770,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,feature,Neisseriaceae,770,1,-1,,0.034338526931101586,0.034338526931101586
+left palm - right palm,family,feature,Nitrososphaeraceae,770,-1,-1,,0.00016257929616897616,0.00016257929616897616
+left palm - right palm,family,feature,Nocardioidaceae,770,-1,-1,,0.0007811835518836851,0.0007811835518836851
+left palm - right palm,family,feature,Paludibacteraceae,770,1,-1,,0.0015374163444748534,0.0015374163444748534
+left palm - right palm,family,feature,Pasteurellaceae,770,1,-1,,0.03569092090533536,0.03569092090533536
+left palm - right palm,family,feature,Porphyromonadaceae,770,1,-1,,0.001969194330741806,0.0012832002151286312
+left palm - right palm,family,feature,Propionibacteriaceae,770,1,-1,,0.001489626840623039,0.001489626840623039
+left palm - right palm,family,feature,Pseudomonadaceae,770,1,-1,,0.023115203111638664,0.023115203111638664
+left palm - right palm,family,feature,Pseudonocardiaceae,770,-1,-1,,0.0003551346115226046,0.0003551346115226046
+left palm - right palm,family,feature,Reyranellaceae,770,1,-1,,0.00011874604179860671,0.00011874604179860671
+left palm - right palm,family,feature,Rhizobiaceae,770,-1,-1,,0.0015318290299054485,0.0015318290299054485
+left palm - right palm,family,feature,Rhodobacteraceae,770,1,-1,,0.0014258973853044422,0.0014258973853044422
+left palm - right palm,family,feature,Rikenellaceae,770,-1,-1,,0.0031474460143654493,0.0031474460143654493
+left palm - right palm,family,feature,Ruminococcaceae,770,-1,-1,,0.020780565098991413,0.020780565098991413
+left palm - right palm,family,feature,Sphingobacteriaceae,770,1,-1,,0.0065576041222561434,0.0065576041222561434
+left palm - right palm,family,feature,Staphylococcaceae,770,-1,-1,,0.014376636810313821,0.014376636810313821
+left palm - right palm,family,feature,Streptococcaceae,770,1,-1,,0.04148630727551992,0.04148630727551992
+left palm - right palm,family,feature,Succinivibrionaceae,770,1,-1,,2.786666558468491e-05,2.786666558468491e-05
+left palm - right palm,family,feature,Tannerellaceae,770,-1,-1,,0.001528502164430633,0.001528502164430633
+left palm - right palm,family,feature,Trueperaceae,770,-1,-1,,5.1313628899835795e-05,5.1313628899835795e-05
+left palm - right palm,family,feature,Veillonellaceae,770,1,-1,,0.008062332121933833,0.0076859891076752895
+left palm - right palm,family,feature,Vibrionaceae,770,-1,-1,,0.0009703271498711652,0.0009703271498711652
+left palm - right palm,family,feature,Weeksellaceae,770,1,-1,,0.0027500143910812037,0.002480230218419333
+left palm - right palm,family,feature,Xanthobacteraceae,770,-1,-1,,0.00011545566502463054,0.00011545566502463054
+left palm - right palm,family,feature,Xanthomonadaceae,770,1,-1,,0.0008242413043779636,0.0008242413043779636
+left palm - right palm,family,silva_family,Acetobacteraceae,206,-1,-1,,0.0007360166629883603,0.0007360166629883603
+left palm - right palm,family,silva_family,Acidaminococcaceae,206,-1,-1,,0.010450636102352695,0.010450636102352695
+left palm - right palm,family,silva_family,Actinomycetaceae,206,-1,-1,,0.00022133312668602852,0.00022133312668602852
+left palm - right palm,family,silva_family,Aerococcaceae,206,-1,1,0.0048543689320388345,7.066251717433386e-05,-0.00019335142616371684
+left palm - right palm,family,silva_family,Aeromonadaceae,206,-1,-1,,0.0003157094918954486,0.0003157094918954486
+left palm - right palm,family,silva_family,Akkermansiaceae,206,-1,-1,,0.0024687312517933067,0.0024687312517933067
+left palm - right palm,family,silva_family,Anaerovoracaceae,206,1,-1,,0.0013399670077730262,0.0013399670077730262
+left palm - right palm,family,silva_family,Arcobacteraceae,206,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,silva_family,Atopobiaceae,206,1,-1,,0.00034398520395736607,0.00034398520395736607
+left palm - right palm,family,silva_family,Bacteriovoracaceae,206,-1,-1,,2.5656814449917897e-05,2.5656814449917897e-05
+left palm - right palm,family,silva_family,Bacteroidaceae,206,-1,-1,,0.12903616388271671,0.12903616388271671
+left palm - right palm,family,silva_family,Beijerinckiaceae,206,1,-1,,0.00092291268465348,0.00092291268465348
+left palm - right palm,family,silva_family,Bifidobacteriaceae,206,1,-1,,0.00015796068036095053,0.00015796068036095053
+left palm - right palm,family,silva_family,Brevibacteriaceae,206,-1,-1,,6.789399381319163e-05,6.789399381319163e-05
+left palm - right palm,family,silva_family,Caldilineaceae,206,-1,-1,,5.1313628899835795e-05,5.1313628899835795e-05
+left palm - right palm,family,silva_family,Campylobacteraceae,206,1,-1,,0.003217937156940611,0.003217937156940611
+left palm - right palm,family,silva_family,Cardiobacteriaceae,206,1,-1,,0.0007053439611649508,0.0007053439611649508
+left palm - right palm,family,silva_family,Carnobacteriaceae,206,1,-1,,0.0028009873933072037,0.0028009873933072037
+left palm - right palm,family,silva_family,Caulobacteraceae,206,-1,-1,,0.0012508730478558937,0.0012508730478558937
+left palm - right palm,family,silva_family,Cellvibrionaceae,206,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,silva_family,Chitinophagaceae,206,1,-1,,0.0013858924148429774,0.0013858924148429774
+left palm - right palm,family,silva_family,Chromobacteriaceae,206,1,-1,,0.0002469867615095831,0.0002469867615095831
+left palm - right palm,family,silva_family,Chthoniobacteraceae,206,-1,-1,,3.848522167487685e-05,3.848522167487685e-05
+left palm - right palm,family,silva_family,Deinococcaceae,206,-1,-1,,0.0003934206049193063,0.0003934206049193063
+left palm - right palm,family,silva_family,Dermabacteraceae,206,1,-1,,1.1876045751806497e-06,1.1876045751806497e-06
+left palm - right palm,family,silva_family,Desulfomicrobiaceae,206,1,-1,,0.00011766551615939755,0.00011766551615939755
+left palm - right palm,family,silva_family,Desulfovibrionaceae,206,-1,-1,,0.0038081301161330405,0.0038081301161330405
+left palm - right palm,family,silva_family,Erysipelotrichaceae,206,1,-1,,3.697230064943232e-05,3.697230064943232e-05
+left palm - right palm,family,silva_family,Flavobacteriaceae,206,1,-1,,0.006109371055030912,0.006109371055030912
+left palm - right palm,family,silva_family,Fusobacteriaceae,206,1,-1,,0.028061521568704003,0.028061521568704003
+left palm - right palm,family,silva_family,Gaiellaceae,206,1,-1,,0.0001206119843390869,0.0001206119843390869
+left palm - right palm,family,silva_family,Gemellaceae,206,1,-1,,0.0002875298804131015,0.0002875298804131015
+left palm - right palm,family,silva_family,Geodermatophilaceae,206,1,-1,,0.0008003125358444581,0.0008003125358444581
+left palm - right palm,family,silva_family,Helicobacteraceae,206,-1,-1,,4.496402877697842e-05,4.496402877697842e-05
+left palm - right palm,family,silva_family,Hymenobacteraceae,206,-1,-1,,0.00032081798992107105,0.00032081798992107105
+left palm - right palm,family,silva_family,Lachnospiraceae,206,-1,-1,,0.014949722400738864,0.014949722400738864
+left palm - right palm,family,silva_family,Lactobacillaceae,206,1,-1,,0.00022230462825052635,0.00022230462825052635
+left palm - right palm,family,silva_family,Legionellaceae,206,1,-1,,7.916402786573781e-05,7.916402786573781e-05
+left palm - right palm,family,silva_family,Leptotrichiaceae,206,1,-1,,0.00542100492051879,0.00542100492051879
+left palm - right palm,family,silva_family,Marinifilaceae,206,-1,-1,,5.995203836930456e-05,5.995203836930456e-05
+left palm - right palm,family,silva_family,Methylophilaceae,206,-1,-1,,2.589852336978989e-07,2.589852336978989e-07
+left palm - right palm,family,silva_family,Microbacteriaceae,206,-1,-1,,0.004739127463018517,0.004739127463018517
+left palm - right palm,family,silva_family,Micrococcaceae,206,1,-1,,0.005824053297002065,0.005824053297002065
+left palm - right palm,family,silva_family,Mitochondria,206,1,-1,,0.0024659127795542283,0.0024659127795542283
+left palm - right palm,family,silva_family,Moraxellaceae,206,1,-1,,0.00045162549726073377,0.00045162549726073377
+left palm - right palm,family,silva_family,Muribaculaceae,206,1,-1,,0.00013329537273217774,0.00013329537273217774
+left palm - right palm,family,silva_family,Myxococcaceae,206,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,silva_family,Neisseriaceae,206,1,-1,,0.03433852693110159,0.03433852693110159
+left palm - right palm,family,silva_family,Nitrososphaeraceae,206,-1,-1,,0.00016257929616897616,0.00016257929616897616
+left palm - right palm,family,silva_family,Nocardioidaceae,206,-1,-1,,0.0007811835518836851,0.0007811835518836851
+left palm - right palm,family,silva_family,Paludibacteraceae,206,1,-1,,0.0015374163444748534,0.0015374163444748534
+left palm - right palm,family,silva_family,Pasteurellaceae,206,1,-1,,0.035690920905335356,0.035690920905335356
+left palm - right palm,family,silva_family,Porphyromonadaceae,206,1,-1,,0.001969194330741806,0.0012832002151286312
+left palm - right palm,family,silva_family,Propionibacteriaceae,206,1,-1,,0.001489626840623039,0.001489626840623039
+left palm - right palm,family,silva_family,Pseudomonadaceae,206,1,-1,,0.02311520311163866,0.02311520311163866
+left palm - right palm,family,silva_family,Pseudonocardiaceae,206,-1,-1,,0.0003551346115226046,0.0003551346115226046
+left palm - right palm,family,silva_family,Reyranellaceae,206,1,-1,,0.00011874604179860671,0.00011874604179860671
+left palm - right palm,family,silva_family,Rhizobiaceae,206,-1,-1,,0.0015318290299054483,0.0015318290299054483
+left palm - right palm,family,silva_family,Rhodobacteraceae,206,1,-1,,0.0014258973853044418,0.0014258973853044418
+left palm - right palm,family,silva_family,Rikenellaceae,206,-1,-1,,0.0031474460143654493,0.0031474460143654493
+left palm - right palm,family,silva_family,Ruminococcaceae,206,-1,-1,,0.020780565098991413,0.020780565098991413
+left palm - right palm,family,silva_family,Sphingobacteriaceae,206,1,-1,,0.006557604122256144,0.006557604122256144
+left palm - right palm,family,silva_family,Staphylococcaceae,206,-1,-1,,0.014376636810313821,0.014376636810313821
+left palm - right palm,family,silva_family,Streptococcaceae,206,1,-1,,0.041486307275519926,0.041486307275519926
+left palm - right palm,family,silva_family,Succinivibrionaceae,206,1,-1,,2.786666558468491e-05,2.786666558468491e-05
+left palm - right palm,family,silva_family,Tannerellaceae,206,-1,-1,,0.001528502164430633,0.001528502164430633
+left palm - right palm,family,silva_family,Trueperaceae,206,-1,-1,,5.1313628899835795e-05,5.1313628899835795e-05
+left palm - right palm,family,silva_family,Veillonellaceae,206,1,-1,,0.008062332121933835,0.008062332121933835
+left palm - right palm,family,silva_family,Vibrionaceae,206,-1,-1,,0.0009703271498711652,0.0009703271498711652
+left palm - right palm,family,silva_family,Weeksellaceae,206,1,-1,,0.0027500143910812037,0.0024802302184193338
+left palm - right palm,family,silva_family,Xanthobacteraceae,206,-1,-1,,0.00011545566502463054,0.00011545566502463054
+left palm - right palm,family,silva_family,Xanthomonadaceae,206,1,-1,,0.0008242413043779635,0.0008242413043779635
+left palm - right palm,family,silva_phylum,Acetobacteraceae,40,-1,-1,,0.0007360166629883603,0.0007360166629883603
+left palm - right palm,family,silva_phylum,Acidaminococcaceae,40,-1,-1,,0.010450636102352695,0.010450636102352695
+left palm - right palm,family,silva_phylum,Actinomycetaceae,40,-1,-1,,0.00022133312668602852,0.00022133312668602852
+left palm - right palm,family,silva_phylum,Aerococcaceae,40,-1,-1,,7.066251717433386e-05,7.066251717433372e-05
+left palm - right palm,family,silva_phylum,Aeromonadaceae,40,-1,-1,,0.0003157094918954486,0.0003157094918954486
+left palm - right palm,family,silva_phylum,Akkermansiaceae,40,-1,-1,,0.0024687312517933067,0.0024687312517933067
+left palm - right palm,family,silva_phylum,Anaerovoracaceae,40,1,-1,,0.0013399670077730262,0.0013399670077730262
+left palm - right palm,family,silva_phylum,Arcobacteraceae,40,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,silva_phylum,Atopobiaceae,40,1,-1,,0.00034398520395736607,0.00034398520395736607
+left palm - right palm,family,silva_phylum,Bacteriovoracaceae,40,-1,-1,,2.5656814449917897e-05,2.5656814449917897e-05
+left palm - right palm,family,silva_phylum,Bacteroidaceae,40,-1,-1,,0.12903616388271671,0.12903616388271671
+left palm - right palm,family,silva_phylum,Beijerinckiaceae,40,1,-1,,0.00092291268465348,0.00092291268465348
+left palm - right palm,family,silva_phylum,Bifidobacteriaceae,40,1,-1,,0.00015796068036095053,0.00015796068036095053
+left palm - right palm,family,silva_phylum,Brevibacteriaceae,40,-1,-1,,6.789399381319163e-05,6.789399381319163e-05
+left palm - right palm,family,silva_phylum,Caldilineaceae,40,-1,-1,,5.1313628899835795e-05,5.1313628899835795e-05
+left palm - right palm,family,silva_phylum,Campylobacteraceae,40,1,-1,,0.003217937156940611,0.003217937156940611
+left palm - right palm,family,silva_phylum,Cardiobacteriaceae,40,1,-1,,0.0007053439611649508,0.0007053439611649508
+left palm - right palm,family,silva_phylum,Carnobacteriaceae,40,1,-1,,0.0028009873933072037,0.0028009873933072037
+left palm - right palm,family,silva_phylum,Caulobacteraceae,40,-1,-1,,0.0012508730478558937,0.0012508730478558937
+left palm - right palm,family,silva_phylum,Cellvibrionaceae,40,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,silva_phylum,Chitinophagaceae,40,1,-1,,0.0013858924148429774,0.0013858924148429774
+left palm - right palm,family,silva_phylum,Chromobacteriaceae,40,1,-1,,0.0002469867615095831,0.0002469867615095831
+left palm - right palm,family,silva_phylum,Chthoniobacteraceae,40,-1,-1,,3.848522167487685e-05,3.848522167487685e-05
+left palm - right palm,family,silva_phylum,Deinococcaceae,40,-1,-1,,0.0003934206049193063,0.0003934206049193063
+left palm - right palm,family,silva_phylum,Dermabacteraceae,40,1,-1,,1.1876045751806497e-06,1.1876045751806497e-06
+left palm - right palm,family,silva_phylum,Desulfomicrobiaceae,40,1,-1,,0.00011766551615939755,0.00011766551615939755
+left palm - right palm,family,silva_phylum,Desulfovibrionaceae,40,-1,-1,,0.0038081301161330405,0.0038081301161330405
+left palm - right palm,family,silva_phylum,Erysipelotrichaceae,40,1,-1,,3.697230064943232e-05,3.697230064943232e-05
+left palm - right palm,family,silva_phylum,Flavobacteriaceae,40,1,-1,,0.006109371055030912,0.006109371055030912
+left palm - right palm,family,silva_phylum,Fusobacteriaceae,40,1,-1,,0.028061521568704003,0.028061521568704003
+left palm - right palm,family,silva_phylum,Gaiellaceae,40,1,-1,,0.0001206119843390869,0.0001206119843390869
+left palm - right palm,family,silva_phylum,Gemellaceae,40,1,-1,,0.0002875298804131015,0.0002875298804131015
+left palm - right palm,family,silva_phylum,Geodermatophilaceae,40,1,-1,,0.0008003125358444581,0.0008003125358444581
+left palm - right palm,family,silva_phylum,Helicobacteraceae,40,-1,-1,,4.496402877697842e-05,4.496402877697842e-05
+left palm - right palm,family,silva_phylum,Hymenobacteraceae,40,-1,-1,,0.00032081798992107105,0.00032081798992107105
+left palm - right palm,family,silva_phylum,Lachnospiraceae,40,-1,-1,,0.014949722400738864,0.014949722400738864
+left palm - right palm,family,silva_phylum,Lactobacillaceae,40,1,-1,,0.00022230462825052635,0.00022230462825052635
+left palm - right palm,family,silva_phylum,Legionellaceae,40,1,-1,,7.916402786573781e-05,7.916402786573781e-05
+left palm - right palm,family,silva_phylum,Leptotrichiaceae,40,1,-1,,0.00542100492051879,0.00542100492051879
+left palm - right palm,family,silva_phylum,Marinifilaceae,40,-1,-1,,5.995203836930456e-05,5.995203836930456e-05
+left palm - right palm,family,silva_phylum,Methylophilaceae,40,-1,-1,,2.589852336978989e-07,2.589852336978989e-07
+left palm - right palm,family,silva_phylum,Microbacteriaceae,40,-1,-1,,0.004739127463018517,0.004739127463018517
+left palm - right palm,family,silva_phylum,Micrococcaceae,40,1,-1,,0.005824053297002065,0.005824053297002065
+left palm - right palm,family,silva_phylum,Mitochondria,40,1,-1,,0.0024659127795542283,0.0024659127795542283
+left palm - right palm,family,silva_phylum,Moraxellaceae,40,1,-1,,0.00045162549726073377,0.00045162549726073377
+left palm - right palm,family,silva_phylum,Muribaculaceae,40,1,-1,,0.00013329537273217774,0.00013329537273217774
+left palm - right palm,family,silva_phylum,Myxococcaceae,40,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,family,silva_phylum,Neisseriaceae,40,1,-1,,0.03433852693110159,0.03433852693110159
+left palm - right palm,family,silva_phylum,Nitrososphaeraceae,40,-1,-1,,0.00016257929616897616,0.00016257929616897616
+left palm - right palm,family,silva_phylum,Nocardioidaceae,40,-1,-1,,0.0007811835518836851,0.0007811835518836851
+left palm - right palm,family,silva_phylum,Paludibacteraceae,40,1,-1,,0.0015374163444748534,0.0015374163444748534
+left palm - right palm,family,silva_phylum,Pasteurellaceae,40,1,-1,,0.035690920905335356,0.035690920905335356
+left palm - right palm,family,silva_phylum,Porphyromonadaceae,40,1,-1,,0.0019691943307418064,0.0019691943307418064
+left palm - right palm,family,silva_phylum,Propionibacteriaceae,40,1,-1,,0.001489626840623039,0.001489626840623039
+left palm - right palm,family,silva_phylum,Pseudomonadaceae,40,1,-1,,0.02311520311163866,0.02311520311163866
+left palm - right palm,family,silva_phylum,Pseudonocardiaceae,40,-1,-1,,0.0003551346115226046,0.0003551346115226046
+left palm - right palm,family,silva_phylum,Reyranellaceae,40,1,-1,,0.00011874604179860671,0.00011874604179860671
+left palm - right palm,family,silva_phylum,Rhizobiaceae,40,-1,-1,,0.0015318290299054483,0.0015318290299054483
+left palm - right palm,family,silva_phylum,Rhodobacteraceae,40,1,-1,,0.0014258973853044418,0.0014258973853044418
+left palm - right palm,family,silva_phylum,Rikenellaceae,40,-1,-1,,0.0031474460143654493,0.0031474460143654493
+left palm - right palm,family,silva_phylum,Ruminococcaceae,40,-1,-1,,0.020780565098991413,0.020780565098991413
+left palm - right palm,family,silva_phylum,Sphingobacteriaceae,40,1,-1,,0.006557604122256144,0.006557604122256144
+left palm - right palm,family,silva_phylum,Staphylococcaceae,40,-1,-1,,0.014376636810313821,0.014376636810313821
+left palm - right palm,family,silva_phylum,Streptococcaceae,40,1,-1,,0.041486307275519926,0.041486307275519926
+left palm - right palm,family,silva_phylum,Succinivibrionaceae,40,1,-1,,2.786666558468491e-05,2.786666558468491e-05
+left palm - right palm,family,silva_phylum,Tannerellaceae,40,-1,-1,,0.001528502164430633,0.001528502164430633
+left palm - right palm,family,silva_phylum,Trueperaceae,40,-1,-1,,5.1313628899835795e-05,5.1313628899835795e-05
+left palm - right palm,family,silva_phylum,Veillonellaceae,40,1,-1,,0.008062332121933835,0.008062332121933835
+left palm - right palm,family,silva_phylum,Vibrionaceae,40,-1,-1,,0.0009703271498711652,0.0009703271498711652
+left palm - right palm,family,silva_phylum,Weeksellaceae,40,1,-1,,0.002750014391081204,0.002750014391081204
+left palm - right palm,family,silva_phylum,Xanthobacteraceae,40,-1,-1,,0.00011545566502463054,0.00011545566502463054
+left palm - right palm,family,silva_phylum,Xanthomonadaceae,40,1,-1,,0.0008242413043779635,0.0008242413043779635
+left palm - right palm,genus,feature,Abiotrophia,770,-1,-1,,0.00015317521263048974,0.00015317521263048974
+left palm - right palm,genus,feature,Acinetobacter,770,1,-1,,0.003154390593200898,0.003154390593200898
+left palm - right palm,genus,feature,Actinomyces,770,1,-1,,0.0002139887503056982,0.00012418989973098557
+left palm - right palm,genus,feature,Actinomycetospora,770,-1,-1,,0.0003551346115226046,0.0003551346115226046
+left palm - right palm,genus,feature,Aeromicrobium,770,-1,-1,,0.00010319488643794418,0.00010319488643794418
+left palm - right palm,genus,feature,Akkermansia,770,-1,-1,,0.002564102564102564,0.002564102564102564
+left palm - right palm,genus,feature,Alcaligenes,770,-1,-1,,6.414203612479475e-05,6.414203612479475e-05
+left palm - right palm,genus,feature,Alloprevotella,770,-1,-1,,0.00039762549419313864,0.00039762549419313864
+left palm - right palm,genus,feature,Ammoniibacillus,770,-1,-1,,6.414203612479475e-05,6.414203612479475e-05
+left palm - right palm,genus,feature,Anaerococcus,770,1,-1,,0.0002783683413434229,0.0002783683413434229
+left palm - right palm,genus,feature,Anaerostipes,770,-1,-1,,0.0008918617614269788,0.0008918617614269788
+left palm - right palm,genus,feature,Bilophila,770,-1,-1,,0.000900720576461169,0.000900720576461169
+left palm - right palm,genus,feature,Blastococcus,770,1,-1,,0.0008003125358444581,0.0008003125358444581
+left palm - right palm,genus,feature,Brevibacterium,770,-1,-1,,6.789399381319163e-05,6.789399381319163e-05
+left palm - right palm,genus,feature,Brevundimonas,770,-1,-1,,0.0008808396444867567,0.0008808396444867567
+left palm - right palm,genus,feature,Capnocytophaga,770,1,-1,,0.0019501564906042055,0.0019501564906042052
+left palm - right palm,genus,feature,Cardiobacterium,770,1,-1,,0.0005605483964657907,0.0005605483964657907
+left palm - right palm,genus,feature,Catenibacterium,770,-1,-1,,7.103369615898764e-05,7.103369615898764e-05
+left palm - right palm,genus,feature,Cellvibrio,770,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,genus,feature,Centipeda,770,1,-1,,0.0007339745649123699,0.0007339745649123699
+left palm - right palm,genus,feature,Cloacibacterium,770,1,-1,,0.00013260500450097706,0.00013260500450097706
+left palm - right palm,genus,feature,Conchiformibius,770,1,-1,,0.0032304075113461887,0.0032304075113461887
+left palm - right palm,genus,feature,Corynebacterium,770,1,1,0.0012987012987012987,0.0024592335193047857,-0.003975902711516075
+left palm - right palm,genus,feature,Cutibacterium,770,1,-1,,0.001489626840623039,0.001489626840623039
+left palm - right palm,genus,feature,Dermabacter,770,1,-1,,1.1876045751806497e-06,1.1876045751806497e-06
+left palm - right palm,genus,feature,Desulfomicrobium,770,1,-1,,0.00011766551615939755,0.00011766551615939755
+left palm - right palm,genus,feature,Dolosigranulum,770,1,-1,,0.0028009873933072037,0.0028009873933072037
+left palm - right palm,genus,feature,Eremococcus,770,-1,-1,,0.000140020366598778,0.000140020366598778
+left palm - right palm,genus,feature,Ezakiella,770,-1,-1,,0.0010047940250819468,0.0010047940250819468
+left palm - right palm,genus,feature,F0058,770,1,-1,,0.0015374163444748534,0.0015374163444748534
+left palm - right palm,genus,feature,Faecalibacterium,770,-1,-1,,0.01952622262620387,0.01952622262620387
+left palm - right palm,genus,feature,Faecalibaculum,770,1,-1,,0.000181764025132016,0.000181764025132016
+left palm - right palm,genus,feature,Fastidiosipila,770,1,-1,,0.00023602291029410234,0.00023602291029410234
+left palm - right palm,genus,feature,Fenollaria,770,1,-1,,0.00010595809782914405,0.00010595809782914405
+left palm - right palm,genus,feature,Filifactor,770,1,-1,,0.00015832805573147562,0.00015832805573147562
+left palm - right palm,genus,feature,Finegoldia,770,1,-1,,0.0011518160243417959,0.0011518160243417959
+left palm - right palm,genus,feature,Flavobacterium,770,1,-1,,0.0026190980276937772,0.002383766995374982
+left palm - right palm,genus,feature,Flectobacillus,770,-1,-1,,0.006330628908513071,0.006330628908513071
+left palm - right palm,genus,feature,Frederiksenia,770,1,-1,,0.005267420458667685,0.005267420458667685
+left palm - right palm,genus,feature,Fretibacterium,770,1,-1,,0.0006574005864424897,0.0006574005864424897
+left palm - right palm,genus,feature,Fusicatenibacter,770,-1,-1,,0.001301040832666133,0.001301040832666133
+left palm - right palm,genus,feature,Gaiella,770,1,-1,,0.0001206119843390869,0.0001206119843390869
+left palm - right palm,genus,feature,Gemella,770,1,-1,,0.0002875298804131015,0.0002875298804131015
+left palm - right palm,genus,feature,Glutamicibacter,770,-1,-1,,0.0001948441247002398,0.0001948441247002398
+left palm - right palm,genus,feature,Hathewaya,770,-1,-1,,5.995203836930456e-05,5.995203836930456e-05
+left palm - right palm,genus,feature,Helcococcus,770,1,-1,,0.0002444515031875676,0.0002444515031875676
+left palm - right palm,genus,feature,Holdemanella,770,-1,-1,,0.00046925272372625923,0.00046925272372625923
+left palm - right palm,genus,feature,Hydrogenispora,770,1,-1,,7.844367743959836e-05,7.844367743959836e-05
+left palm - right palm,genus,feature,Johnsonella,770,1,-1,,0.00011215575641567784,0.00011215575641567784
+left palm - right palm,genus,feature,Kineococcus,770,-1,-1,,0.00010262725779967159,0.00010262725779967159
+left palm - right palm,genus,feature,Lachnoanaerobaculum,770,1,-1,,0.0016376993621747397,0.0016376993621747397
+left palm - right palm,genus,feature,Lachnospira,770,-1,-1,,0.0019419912746505264,0.0019419912746505264
+left palm - right palm,genus,feature,Lactobacillus,770,1,-1,,4.51366517926848e-06,4.51366517926848e-06
+left palm - right palm,genus,feature,Latilactobacillus,770,1,-1,,0.0009451774364679706,0.0009451774364679706
+left palm - right palm,genus,feature,Lautropia,770,1,-1,,0.004153235552685054,0.004153235552685054
+left palm - right palm,genus,feature,Lawsonella,770,1,-1,,0.00478806044910122,0.00478806044910122
+left palm - right palm,genus,feature,Ligilactobacillus,770,1,-1,,0.000451884936266684,0.000451884936266684
+left palm - right palm,genus,feature,Megamonas,770,-1,-1,,0.001511434521535659,0.001511434521535659
+left palm - right palm,genus,feature,Methylophilus,770,-1,-1,,2.589852336978989e-07,2.589852336978989e-07
+left palm - right palm,genus,feature,Micrococcus,770,1,-1,,0.0010775992957763388,0.0010775992957763388
+left palm - right palm,genus,feature,Microvirga,770,-1,-1,,0.00017959770114942528,0.00017959770114942528
+left palm - right palm,genus,feature,Murdochiella,770,-1,-1,,6.202625707732229e-05,6.202625707732229e-05
+left palm - right palm,genus,feature,Mycobacterium,770,-1,-1,,0.00019242610837438425,0.00019242610837438425
+left palm - right palm,genus,feature,Negativicoccus,770,-1,-1,,0.00014543168420928283,0.00014543168420928283
+left palm - right palm,genus,feature,Oceanisphaera,770,-1,-1,,0.0003157094918954486,0.0003157094918954486
+left palm - right palm,genus,feature,Oceanivirga,770,1,-1,,0.00206606533872973,0.00206606533872973
+left palm - right palm,genus,feature,Oligella,770,-1,-1,,0.0006359544500016825,0.0006359544500016825
+left palm - right palm,genus,feature,Oribacterium,770,1,-1,,0.0013509590138777374,0.0013509590138777374
+left palm - right palm,genus,feature,Paenalcaligenes,770,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,genus,feature,Paeniglutamicibacter,770,1,-1,,0.0009021022905553812,0.0009021022905553812
+left palm - right palm,genus,feature,Paraperlucidibaca,770,-1,-1,,0.00038386401412083345,0.00038386401412083345
+left palm - right palm,genus,feature,Parvimonas,770,1,-1,,0.0023862025924669995,0.0023862025924669995
+left palm - right palm,genus,feature,Peptostreptococcus,770,1,-1,,0.000308303809485386,0.000308303809485386
+left palm - right palm,genus,feature,Peredibacter,770,-1,-1,,2.5656814449917897e-05,2.5656814449917897e-05
+left palm - right palm,genus,feature,Phreatobacter,770,-1,-1,,0.00012729124236252545,0.00012729124236252545
+left palm - right palm,genus,feature,Prevotella,770,1,4,0.005194805194805195,0.0027649271385818595,-0.0001172369723837015
+left palm - right palm,genus,feature,Pseudogracilibacillus,770,1,-1,,0.0001961091935989959,0.0001961091935989959
+left palm - right palm,genus,feature,Psychrobacter,770,-1,-1,,0.0028024784808833242,0.0028024784808833242
+left palm - right palm,genus,feature,Reyranella,770,1,-1,,0.00011874604179860671,0.00011874604179860671
+left palm - right palm,genus,feature,Rothia,770,1,-1,,0.004603645753268781,0.004603645753268781
+left palm - right palm,genus,feature,S5-A14a,770,-1,-1,,3.848522167487685e-05,3.848522167487685e-05
+left palm - right palm,genus,feature,Scardovia,770,1,-1,,0.00015796068036095053,0.00015796068036095053
+left palm - right palm,genus,feature,Segetibacter,770,-1,-1,,0.00016676929392446635,0.00016676929392446635
+left palm - right palm,genus,feature,Shuttleworthia,770,1,-1,,9.170946441672781e-05,9.170946441672781e-05
+left palm - right palm,genus,feature,Skermanella,770,-1,-1,,3.2912759940332124e-05,3.2912759940332124e-05
+left palm - right palm,genus,feature,Sphingobacterium,770,1,-1,,0.001266624445851805,0.001266624445851805
+left palm - right palm,genus,feature,Staphylococcus,770,-1,-1,,0.014376636810313821,0.014376636810313821
+left palm - right palm,genus,feature,Streptococcus,770,1,-1,,0.03724021826584316,0.03724021826584316
+left palm - right palm,genus,feature,Tannerella,770,1,-1,,0.0005731791806454279,0.0005731791806454279
+left palm - right palm,genus,feature,Tepidiphilus,770,-1,-1,,7.494004796163069e-05,7.494004796163069e-05
+left palm - right palm,genus,feature,Varibaculum,770,-1,-1,,0.00019242610837438425,0.00019242610837438425
+left palm - right palm,genus,feature,Vogesella,770,1,-1,,0.0002469867615095831,0.0002469867615095831
+left palm - right palm,genus,feature,Weissella,770,1,-1,,9.420550328269339e-07,9.420550328269339e-07
+left palm - right palm,genus,silva_family,Abiotrophia,206,-1,-1,,0.00015317521263048974,0.00015317521263048974
+left palm - right palm,genus,silva_family,Acinetobacter,206,1,-1,,0.0031543905932008972,0.0031543905932008972
+left palm - right palm,genus,silva_family,Actinomyces,206,1,-1,,0.0002139887503056982,0.0002139887503056982
+left palm - right palm,genus,silva_family,Actinomycetospora,206,-1,-1,,0.0003551346115226046,0.0003551346115226046
+left palm - right palm,genus,silva_family,Aeromicrobium,206,-1,-1,,0.00010319488643794418,0.00010319488643794418
+left palm - right palm,genus,silva_family,Akkermansia,206,-1,-1,,0.002564102564102564,0.002564102564102564
+left palm - right palm,genus,silva_family,Alcaligenes,206,-1,-1,,6.414203612479475e-05,6.414203612479475e-05
+left palm - right palm,genus,silva_family,Alloprevotella,206,-1,-1,,0.00039762549419313864,0.00039762549419313864
+left palm - right palm,genus,silva_family,Ammoniibacillus,206,-1,-1,,6.414203612479475e-05,6.414203612479475e-05
+left palm - right palm,genus,silva_family,Anaerococcus,206,1,-1,,0.0002783683413434226,0.0002783683413434226
+left palm - right palm,genus,silva_family,Anaerostipes,206,-1,-1,,0.0008918617614269788,0.0008918617614269788
+left palm - right palm,genus,silva_family,Bilophila,206,-1,-1,,0.000900720576461169,0.000900720576461169
+left palm - right palm,genus,silva_family,Blastococcus,206,1,-1,,0.0008003125358444581,0.0008003125358444581
+left palm - right palm,genus,silva_family,Brevibacterium,206,-1,-1,,6.789399381319163e-05,6.789399381319163e-05
+left palm - right palm,genus,silva_family,Brevundimonas,206,-1,-1,,0.0008808396444867569,0.0008808396444867569
+left palm - right palm,genus,silva_family,Capnocytophaga,206,1,-1,,0.0019501564906042052,0.0019501564906042052
+left palm - right palm,genus,silva_family,Cardiobacterium,206,1,-1,,0.0005605483964657907,0.0005605483964657907
+left palm - right palm,genus,silva_family,Catenibacterium,206,-1,-1,,7.103369615898764e-05,7.103369615898764e-05
+left palm - right palm,genus,silva_family,Cellvibrio,206,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,genus,silva_family,Centipeda,206,1,-1,,0.0007339745649123699,0.0007339745649123699
+left palm - right palm,genus,silva_family,Cloacibacterium,206,1,-1,,0.00013260500450097706,0.00013260500450097706
+left palm - right palm,genus,silva_family,Conchiformibius,206,1,-1,,0.0032304075113461887,0.0032304075113461887
+left palm - right palm,genus,silva_family,Corynebacterium,206,1,-1,,0.002459233519304787,0.0023822630759550334
+left palm - right palm,genus,silva_family,Cutibacterium,206,1,-1,,0.001489626840623039,0.001489626840623039
+left palm - right palm,genus,silva_family,Dermabacter,206,1,-1,,1.1876045751806497e-06,1.1876045751806497e-06
+left palm - right palm,genus,silva_family,Desulfomicrobium,206,1,-1,,0.00011766551615939755,0.00011766551615939755
+left palm - right palm,genus,silva_family,Dolosigranulum,206,1,-1,,0.0028009873933072037,0.0028009873933072037
+left palm - right palm,genus,silva_family,Eremococcus,206,-1,-1,,0.000140020366598778,0.000140020366598778
+left palm - right palm,genus,silva_family,Ezakiella,206,-1,-1,,0.0010047940250819468,0.0010047940250819468
+left palm - right palm,genus,silva_family,F0058,206,1,-1,,0.0015374163444748534,0.0015374163444748534
+left palm - right palm,genus,silva_family,Faecalibacterium,206,-1,-1,,0.01952622262620387,0.01952622262620387
+left palm - right palm,genus,silva_family,Faecalibaculum,206,1,-1,,0.000181764025132016,0.000181764025132016
+left palm - right palm,genus,silva_family,Fastidiosipila,206,1,-1,,0.00023602291029410234,0.00023602291029410234
+left palm - right palm,genus,silva_family,Fenollaria,206,1,-1,,0.00010595809782914405,0.00010595809782914405
+left palm - right palm,genus,silva_family,Filifactor,206,1,-1,,0.00015832805573147562,0.00015832805573147562
+left palm - right palm,genus,silva_family,Finegoldia,206,1,-1,,0.0011518160243417959,0.0011518160243417959
+left palm - right palm,genus,silva_family,Flavobacterium,206,1,-1,,0.0026190980276937772,0.002383766995374982
+left palm - right palm,genus,silva_family,Flectobacillus,206,-1,-1,,0.006330628908513071,0.006330628908513071
+left palm - right palm,genus,silva_family,Frederiksenia,206,1,-1,,0.005267420458667685,0.005267420458667685
+left palm - right palm,genus,silva_family,Fretibacterium,206,1,-1,,0.0006574005864424897,0.0006574005864424897
+left palm - right palm,genus,silva_family,Fusicatenibacter,206,-1,-1,,0.001301040832666133,0.001301040832666133
+left palm - right palm,genus,silva_family,Gaiella,206,1,-1,,0.0001206119843390869,0.0001206119843390869
+left palm - right palm,genus,silva_family,Gemella,206,1,-1,,0.0002875298804131015,0.0002875298804131015
+left palm - right palm,genus,silva_family,Glutamicibacter,206,-1,-1,,0.0001948441247002398,0.0001948441247002398
+left palm - right palm,genus,silva_family,Hathewaya,206,-1,-1,,5.995203836930456e-05,5.995203836930456e-05
+left palm - right palm,genus,silva_family,Helcococcus,206,1,-1,,0.0002444515031875676,0.0002444515031875676
+left palm - right palm,genus,silva_family,Holdemanella,206,-1,-1,,0.00046925272372625923,0.00046925272372625923
+left palm - right palm,genus,silva_family,Hydrogenispora,206,1,-1,,7.844367743959836e-05,7.844367743959836e-05
+left palm - right palm,genus,silva_family,Johnsonella,206,1,-1,,0.00011215575641567784,0.00011215575641567784
+left palm - right palm,genus,silva_family,Kineococcus,206,-1,-1,,0.00010262725779967159,0.00010262725779967159
+left palm - right palm,genus,silva_family,Lachnoanaerobaculum,206,1,-1,,0.0016376993621747397,0.0016376993621747397
+left palm - right palm,genus,silva_family,Lachnospira,206,-1,-1,,0.0019419912746505264,0.0019419912746505264
+left palm - right palm,genus,silva_family,Lactobacillus,206,1,-1,,4.513665179268372e-06,4.513665179268372e-06
+left palm - right palm,genus,silva_family,Latilactobacillus,206,1,-1,,0.0009451774364679706,0.0009451774364679706
+left palm - right palm,genus,silva_family,Lautropia,206,1,-1,,0.004153235552685054,0.004153235552685054
+left palm - right palm,genus,silva_family,Lawsonella,206,1,-1,,0.00478806044910122,0.00478806044910122
+left palm - right palm,genus,silva_family,Ligilactobacillus,206,1,-1,,0.000451884936266684,0.000451884936266684
+left palm - right palm,genus,silva_family,Megamonas,206,-1,-1,,0.001511434521535659,0.001511434521535659
+left palm - right palm,genus,silva_family,Methylophilus,206,-1,-1,,2.589852336978989e-07,2.589852336978989e-07
+left palm - right palm,genus,silva_family,Micrococcus,206,1,-1,,0.0010775992957763388,0.0010775992957763388
+left palm - right palm,genus,silva_family,Microvirga,206,-1,-1,,0.00017959770114942528,0.00017959770114942528
+left palm - right palm,genus,silva_family,Murdochiella,206,-1,-1,,6.202625707732229e-05,6.202625707732229e-05
+left palm - right palm,genus,silva_family,Mycobacterium,206,-1,-1,,0.00019242610837438425,0.00019242610837438425
+left palm - right palm,genus,silva_family,Negativicoccus,206,-1,-1,,0.00014543168420928283,0.00014543168420928283
+left palm - right palm,genus,silva_family,Oceanisphaera,206,-1,-1,,0.0003157094918954486,0.0003157094918954486
+left palm - right palm,genus,silva_family,Oceanivirga,206,1,-1,,0.00206606533872973,0.00206606533872973
+left palm - right palm,genus,silva_family,Oligella,206,-1,-1,,0.0006359544500016825,0.0006359544500016825
+left palm - right palm,genus,silva_family,Oribacterium,206,1,-1,,0.0013509590138777374,0.0013509590138777374
+left palm - right palm,genus,silva_family,Paenalcaligenes,206,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,genus,silva_family,Paeniglutamicibacter,206,1,-1,,0.0009021022905553812,0.0009021022905553812
+left palm - right palm,genus,silva_family,Paraperlucidibaca,206,-1,-1,,0.00038386401412083345,0.00038386401412083345
+left palm - right palm,genus,silva_family,Parvimonas,206,1,-1,,0.0023862025924669995,0.0023862025924669995
+left palm - right palm,genus,silva_family,Peptostreptococcus,206,1,-1,,0.000308303809485386,0.000308303809485386
+left palm - right palm,genus,silva_family,Peredibacter,206,-1,-1,,2.5656814449917897e-05,2.5656814449917897e-05
+left palm - right palm,genus,silva_family,Phreatobacter,206,-1,-1,,0.00012729124236252545,0.00012729124236252545
+left palm - right palm,genus,silva_family,Prevotella,206,1,-1,,0.0027649271385818595,0.0027649271385818595
+left palm - right palm,genus,silva_family,Pseudogracilibacillus,206,1,-1,,0.0001961091935989959,0.0001961091935989959
+left palm - right palm,genus,silva_family,Psychrobacter,206,-1,-1,,0.0028024784808833242,0.0028024784808833242
+left palm - right palm,genus,silva_family,Reyranella,206,1,-1,,0.00011874604179860671,0.00011874604179860671
+left palm - right palm,genus,silva_family,Rothia,206,1,-1,,0.00460364575326878,0.00460364575326878
+left palm - right palm,genus,silva_family,S5-A14a,206,-1,-1,,3.848522167487685e-05,3.848522167487685e-05
+left palm - right palm,genus,silva_family,Scardovia,206,1,-1,,0.00015796068036095053,0.00015796068036095053
+left palm - right palm,genus,silva_family,Segetibacter,206,-1,-1,,0.00016676929392446635,0.00016676929392446635
+left palm - right palm,genus,silva_family,Shuttleworthia,206,1,-1,,9.170946441672781e-05,9.170946441672781e-05
+left palm - right palm,genus,silva_family,Skermanella,206,-1,-1,,3.2912759940332124e-05,3.2912759940332124e-05
+left palm - right palm,genus,silva_family,Sphingobacterium,206,1,-1,,0.001266624445851805,0.001266624445851805
+left palm - right palm,genus,silva_family,Staphylococcus,206,-1,-1,,0.014376636810313821,0.014376636810313821
+left palm - right palm,genus,silva_family,Streptococcus,206,1,-1,,0.037240218265843165,0.037240218265843165
+left palm - right palm,genus,silva_family,Tannerella,206,1,-1,,0.0005731791806454279,0.0005731791806454279
+left palm - right palm,genus,silva_family,Tepidiphilus,206,-1,-1,,7.494004796163069e-05,7.494004796163069e-05
+left palm - right palm,genus,silva_family,Varibaculum,206,-1,-1,,0.00019242610837438425,0.00019242610837438425
+left palm - right palm,genus,silva_family,Vogesella,206,1,-1,,0.0002469867615095831,0.0002469867615095831
+left palm - right palm,genus,silva_family,Weissella,206,1,-1,,9.420550328269339e-07,9.420550328269339e-07
+left palm - right palm,genus,silva_phylum,Abiotrophia,40,-1,-1,,0.00015317521263048974,0.00015317521263048974
+left palm - right palm,genus,silva_phylum,Acinetobacter,40,1,-1,,0.0031543905932008972,0.0031543905932008972
+left palm - right palm,genus,silva_phylum,Actinomyces,40,1,-1,,0.0002139887503056982,0.0002139887503056982
+left palm - right palm,genus,silva_phylum,Actinomycetospora,40,-1,-1,,0.0003551346115226046,0.0003551346115226046
+left palm - right palm,genus,silva_phylum,Aeromicrobium,40,-1,-1,,0.00010319488643794418,0.00010319488643794418
+left palm - right palm,genus,silva_phylum,Akkermansia,40,-1,-1,,0.002564102564102564,0.002564102564102564
+left palm - right palm,genus,silva_phylum,Alcaligenes,40,-1,-1,,6.414203612479475e-05,6.414203612479475e-05
+left palm - right palm,genus,silva_phylum,Alloprevotella,40,-1,-1,,0.00039762549419313864,0.00039762549419313864
+left palm - right palm,genus,silva_phylum,Ammoniibacillus,40,-1,-1,,6.414203612479475e-05,6.414203612479475e-05
+left palm - right palm,genus,silva_phylum,Anaerococcus,40,1,-1,,0.0002783683413434226,0.0002783683413434226
+left palm - right palm,genus,silva_phylum,Anaerostipes,40,-1,-1,,0.0008918617614269788,0.0008918617614269788
+left palm - right palm,genus,silva_phylum,Bilophila,40,-1,-1,,0.000900720576461169,0.000900720576461169
+left palm - right palm,genus,silva_phylum,Blastococcus,40,1,-1,,0.0008003125358444581,0.0008003125358444581
+left palm - right palm,genus,silva_phylum,Brevibacterium,40,-1,-1,,6.789399381319163e-05,6.789399381319163e-05
+left palm - right palm,genus,silva_phylum,Brevundimonas,40,-1,-1,,0.0008808396444867569,0.0008808396444867569
+left palm - right palm,genus,silva_phylum,Capnocytophaga,40,1,-1,,0.0019501564906042052,0.0019501564906042052
+left palm - right palm,genus,silva_phylum,Cardiobacterium,40,1,-1,,0.0005605483964657907,0.0005605483964657907
+left palm - right palm,genus,silva_phylum,Catenibacterium,40,-1,-1,,7.103369615898764e-05,7.103369615898764e-05
+left palm - right palm,genus,silva_phylum,Cellvibrio,40,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,genus,silva_phylum,Centipeda,40,1,-1,,0.0007339745649123699,0.0007339745649123699
+left palm - right palm,genus,silva_phylum,Cloacibacterium,40,1,-1,,0.00013260500450097706,0.00013260500450097706
+left palm - right palm,genus,silva_phylum,Conchiformibius,40,1,-1,,0.0032304075113461887,0.0032304075113461887
+left palm - right palm,genus,silva_phylum,Corynebacterium,40,1,-1,,0.002459233519304787,0.002459233519304787
+left palm - right palm,genus,silva_phylum,Cutibacterium,40,1,-1,,0.001489626840623039,0.001489626840623039
+left palm - right palm,genus,silva_phylum,Dermabacter,40,1,-1,,1.1876045751806497e-06,1.1876045751806497e-06
+left palm - right palm,genus,silva_phylum,Desulfomicrobium,40,1,-1,,0.00011766551615939755,0.00011766551615939755
+left palm - right palm,genus,silva_phylum,Dolosigranulum,40,1,-1,,0.0028009873933072037,0.0028009873933072037
+left palm - right palm,genus,silva_phylum,Eremococcus,40,-1,-1,,0.000140020366598778,0.000140020366598778
+left palm - right palm,genus,silva_phylum,Ezakiella,40,-1,-1,,0.0010047940250819468,0.0010047940250819468
+left palm - right palm,genus,silva_phylum,F0058,40,1,-1,,0.0015374163444748534,0.0015374163444748534
+left palm - right palm,genus,silva_phylum,Faecalibacterium,40,-1,-1,,0.01952622262620387,0.01952622262620387
+left palm - right palm,genus,silva_phylum,Faecalibaculum,40,1,-1,,0.000181764025132016,0.000181764025132016
+left palm - right palm,genus,silva_phylum,Fastidiosipila,40,1,-1,,0.00023602291029410234,0.00023602291029410234
+left palm - right palm,genus,silva_phylum,Fenollaria,40,1,-1,,0.00010595809782914405,0.00010595809782914405
+left palm - right palm,genus,silva_phylum,Filifactor,40,1,-1,,0.00015832805573147562,0.00015832805573147562
+left palm - right palm,genus,silva_phylum,Finegoldia,40,1,-1,,0.0011518160243417959,0.0011518160243417959
+left palm - right palm,genus,silva_phylum,Flavobacterium,40,1,-1,,0.0026190980276937772,0.0026190980276937772
+left palm - right palm,genus,silva_phylum,Flectobacillus,40,-1,-1,,0.006330628908513071,0.006330628908513071
+left palm - right palm,genus,silva_phylum,Frederiksenia,40,1,-1,,0.005267420458667685,0.005267420458667685
+left palm - right palm,genus,silva_phylum,Fretibacterium,40,1,-1,,0.0006574005864424897,0.0006574005864424897
+left palm - right palm,genus,silva_phylum,Fusicatenibacter,40,-1,-1,,0.001301040832666133,0.001301040832666133
+left palm - right palm,genus,silva_phylum,Gaiella,40,1,-1,,0.0001206119843390869,0.0001206119843390869
+left palm - right palm,genus,silva_phylum,Gemella,40,1,-1,,0.0002875298804131015,0.0002875298804131015
+left palm - right palm,genus,silva_phylum,Glutamicibacter,40,-1,-1,,0.0001948441247002398,0.0001948441247002398
+left palm - right palm,genus,silva_phylum,Hathewaya,40,-1,-1,,5.995203836930456e-05,5.995203836930456e-05
+left palm - right palm,genus,silva_phylum,Helcococcus,40,1,-1,,0.0002444515031875676,0.0002444515031875676
+left palm - right palm,genus,silva_phylum,Holdemanella,40,-1,-1,,0.00046925272372625923,0.00046925272372625923
+left palm - right palm,genus,silva_phylum,Hydrogenispora,40,1,-1,,7.844367743959836e-05,7.844367743959836e-05
+left palm - right palm,genus,silva_phylum,Johnsonella,40,1,-1,,0.00011215575641567784,0.00011215575641567784
+left palm - right palm,genus,silva_phylum,Kineococcus,40,-1,-1,,0.00010262725779967159,0.00010262725779967159
+left palm - right palm,genus,silva_phylum,Lachnoanaerobaculum,40,1,-1,,0.0016376993621747397,0.0016376993621747397
+left palm - right palm,genus,silva_phylum,Lachnospira,40,-1,-1,,0.0019419912746505264,0.0019419912746505264
+left palm - right palm,genus,silva_phylum,Lactobacillus,40,1,-1,,4.513665179268372e-06,4.513665179268372e-06
+left palm - right palm,genus,silva_phylum,Latilactobacillus,40,1,-1,,0.0009451774364679706,0.0009451774364679706
+left palm - right palm,genus,silva_phylum,Lautropia,40,1,-1,,0.004153235552685054,0.004153235552685054
+left palm - right palm,genus,silva_phylum,Lawsonella,40,1,-1,,0.00478806044910122,0.00478806044910122
+left palm - right palm,genus,silva_phylum,Ligilactobacillus,40,1,-1,,0.000451884936266684,0.000451884936266684
+left palm - right palm,genus,silva_phylum,Megamonas,40,-1,-1,,0.001511434521535659,0.001511434521535659
+left palm - right palm,genus,silva_phylum,Methylophilus,40,-1,-1,,2.589852336978989e-07,2.589852336978989e-07
+left palm - right palm,genus,silva_phylum,Micrococcus,40,1,-1,,0.0010775992957763388,0.0010775992957763388
+left palm - right palm,genus,silva_phylum,Microvirga,40,-1,-1,,0.00017959770114942528,0.00017959770114942528
+left palm - right palm,genus,silva_phylum,Murdochiella,40,-1,-1,,6.202625707732229e-05,6.202625707732229e-05
+left palm - right palm,genus,silva_phylum,Mycobacterium,40,-1,-1,,0.00019242610837438425,0.00019242610837438425
+left palm - right palm,genus,silva_phylum,Negativicoccus,40,-1,-1,,0.00014543168420928283,0.00014543168420928283
+left palm - right palm,genus,silva_phylum,Oceanisphaera,40,-1,-1,,0.0003157094918954486,0.0003157094918954486
+left palm - right palm,genus,silva_phylum,Oceanivirga,40,1,-1,,0.00206606533872973,0.00206606533872973
+left palm - right palm,genus,silva_phylum,Oligella,40,-1,-1,,0.0006359544500016825,0.0006359544500016825
+left palm - right palm,genus,silva_phylum,Oribacterium,40,1,-1,,0.0013509590138777374,0.0013509590138777374
+left palm - right palm,genus,silva_phylum,Paenalcaligenes,40,1,-1,,0.00015688735487919673,0.00015688735487919673
+left palm - right palm,genus,silva_phylum,Paeniglutamicibacter,40,1,-1,,0.0009021022905553812,0.0009021022905553812
+left palm - right palm,genus,silva_phylum,Paraperlucidibaca,40,-1,-1,,0.00038386401412083345,0.00038386401412083345
+left palm - right palm,genus,silva_phylum,Parvimonas,40,1,-1,,0.0023862025924669995,0.0023862025924669995
+left palm - right palm,genus,silva_phylum,Peptostreptococcus,40,1,-1,,0.000308303809485386,0.000308303809485386
+left palm - right palm,genus,silva_phylum,Peredibacter,40,-1,-1,,2.5656814449917897e-05,2.5656814449917897e-05
+left palm - right palm,genus,silva_phylum,Phreatobacter,40,-1,-1,,0.00012729124236252545,0.00012729124236252545
+left palm - right palm,genus,silva_phylum,Prevotella,40,1,-1,,0.0027649271385818595,0.0027649271385818595
+left palm - right palm,genus,silva_phylum,Pseudogracilibacillus,40,1,-1,,0.0001961091935989959,0.0001961091935989959
+left palm - right palm,genus,silva_phylum,Psychrobacter,40,-1,-1,,0.0028024784808833242,0.0028024784808833242
+left palm - right palm,genus,silva_phylum,Reyranella,40,1,-1,,0.00011874604179860671,0.00011874604179860671
+left palm - right palm,genus,silva_phylum,Rothia,40,1,-1,,0.00460364575326878,0.00460364575326878
+left palm - right palm,genus,silva_phylum,S5-A14a,40,-1,-1,,3.848522167487685e-05,3.848522167487685e-05
+left palm - right palm,genus,silva_phylum,Scardovia,40,1,-1,,0.00015796068036095053,0.00015796068036095053
+left palm - right palm,genus,silva_phylum,Segetibacter,40,-1,-1,,0.00016676929392446635,0.00016676929392446635
+left palm - right palm,genus,silva_phylum,Shuttleworthia,40,1,-1,,9.170946441672781e-05,9.170946441672781e-05
+left palm - right palm,genus,silva_phylum,Skermanella,40,-1,-1,,3.2912759940332124e-05,3.2912759940332124e-05
+left palm - right palm,genus,silva_phylum,Sphingobacterium,40,1,-1,,0.001266624445851805,0.001266624445851805
+left palm - right palm,genus,silva_phylum,Staphylococcus,40,-1,-1,,0.014376636810313821,0.014376636810313821
+left palm - right palm,genus,silva_phylum,Streptococcus,40,1,-1,,0.037240218265843165,0.037240218265843165
+left palm - right palm,genus,silva_phylum,Tannerella,40,1,-1,,0.0005731791806454279,0.0005731791806454279
+left palm - right palm,genus,silva_phylum,Tepidiphilus,40,-1,-1,,7.494004796163069e-05,7.494004796163069e-05
+left palm - right palm,genus,silva_phylum,Varibaculum,40,-1,-1,,0.00019242610837438425,0.00019242610837438425
+left palm - right palm,genus,silva_phylum,Vogesella,40,1,-1,,0.0002469867615095831,0.0002469867615095831
+left palm - right palm,genus,silva_phylum,Weissella,40,1,-1,,9.420550328269339e-07,9.420550328269339e-07
+gut - left palm,phylum,feature,Bacteroidota,770,1,-1,,0.5250211131887685,0.5250211131887685
+gut - left palm,phylum,feature,Deinococcota,770,-1,-1,,0.00035845059119486353,0.00035845059119486353
+gut - left palm,phylum,feature,Fusobacteriota,770,-1,-1,,0.05932616250398492,0.05932616250398492
+gut - left palm,phylum,feature,Patescibacteria,770,-1,-1,,0.0006496717211251387,0.0006496717211251387
+gut - left palm,phylum,feature,Pseudomonadota,770,-1,-1,,0.3185815730468041,0.3185815730468041
+gut - left palm,phylum,feature,Spirochaetota,770,-1,-1,,0.001620200538028858,0.001620200538028858
+gut - left palm,phylum,feature,Synergistota,770,-1,-1,,0.0011616532159452189,0.0011616532159452189
+gut - left palm,phylum,feature,Verrucomicrobiota,770,1,-1,,0.014068050344106159,0.014068050344106159
+gut - left palm,phylum,silva_family,Bacteroidota,206,1,-1,,0.5250211131887687,0.5250211131887687
+gut - left palm,phylum,silva_family,Deinococcota,206,-1,-1,,0.00035845059119486353,0.00035845059119486353
+gut - left palm,phylum,silva_family,Fusobacteriota,206,-1,-1,,0.059326162503984925,0.059326162503984925
+gut - left palm,phylum,silva_family,Patescibacteria,206,-1,-1,,0.0006496717211251387,0.0006496717211251387
+gut - left palm,phylum,silva_family,Pseudomonadota,206,-1,-1,,0.31858157304680407,0.31858157304680407
+gut - left palm,phylum,silva_family,Spirochaetota,206,-1,-1,,0.0016202005380288578,0.0016202005380288578
+gut - left palm,phylum,silva_family,Synergistota,206,-1,-1,,0.0011616532159452189,0.0011616532159452189
+gut - left palm,phylum,silva_family,Verrucomicrobiota,206,1,-1,,0.014068050344106159,0.014068050344106159
+gut - left palm,phylum,silva_phylum,Bacteroidota,40,1,-1,,0.5250211131887684,0.5250211131887684
+gut - left palm,phylum,silva_phylum,Deinococcota,40,-1,-1,,0.00035845059119486353,0.00035845059119486353
+gut - left palm,phylum,silva_phylum,Fusobacteriota,40,-1,-1,,0.059326162503984925,0.059326162503984925
+gut - left palm,phylum,silva_phylum,Patescibacteria,40,-1,-1,,0.0006496717211251385,0.0006496717211251385
+gut - left palm,phylum,silva_phylum,Pseudomonadota,40,-1,-1,,0.3185815730468039,0.3185815730468039
+gut - left palm,phylum,silva_phylum,Spirochaetota,40,-1,-1,,0.0016202005380288578,0.0016202005380288578
+gut - left palm,phylum,silva_phylum,Synergistota,40,-1,-1,,0.0011616532159452189,0.0011616532159452189
+gut - left palm,phylum,silva_phylum,Verrucomicrobiota,40,1,-1,,0.014068050344106159,0.014068050344106159
+gut - left palm,family,feature,Acetobacteraceae,770,-1,-1,,5.699954400364797e-05,5.699954400364797e-05
+gut - left palm,family,feature,Acidaminococcaceae,770,1,-1,,0.03045221155611669,0.03045221155611669
+gut - left palm,family,feature,Actinomycetaceae,770,-1,-1,,0.0008808530063815726,0.0008808530063815726
+gut - left palm,family,feature,Aerococcaceae,770,-1,-1,,0.0008339294914997859,0.0008339294914997859
+gut - left palm,family,feature,Aeromonadaceae,770,-1,-1,,0.0005098839033573894,0.0005098839033573894
+gut - left palm,family,feature,Akkermansiaceae,770,1,-1,,0.014244230752844707,0.014244230752844707
+gut - left palm,family,feature,Anaerovoracaceae,770,-1,-1,,0.0015735041654857927,0.0015735041654857927
+gut - left palm,family,feature,Arcobacteraceae,770,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,feature,Atopobiaceae,770,-1,-1,,0.000458547322083639,0.000458547322083639
+gut - left palm,family,feature,Bacteroidaceae,770,1,-1,,0.5278807983587537,0.5174885050380145
+gut - left palm,family,feature,Beijerinckiaceae,770,-1,-1,,0.0015324558383078965,0.0015324558383078965
+gut - left palm,family,feature,Bifidobacteriaceae,770,-1,-1,,0.00018341892883345562,0.00018341892883345562
+gut - left palm,family,feature,Brevibacteriaceae,770,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,family,feature,Butyricicoccaceae,770,1,-1,,0.0011369209068075778,0.0011369209068075778
+gut - left palm,family,feature,Campylobacteraceae,770,-1,-1,,0.004080672833478188,0.004080672833478188
+gut - left palm,family,feature,Cardiobacteriaceae,770,-1,-1,,0.0012966227665997298,0.0012966227665997298
+gut - left palm,family,feature,Carnobacteriaceae,770,-1,-1,,0.0037063591550111413,0.0037063591550111413
+gut - left palm,family,feature,Caulobacteraceae,770,-1,-1,,0.0025665732175414978,0.0025665732175414978
+gut - left palm,family,feature,Cellvibrionaceae,770,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,feature,Chitinophagaceae,770,-1,-1,,0.0020553876068666985,0.0020553876068666985
+gut - left palm,family,feature,Chromobacteriaceae,770,-1,-1,,0.0002469867615095831,0.0002469867615095831
+gut - left palm,family,feature,Deinococcaceae,770,-1,-1,,0.00035845059119486353,0.00035845059119486353
+gut - left palm,family,feature,Dermabacteraceae,770,-1,-1,,6.113964294448521e-05,6.113964294448521e-05
+gut - left palm,family,feature,Desulfomicrobiaceae,770,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,family,feature,Desulfovibrionaceae,770,1,-1,,0.00718965001850572,0.00718965001850572
+gut - left palm,family,feature,Erysipelotrichaceae,770,-1,-1,,0.0005990715397460783,0.0005514040680287782
+gut - left palm,family,feature,Flavobacteriaceae,770,-1,-1,,0.011351187681565225,0.011351187681565225
+gut - left palm,family,feature,Fusobacteriaceae,770,-1,-1,,0.042612554683109545,0.042612554683109545
+gut - left palm,family,feature,Gaiellaceae,770,-1,-1,,0.0002745528710385943,0.0002745528710385943
+gut - left palm,family,feature,Gemellaceae,770,-1,-1,,0.0057181649541473215,0.0057181649541473215
+gut - left palm,family,feature,Geodermatophilaceae,770,-1,-1,,0.0009799102369938834,0.0009799102369938834
+gut - left palm,family,feature,Hymenobacteraceae,770,-1,-1,,0.00030803237806040587,0.00030803237806040587
+gut - left palm,family,feature,Lachnospiraceae,770,1,-1,,0.1723743818945773,0.17231080101970445
+gut - left palm,family,feature,Lactobacillaceae,770,-1,-1,,0.00798495577647165,0.00798495577647165
+gut - left palm,family,feature,Legionellaceae,770,-1,-1,,7.916402786573781e-05,7.916402786573781e-05
+gut - left palm,family,feature,Leptotrichiaceae,770,-1,-1,,0.016713607820875376,0.016713607820875376
+gut - left palm,family,feature,Marinifilaceae,770,1,-1,,0.002140877678781774,0.002140877678781774
+gut - left palm,family,feature,Methylophilaceae,770,-1,-1,,0.000254323499491353,0.000254323499491353
+gut - left palm,family,feature,Micrococcaceae,770,-1,-1,,0.012486097429178847,0.012486097429178847
+gut - left palm,family,feature,Mitochondria,770,-1,-1,,0.01063804689770199,0.01063804689770199
+gut - left palm,family,feature,Moraxellaceae,770,-1,-1,,0.047376337534826396,0.047376337534826396
+gut - left palm,family,feature,Muribaculaceae,770,-1,-1,,0.00015895218718209563,0.00015895218718209563
+gut - left palm,family,feature,Myxococcaceae,770,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,feature,Neisseriaceae,770,-1,-1,,0.05912664476006067,0.05912664476006067
+gut - left palm,family,feature,Nocardioidaceae,770,-1,-1,,0.0011073956616111111,0.0011073956616111111
+gut - left palm,family,feature,Paludibacteraceae,770,-1,-1,,0.0018811026988536721,0.0018811026988536721
+gut - left palm,family,feature,Pasteurellaceae,770,-1,-1,,0.07387456253360071,0.07387456253360071
+gut - left palm,family,feature,Porphyromonadaceae,770,-1,-1,,0.0031289819252473153,0.0028237120023681377
+gut - left palm,family,feature,Propionibacteriaceae,770,-1,-1,,0.006248231871295085,0.006248231871295085
+gut - left palm,family,feature,Pseudomonadaceae,770,-1,-1,,0.08338071819959059,0.08338071819959057
+gut - left palm,family,feature,Reyranellaceae,770,-1,-1,,0.00011874604179860671,0.00011874604179860671
+gut - left palm,family,feature,Rhizobiaceae,770,-1,-1,,0.0017729065970784972,0.0017729065970784972
+gut - left palm,family,feature,Rhodobacteraceae,770,-1,-1,,0.003241698439042732,0.003241698439042732
+gut - left palm,family,feature,Rikenellaceae,770,1,-1,,0.015932423900186468,0.015932423900186468
+gut - left palm,family,feature,Ruminococcaceae,770,1,-1,,0.08667202266614317,0.08618338999783723
+gut - left palm,family,feature,Sphingobacteriaceae,770,-1,-1,,0.011450740913077505,0.011450740913077505
+gut - left palm,family,feature,Staphylococcaceae,770,-1,-1,,0.05866652542575039,0.05866652542575039
+gut - left palm,family,feature,Streptococcaceae,770,-1,-1,,0.14102734777369655,0.14102734777369655
+gut - left palm,family,feature,Succinivibrionaceae,770,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,family,feature,Tannerellaceae,770,1,-1,,0.017650263969306825,0.017650263969306825
+gut - left palm,family,feature,Veillonellaceae,770,-1,-1,,0.015809797053487604,0.015489303672585244
+gut - left palm,family,feature,Vibrionaceae,770,-1,-1,,0.00027707409753008236,0.00027707409753008236
+gut - left palm,family,feature,Weeksellaceae,770,-1,-1,,0.004982175830786901,0.004982175830786901
+gut - left palm,family,feature,Xanthomonadaceae,770,-1,-1,,0.0037260746783809224,0.0037260746783809224
+gut - left palm,family,silva_family,Acetobacteraceae,206,-1,-1,,5.699954400364797e-05,5.699954400364797e-05
+gut - left palm,family,silva_family,Acidaminococcaceae,206,1,-1,,0.03045221155611669,0.03045221155611669
+gut - left palm,family,silva_family,Actinomycetaceae,206,-1,-1,,0.0008808530063815726,0.0008808530063815726
+gut - left palm,family,silva_family,Aerococcaceae,206,-1,-1,,0.0008339294914997859,0.0008339294914997859
+gut - left palm,family,silva_family,Aeromonadaceae,206,-1,-1,,0.0005098839033573894,0.0005098839033573894
+gut - left palm,family,silva_family,Akkermansiaceae,206,1,-1,,0.014244230752844707,0.014244230752844707
+gut - left palm,family,silva_family,Anaerovoracaceae,206,-1,-1,,0.0015735041654857925,0.0015735041654857925
+gut - left palm,family,silva_family,Arcobacteraceae,206,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,silva_family,Atopobiaceae,206,-1,-1,,0.000458547322083639,0.000458547322083639
+gut - left palm,family,silva_family,Bacteroidaceae,206,1,-1,,0.5278807983587536,0.5278807983587536
+gut - left palm,family,silva_family,Beijerinckiaceae,206,-1,-1,,0.0015324558383078965,0.0015324558383078965
+gut - left palm,family,silva_family,Bifidobacteriaceae,206,-1,-1,,0.00018341892883345562,0.00018341892883345562
+gut - left palm,family,silva_family,Brevibacteriaceae,206,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,family,silva_family,Butyricicoccaceae,206,1,-1,,0.0011369209068075778,0.0011369209068075778
+gut - left palm,family,silva_family,Campylobacteraceae,206,-1,-1,,0.004080672833478188,0.004080672833478188
+gut - left palm,family,silva_family,Cardiobacteriaceae,206,-1,-1,,0.0012966227665997295,0.0012966227665997295
+gut - left palm,family,silva_family,Carnobacteriaceae,206,-1,-1,,0.0037063591550111413,0.0037063591550111413
+gut - left palm,family,silva_family,Caulobacteraceae,206,-1,-1,,0.0025665732175414978,0.0025665732175414978
+gut - left palm,family,silva_family,Cellvibrionaceae,206,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,silva_family,Chitinophagaceae,206,-1,-1,,0.0020553876068666985,0.0020553876068666985
+gut - left palm,family,silva_family,Chromobacteriaceae,206,-1,-1,,0.0002469867615095831,0.0002469867615095831
+gut - left palm,family,silva_family,Deinococcaceae,206,-1,-1,,0.00035845059119486353,0.00035845059119486353
+gut - left palm,family,silva_family,Dermabacteraceae,206,-1,-1,,6.113964294448521e-05,6.113964294448521e-05
+gut - left palm,family,silva_family,Desulfomicrobiaceae,206,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,family,silva_family,Desulfovibrionaceae,206,1,-1,,0.00718965001850572,0.00718965001850572
+gut - left palm,family,silva_family,Erysipelotrichaceae,206,-1,-1,,0.0005990715397460783,0.0005990715397460783
+gut - left palm,family,silva_family,Flavobacteriaceae,206,-1,-1,,0.011351187681565225,0.011351187681565225
+gut - left palm,family,silva_family,Fusobacteriaceae,206,-1,-1,,0.042612554683109545,0.042612554683109545
+gut - left palm,family,silva_family,Gaiellaceae,206,-1,-1,,0.0002745528710385943,0.0002745528710385943
+gut - left palm,family,silva_family,Gemellaceae,206,-1,-1,,0.0057181649541473215,0.0057181649541473215
+gut - left palm,family,silva_family,Geodermatophilaceae,206,-1,-1,,0.0009799102369938834,0.0009799102369938834
+gut - left palm,family,silva_family,Hymenobacteraceae,206,-1,-1,,0.00030803237806040587,0.00030803237806040587
+gut - left palm,family,silva_family,Lachnospiraceae,206,1,-1,,0.1723743818945773,0.1723743818945773
+gut - left palm,family,silva_family,Lactobacillaceae,206,-1,-1,,0.00798495577647165,0.00798495577647165
+gut - left palm,family,silva_family,Legionellaceae,206,-1,-1,,7.916402786573781e-05,7.916402786573781e-05
+gut - left palm,family,silva_family,Leptotrichiaceae,206,-1,-1,,0.01671360782087538,0.01671360782087538
+gut - left palm,family,silva_family,Marinifilaceae,206,1,-1,,0.002140877678781774,0.002140877678781774
+gut - left palm,family,silva_family,Methylophilaceae,206,-1,-1,,0.000254323499491353,0.000254323499491353
+gut - left palm,family,silva_family,Micrococcaceae,206,-1,-1,,0.012486097429178847,0.012486097429178847
+gut - left palm,family,silva_family,Mitochondria,206,-1,-1,,0.010638046897701989,0.010638046897701989
+gut - left palm,family,silva_family,Moraxellaceae,206,-1,-1,,0.04737633753482639,0.04737633753482639
+gut - left palm,family,silva_family,Muribaculaceae,206,-1,-1,,0.00015895218718209563,0.00015895218718209563
+gut - left palm,family,silva_family,Myxococcaceae,206,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,silva_family,Neisseriaceae,206,-1,-1,,0.05912664476006067,0.05912664476006067
+gut - left palm,family,silva_family,Nocardioidaceae,206,-1,-1,,0.0011073956616111111,0.0011073956616111111
+gut - left palm,family,silva_family,Paludibacteraceae,206,-1,-1,,0.0018811026988536721,0.0018811026988536721
+gut - left palm,family,silva_family,Pasteurellaceae,206,-1,-1,,0.0738745625336007,0.0738745625336007
+gut - left palm,family,silva_family,Porphyromonadaceae,206,-1,-1,,0.0031289819252473153,0.0028237120023681377
+gut - left palm,family,silva_family,Propionibacteriaceae,206,-1,-1,,0.006248231871295085,0.006248231871295085
+gut - left palm,family,silva_family,Pseudomonadaceae,206,-1,-1,,0.08338071819959059,0.08338071819959059
+gut - left palm,family,silva_family,Reyranellaceae,206,-1,-1,,0.00011874604179860671,0.00011874604179860671
+gut - left palm,family,silva_family,Rhizobiaceae,206,-1,-1,,0.0017729065970784972,0.0017729065970784972
+gut - left palm,family,silva_family,Rhodobacteraceae,206,-1,-1,,0.003241698439042732,0.003241698439042732
+gut - left palm,family,silva_family,Rikenellaceae,206,1,-1,,0.015932423900186468,0.015932423900186468
+gut - left palm,family,silva_family,Ruminococcaceae,206,1,-1,,0.08667202266614317,0.08618338999783723
+gut - left palm,family,silva_family,Sphingobacteriaceae,206,-1,-1,,0.011450740913077507,0.011450740913077507
+gut - left palm,family,silva_family,Staphylococcaceae,206,-1,-1,,0.05866652542575039,0.05866652542575039
+gut - left palm,family,silva_family,Streptococcaceae,206,-1,-1,,0.14102734777369655,0.14102734777369655
+gut - left palm,family,silva_family,Succinivibrionaceae,206,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,family,silva_family,Tannerellaceae,206,1,-1,,0.017650263969306825,0.017650263969306825
+gut - left palm,family,silva_family,Veillonellaceae,206,-1,-1,,0.015809797053487604,0.015809797053487604
+gut - left palm,family,silva_family,Vibrionaceae,206,-1,-1,,0.00027707409753008236,0.00027707409753008236
+gut - left palm,family,silva_family,Weeksellaceae,206,-1,-1,,0.004982175830786901,0.004982175830786901
+gut - left palm,family,silva_family,Xanthomonadaceae,206,-1,-1,,0.0037260746783809224,0.0037260746783809224
+gut - left palm,family,silva_phylum,Acetobacteraceae,40,-1,-1,,5.699954400364797e-05,5.699954400364797e-05
+gut - left palm,family,silva_phylum,Acidaminococcaceae,40,1,-1,,0.03045221155611669,0.03045221155611669
+gut - left palm,family,silva_phylum,Actinomycetaceae,40,-1,-1,,0.0008808530063815726,0.0008808530063815726
+gut - left palm,family,silva_phylum,Aerococcaceae,40,-1,-1,,0.0008339294914997859,0.0008339294914997859
+gut - left palm,family,silva_phylum,Aeromonadaceae,40,-1,-1,,0.0005098839033573894,0.0005098839033573894
+gut - left palm,family,silva_phylum,Akkermansiaceae,40,1,-1,,0.014244230752844707,0.014244230752844707
+gut - left palm,family,silva_phylum,Anaerovoracaceae,40,-1,-1,,0.0015735041654857925,0.0015735041654857925
+gut - left palm,family,silva_phylum,Arcobacteraceae,40,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,silva_phylum,Atopobiaceae,40,-1,-1,,0.000458547322083639,0.000458547322083639
+gut - left palm,family,silva_phylum,Bacteroidaceae,40,1,-1,,0.5278807983587536,0.5278807983587536
+gut - left palm,family,silva_phylum,Beijerinckiaceae,40,-1,-1,,0.0015324558383078965,0.0015324558383078965
+gut - left palm,family,silva_phylum,Bifidobacteriaceae,40,-1,-1,,0.00018341892883345562,0.00018341892883345562
+gut - left palm,family,silva_phylum,Brevibacteriaceae,40,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,family,silva_phylum,Butyricicoccaceae,40,1,-1,,0.0011369209068075778,0.0011369209068075778
+gut - left palm,family,silva_phylum,Campylobacteraceae,40,-1,-1,,0.004080672833478188,0.004080672833478188
+gut - left palm,family,silva_phylum,Cardiobacteriaceae,40,-1,-1,,0.0012966227665997295,0.0012966227665997295
+gut - left palm,family,silva_phylum,Carnobacteriaceae,40,-1,-1,,0.0037063591550111413,0.0037063591550111413
+gut - left palm,family,silva_phylum,Caulobacteraceae,40,-1,-1,,0.0025665732175414978,0.0025665732175414978
+gut - left palm,family,silva_phylum,Cellvibrionaceae,40,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,silva_phylum,Chitinophagaceae,40,-1,-1,,0.0020553876068666985,0.0020553876068666985
+gut - left palm,family,silva_phylum,Chromobacteriaceae,40,-1,-1,,0.0002469867615095831,0.0002469867615095831
+gut - left palm,family,silva_phylum,Deinococcaceae,40,-1,-1,,0.00035845059119486353,0.00035845059119486353
+gut - left palm,family,silva_phylum,Dermabacteraceae,40,-1,-1,,6.113964294448521e-05,6.113964294448521e-05
+gut - left palm,family,silva_phylum,Desulfomicrobiaceae,40,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,family,silva_phylum,Desulfovibrionaceae,40,1,-1,,0.00718965001850572,0.00718965001850572
+gut - left palm,family,silva_phylum,Erysipelotrichaceae,40,-1,-1,,0.0005990715397460783,0.0005990715397460783
+gut - left palm,family,silva_phylum,Flavobacteriaceae,40,-1,-1,,0.011351187681565225,0.011351187681565225
+gut - left palm,family,silva_phylum,Fusobacteriaceae,40,-1,-1,,0.042612554683109545,0.042612554683109545
+gut - left palm,family,silva_phylum,Gaiellaceae,40,-1,-1,,0.0002745528710385943,0.0002745528710385943
+gut - left palm,family,silva_phylum,Gemellaceae,40,-1,-1,,0.0057181649541473215,0.0057181649541473215
+gut - left palm,family,silva_phylum,Geodermatophilaceae,40,-1,-1,,0.0009799102369938834,0.0009799102369938834
+gut - left palm,family,silva_phylum,Hymenobacteraceae,40,-1,-1,,0.00030803237806040587,0.00030803237806040587
+gut - left palm,family,silva_phylum,Lachnospiraceae,40,1,-1,,0.1723743818945773,0.1723743818945773
+gut - left palm,family,silva_phylum,Lactobacillaceae,40,-1,-1,,0.00798495577647165,0.00798495577647165
+gut - left palm,family,silva_phylum,Legionellaceae,40,-1,-1,,7.916402786573781e-05,7.916402786573781e-05
+gut - left palm,family,silva_phylum,Leptotrichiaceae,40,-1,-1,,0.01671360782087538,0.01671360782087538
+gut - left palm,family,silva_phylum,Marinifilaceae,40,1,-1,,0.002140877678781774,0.002140877678781774
+gut - left palm,family,silva_phylum,Methylophilaceae,40,-1,-1,,0.000254323499491353,0.000254323499491353
+gut - left palm,family,silva_phylum,Micrococcaceae,40,-1,-1,,0.012486097429178847,0.012486097429178847
+gut - left palm,family,silva_phylum,Mitochondria,40,-1,-1,,0.010638046897701989,0.010638046897701989
+gut - left palm,family,silva_phylum,Moraxellaceae,40,-1,-1,,0.04737633753482639,0.04737633753482639
+gut - left palm,family,silva_phylum,Muribaculaceae,40,-1,-1,,0.00015895218718209563,0.00015895218718209563
+gut - left palm,family,silva_phylum,Myxococcaceae,40,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,family,silva_phylum,Neisseriaceae,40,-1,-1,,0.05912664476006067,0.05912664476006067
+gut - left palm,family,silva_phylum,Nocardioidaceae,40,-1,-1,,0.0011073956616111111,0.0011073956616111111
+gut - left palm,family,silva_phylum,Paludibacteraceae,40,-1,-1,,0.0018811026988536721,0.0018811026988536721
+gut - left palm,family,silva_phylum,Pasteurellaceae,40,-1,-1,,0.0738745625336007,0.0738745625336007
+gut - left palm,family,silva_phylum,Porphyromonadaceae,40,-1,-1,,0.0031289819252473153,0.0031289819252473153
+gut - left palm,family,silva_phylum,Propionibacteriaceae,40,-1,-1,,0.006248231871295085,0.006248231871295085
+gut - left palm,family,silva_phylum,Pseudomonadaceae,40,-1,-1,,0.08338071819959059,0.08338071819959059
+gut - left palm,family,silva_phylum,Reyranellaceae,40,-1,-1,,0.00011874604179860671,0.00011874604179860671
+gut - left palm,family,silva_phylum,Rhizobiaceae,40,-1,-1,,0.0017729065970784972,0.0017729065970784972
+gut - left palm,family,silva_phylum,Rhodobacteraceae,40,-1,-1,,0.003241698439042732,0.003241698439042732
+gut - left palm,family,silva_phylum,Rikenellaceae,40,1,-1,,0.015932423900186468,0.015932423900186468
+gut - left palm,family,silva_phylum,Ruminococcaceae,40,1,-1,,0.08667202266614317,0.08667202266614317
+gut - left palm,family,silva_phylum,Sphingobacteriaceae,40,-1,-1,,0.011450740913077507,0.011450740913077507
+gut - left palm,family,silva_phylum,Staphylococcaceae,40,-1,-1,,0.05866652542575039,0.05866652542575039
+gut - left palm,family,silva_phylum,Streptococcaceae,40,-1,-1,,0.14102734777369655,0.14102734777369655
+gut - left palm,family,silva_phylum,Succinivibrionaceae,40,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,family,silva_phylum,Tannerellaceae,40,1,-1,,0.017650263969306825,0.017650263969306825
+gut - left palm,family,silva_phylum,Veillonellaceae,40,-1,-1,,0.015809797053487604,0.015809797053487604
+gut - left palm,family,silva_phylum,Vibrionaceae,40,-1,-1,,0.00027707409753008236,0.00027707409753008236
+gut - left palm,family,silva_phylum,Weeksellaceae,40,-1,-1,,0.004982175830786901,0.004982175830786901
+gut - left palm,family,silva_phylum,Xanthomonadaceae,40,-1,-1,,0.0037260746783809224,0.0037260746783809224
+gut - left palm,genus,feature,Abiotrophia,770,-1,-1,,0.000611396429444852,0.000611396429444852
+gut - left palm,genus,feature,Acinetobacter,770,-1,-1,,0.03244533319971404,0.03244533319971404
+gut - left palm,genus,feature,Actinomyces,770,-1,-1,,0.0002139887503056982,0.0002139887503056982
+gut - left palm,genus,feature,Aeromicrobium,770,-1,-1,,0.0004740834386852086,0.0004740834386852086
+gut - left palm,genus,feature,Akkermansia,770,1,-1,,0.014339602065153964,0.014339602065153964
+gut - left palm,genus,feature,Alloprevotella,770,-1,-1,,0.01069230279539863,0.01069230279539863
+gut - left palm,genus,feature,Anaerococcus,770,-1,-1,,0.023577072690690017,0.023577072690690017
+gut - left palm,genus,feature,Anaerostipes,770,1,-1,,0.006024272909401061,0.006024272909401061
+gut - left palm,genus,feature,Bilophila,770,1,-1,,0.0018529907699358138,0.0018529907699358138
+gut - left palm,genus,feature,Blastococcus,770,-1,-1,,0.0009799102369938834,0.0009799102369938834
+gut - left palm,genus,feature,Brevibacterium,770,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,genus,feature,Brevundimonas,770,-1,-1,,0.0022142124000644014,0.0022142124000644014
+gut - left palm,genus,feature,Butyricimonas,770,1,-1,,0.0008154392759705464,0.0008154392759705464
+gut - left palm,genus,feature,Capnocytophaga,770,-1,-1,,0.003832634210914714,0.0038326342109147138
+gut - left palm,genus,feature,Cardiobacterium,770,-1,-1,,0.0011005135730007337,0.0011005135730007337
+gut - left palm,genus,feature,Catenibacterium,770,-1,-1,,0.0004728231159160085,0.0004728231159160085
+gut - left palm,genus,feature,Cellvibrio,770,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,genus,feature,Centipeda,770,-1,-1,,0.0011922230374174616,0.0011922230374174616
+gut - left palm,genus,feature,Cloacibacterium,770,-1,-1,,0.00022253306205493388,0.00022253306205493388
+gut - left palm,genus,feature,Conchiformibius,770,-1,-1,,0.003654474329989649,0.003654474329989649
+gut - left palm,genus,feature,Corynebacterium,770,-1,-1,,0.037805941771202,0.037805941771201994
+gut - left palm,genus,feature,Cutibacterium,770,-1,-1,,0.006248231871295085,0.006248231871295085
+gut - left palm,genus,feature,Dermabacter,770,-1,-1,,6.113964294448521e-05,6.113964294448521e-05
+gut - left palm,genus,feature,Desulfomicrobium,770,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,genus,feature,Dolosigranulum,770,-1,-1,,0.0037063591550111413,0.0037063591550111413
+gut - left palm,genus,feature,Ezakiella,770,-1,-1,,0.0006974324967966428,0.0006974324967966428
+gut - left palm,genus,feature,F0058,770,-1,-1,,0.0018811026988536721,0.0018811026988536721
+gut - left palm,genus,feature,Faecalibacterium,770,1,-1,,0.07050103830853276,0.07050103830853276
+gut - left palm,genus,feature,Faecalibaculum,770,-1,-1,,0.00031665611146295124,0.00031665611146295124
+gut - left palm,genus,feature,Fastidiosipila,770,-1,-1,,0.00026167972474402024,0.00026167972474402024
+gut - left palm,genus,feature,Fenollaria,770,-1,-1,,0.0004608298067616492,0.0004608298067616492
+gut - left palm,genus,feature,Filifactor,770,-1,-1,,0.00015832805573147562,0.00015832805573147562
+gut - left palm,genus,feature,Finegoldia,770,-1,-1,,0.01174202213162673,0.01174202213162673
+gut - left palm,genus,feature,Flavobacterium,770,-1,-1,,0.0046574259770601496,0.004657425977060149
+gut - left palm,genus,feature,Flectobacillus,770,-1,-1,,0.0006194729244808194,0.0006194729244808194
+gut - left palm,genus,feature,Frederiksenia,770,-1,-1,,0.012668489549101387,0.012668489549101387
+gut - left palm,genus,feature,Fretibacterium,770,-1,-1,,0.0008865248226950354,0.0008865248226950354
+gut - left palm,genus,feature,Fusicatenibacter,770,1,-1,,0.0027326026624912973,0.0027326026624912973
+gut - left palm,genus,feature,Gaiella,770,-1,-1,,0.0002745528710385943,0.0002745528710385943
+gut - left palm,genus,feature,Gemella,770,-1,-1,,0.0057181649541473215,0.0057181649541473215
+gut - left palm,genus,feature,Helcococcus,770,-1,-1,,0.0002444515031875676,0.0002444515031875676
+gut - left palm,genus,feature,Holdemanella,770,-1,-1,,0.00019791006966434453,0.00019791006966434453
+gut - left palm,genus,feature,Holdemania,770,1,-1,,0.0003036012618061557,0.0003036012618061557
+gut - left palm,genus,feature,Howardella,770,1,-1,,0.0002912399765386293,0.0002912399765386293
+gut - left palm,genus,feature,Hydrogenispora,770,-1,-1,,7.844367743959836e-05,7.844367743959836e-05
+gut - left palm,genus,feature,Intestinibacter,770,1,-1,,0.0003199203753732404,0.0003199203753732404
+gut - left palm,genus,feature,Intestinimonas,770,1,-1,,0.0002739511584220413,0.0002739511584220413
+gut - left palm,genus,feature,Johnsonella,770,-1,-1,,0.0002139887503056982,0.0002139887503056982
+gut - left palm,genus,feature,Lachnoanaerobaculum,770,-1,-1,,0.0019813857165535582,0.0019813857165535582
+gut - left palm,genus,feature,Lachnospira,770,1,-1,,0.02156667115188847,0.02139049074314992
+gut - left palm,genus,feature,Lactobacillus,770,-1,-1,,0.005090701662522668,0.005090701662522668
+gut - left palm,genus,feature,Latilactobacillus,770,-1,-1,,0.001821085957158218,0.001821085957158218
+gut - left palm,genus,feature,Lautropia,770,-1,-1,,0.007878292477899933,0.007878292477899933
+gut - left palm,genus,feature,Lawsonella,770,-1,-1,,0.03402124733506104,0.03402124733506104
+gut - left palm,genus,feature,Ligilactobacillus,770,-1,-1,,0.000866842379179349,0.000866842379179349
+gut - left palm,genus,feature,Megamonas,770,-1,-1,,0.0016441877627922817,0.0016441877627922817
+gut - left palm,genus,feature,Methylophilus,770,-1,-1,,0.000254323499491353,0.000254323499491353
+gut - left palm,genus,feature,Micrococcus,770,-1,-1,,0.0012187117752508873,0.0012187117752508873
+gut - left palm,genus,feature,Murdochiella,770,-1,-1,,0.0011218413554232285,0.0011218413554232285
+gut - left palm,genus,feature,Oceanisphaera,770,-1,-1,,0.0005098839033573894,0.0005098839033573894
+gut - left palm,genus,feature,Oceanivirga,770,-1,-1,,0.011501742255520692,0.011501742255520692
+gut - left palm,genus,feature,Oligella,770,-1,-1,,0.0004519875264262414,0.0004519875264262414
+gut - left palm,genus,feature,Oribacterium,770,-1,-1,,0.0017710201136740713,0.0017710201136740713
+gut - left palm,genus,feature,Oxalobacter,770,1,-1,,7.666830225711482e-05,7.666830225711482e-05
+gut - left palm,genus,feature,Paenalcaligenes,770,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,genus,feature,Paeniglutamicibacter,770,-1,-1,,0.0009021022905553812,0.0009021022905553812
+gut - left palm,genus,feature,Paraperlucidibaca,770,-1,-1,,0.0002353310323187951,0.0002353310323187951
+gut - left palm,genus,feature,Parvimonas,770,-1,-1,,0.003723564712943885,0.003723564712943885
+gut - left palm,genus,feature,Peptostreptococcus,770,-1,-1,,0.00039740767913915383,0.00039740767913915383
+gut - left palm,genus,feature,Prevotella,770,-1,-1,,0.0037323405805370527,0.0015662976646303476
+gut - left palm,genus,feature,Pseudogracilibacillus,770,-1,-1,,0.0001961091935989959,0.0001961091935989959
+gut - left palm,genus,feature,Psychrobacter,770,-1,-1,,0.00568322296848045,0.00568322296848045
+gut - left palm,genus,feature,Reyranella,770,-1,-1,,0.00011874604179860671,0.00011874604179860671
+gut - left palm,genus,feature,Rothia,770,-1,-1,,0.010365283363372578,0.010365283363372578
+gut - left palm,genus,feature,Scardovia,770,-1,-1,,0.00018341892883345562,0.00018341892883345562
+gut - left palm,genus,feature,Shuttleworthia,770,-1,-1,,9.170946441672781e-05,9.170946441672781e-05
+gut - left palm,genus,feature,Skermanella,770,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,genus,feature,Sphingobacterium,770,-1,-1,,0.001266624445851805,0.001266624445851805
+gut - left palm,genus,feature,Staphylococcus,770,-1,-1,,0.05866652542575039,0.05866652542575039
+gut - left palm,genus,feature,Streptococcus,770,-1,-1,,0.1284653430708633,0.1284653430708633
+gut - left palm,genus,feature,Tannerella,770,-1,-1,,0.0008914072865517416,0.0008914072865517416
+gut - left palm,genus,feature,Turicibacter,770,1,-1,,4.766747171730011e-05,4.766747171730011e-05
+gut - left palm,genus,feature,Vogesella,770,-1,-1,,0.0002469867615095831,0.0002469867615095831
+gut - left palm,genus,feature,Weissella,770,-1,-1,,0.00020632577761141432,0.00020632577761141432
+gut - left palm,genus,silva_family,Abiotrophia,206,-1,-1,,0.000611396429444852,0.000611396429444852
+gut - left palm,genus,silva_family,Acinetobacter,206,-1,-1,,0.03244533319971404,0.03244533319971404
+gut - left palm,genus,silva_family,Actinomyces,206,-1,-1,,0.0002139887503056982,0.0002139887503056982
+gut - left palm,genus,silva_family,Aeromicrobium,206,-1,-1,,0.0004740834386852086,0.0004740834386852086
+gut - left palm,genus,silva_family,Akkermansia,206,1,-1,,0.014339602065153964,0.014339602065153964
+gut - left palm,genus,silva_family,Alloprevotella,206,-1,-1,,0.010692302795398628,0.010692302795398628
+gut - left palm,genus,silva_family,Anaerococcus,206,-1,-1,,0.023577072690690017,0.023577072690690017
+gut - left palm,genus,silva_family,Anaerostipes,206,1,-1,,0.006024272909401061,0.006024272909401061
+gut - left palm,genus,silva_family,Bilophila,206,1,-1,,0.0018529907699358138,0.0018529907699358138
+gut - left palm,genus,silva_family,Blastococcus,206,-1,-1,,0.0009799102369938834,0.0009799102369938834
+gut - left palm,genus,silva_family,Brevibacterium,206,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,genus,silva_family,Brevundimonas,206,-1,-1,,0.0022142124000644014,0.0022142124000644014
+gut - left palm,genus,silva_family,Butyricimonas,206,1,-1,,0.0008154392759705464,0.0008154392759705464
+gut - left palm,genus,silva_family,Capnocytophaga,206,-1,-1,,0.0038326342109147146,0.0038326342109147146
+gut - left palm,genus,silva_family,Cardiobacterium,206,-1,-1,,0.0011005135730007337,0.0011005135730007337
+gut - left palm,genus,silva_family,Catenibacterium,206,-1,-1,,0.0004728231159160085,0.0004728231159160085
+gut - left palm,genus,silva_family,Cellvibrio,206,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,genus,silva_family,Centipeda,206,-1,-1,,0.0011922230374174616,0.0011922230374174616
+gut - left palm,genus,silva_family,Cloacibacterium,206,-1,-1,,0.00022253306205493388,0.00022253306205493388
+gut - left palm,genus,silva_family,Conchiformibius,206,-1,-1,,0.003654474329989649,0.003654474329989649
+gut - left palm,genus,silva_family,Corynebacterium,206,-1,-1,,0.037805941771201994,0.037805941771201994
+gut - left palm,genus,silva_family,Cutibacterium,206,-1,-1,,0.006248231871295085,0.006248231871295085
+gut - left palm,genus,silva_family,Dermabacter,206,-1,-1,,6.113964294448521e-05,6.113964294448521e-05
+gut - left palm,genus,silva_family,Desulfomicrobium,206,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,genus,silva_family,Dolosigranulum,206,-1,-1,,0.0037063591550111413,0.0037063591550111413
+gut - left palm,genus,silva_family,Ezakiella,206,-1,-1,,0.0006974324967966428,0.0006974324967966428
+gut - left palm,genus,silva_family,F0058,206,-1,-1,,0.0018811026988536721,0.0018811026988536721
+gut - left palm,genus,silva_family,Faecalibacterium,206,1,-1,,0.07050103830853276,0.07050103830853276
+gut - left palm,genus,silva_family,Faecalibaculum,206,-1,-1,,0.00031665611146295124,0.00031665611146295124
+gut - left palm,genus,silva_family,Fastidiosipila,206,-1,-1,,0.00026167972474402024,0.00026167972474402024
+gut - left palm,genus,silva_family,Fenollaria,206,-1,-1,,0.0004608298067616492,0.0004608298067616492
+gut - left palm,genus,silva_family,Filifactor,206,-1,-1,,0.00015832805573147562,0.00015832805573147562
+gut - left palm,genus,silva_family,Finegoldia,206,-1,-1,,0.01174202213162673,0.01174202213162673
+gut - left palm,genus,silva_family,Flavobacterium,206,-1,-1,,0.0046574259770601496,0.0046574259770601496
+gut - left palm,genus,silva_family,Flectobacillus,206,-1,-1,,0.0006194729244808194,0.0006194729244808194
+gut - left palm,genus,silva_family,Frederiksenia,206,-1,-1,,0.012668489549101387,0.012668489549101387
+gut - left palm,genus,silva_family,Fretibacterium,206,-1,-1,,0.0008865248226950354,0.0008865248226950354
+gut - left palm,genus,silva_family,Fusicatenibacter,206,1,-1,,0.0027326026624912973,0.0027326026624912973
+gut - left palm,genus,silva_family,Gaiella,206,-1,-1,,0.0002745528710385943,0.0002745528710385943
+gut - left palm,genus,silva_family,Gemella,206,-1,-1,,0.0057181649541473215,0.0057181649541473215
+gut - left palm,genus,silva_family,Helcococcus,206,-1,-1,,0.0002444515031875676,0.0002444515031875676
+gut - left palm,genus,silva_family,Holdemanella,206,-1,-1,,0.00019791006966434453,0.00019791006966434453
+gut - left palm,genus,silva_family,Holdemania,206,1,-1,,0.0003036012618061557,0.0003036012618061557
+gut - left palm,genus,silva_family,Howardella,206,1,-1,,0.0002912399765386293,0.0002912399765386293
+gut - left palm,genus,silva_family,Hydrogenispora,206,-1,-1,,7.844367743959836e-05,7.844367743959836e-05
+gut - left palm,genus,silva_family,Intestinibacter,206,1,-1,,0.0003199203753732404,0.0003199203753732404
+gut - left palm,genus,silva_family,Intestinimonas,206,1,-1,,0.0002739511584220413,0.0002739511584220413
+gut - left palm,genus,silva_family,Johnsonella,206,-1,-1,,0.0002139887503056982,0.0002139887503056982
+gut - left palm,genus,silva_family,Lachnoanaerobaculum,206,-1,-1,,0.0019813857165535582,0.0019813857165535582
+gut - left palm,genus,silva_family,Lachnospira,206,1,-1,,0.02156667115188847,0.02156667115188847
+gut - left palm,genus,silva_family,Lactobacillus,206,-1,-1,,0.005090701662522668,0.005090701662522668
+gut - left palm,genus,silva_family,Latilactobacillus,206,-1,-1,,0.001821085957158218,0.001821085957158218
+gut - left palm,genus,silva_family,Lautropia,206,-1,-1,,0.007878292477899933,0.007878292477899933
+gut - left palm,genus,silva_family,Lawsonella,206,-1,-1,,0.03402124733506104,0.03402124733506104
+gut - left palm,genus,silva_family,Ligilactobacillus,206,-1,-1,,0.000866842379179349,0.000866842379179349
+gut - left palm,genus,silva_family,Megamonas,206,-1,-1,,0.0016441877627922817,0.0016441877627922817
+gut - left palm,genus,silva_family,Methylophilus,206,-1,-1,,0.000254323499491353,0.000254323499491353
+gut - left palm,genus,silva_family,Micrococcus,206,-1,-1,,0.0012187117752508873,0.0012187117752508873
+gut - left palm,genus,silva_family,Murdochiella,206,-1,-1,,0.0011218413554232285,0.0011218413554232285
+gut - left palm,genus,silva_family,Oceanisphaera,206,-1,-1,,0.0005098839033573894,0.0005098839033573894
+gut - left palm,genus,silva_family,Oceanivirga,206,-1,-1,,0.011501742255520692,0.011501742255520692
+gut - left palm,genus,silva_family,Oligella,206,-1,-1,,0.0004519875264262414,0.0004519875264262414
+gut - left palm,genus,silva_family,Oribacterium,206,-1,-1,,0.0017710201136740713,0.0017710201136740713
+gut - left palm,genus,silva_family,Oxalobacter,206,1,-1,,7.666830225711482e-05,7.666830225711482e-05
+gut - left palm,genus,silva_family,Paenalcaligenes,206,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,genus,silva_family,Paeniglutamicibacter,206,-1,-1,,0.0009021022905553812,0.0009021022905553812
+gut - left palm,genus,silva_family,Paraperlucidibaca,206,-1,-1,,0.0002353310323187951,0.0002353310323187951
+gut - left palm,genus,silva_family,Parvimonas,206,-1,-1,,0.003723564712943885,0.003723564712943885
+gut - left palm,genus,silva_family,Peptostreptococcus,206,-1,-1,,0.00039740767913915383,0.00039740767913915383
+gut - left palm,genus,silva_family,Prevotella,206,-1,-1,,0.0037323405805370527,0.0037323405805370527
+gut - left palm,genus,silva_family,Pseudogracilibacillus,206,-1,-1,,0.0001961091935989959,0.0001961091935989959
+gut - left palm,genus,silva_family,Psychrobacter,206,-1,-1,,0.00568322296848045,0.00568322296848045
+gut - left palm,genus,silva_family,Reyranella,206,-1,-1,,0.00011874604179860671,0.00011874604179860671
+gut - left palm,genus,silva_family,Rothia,206,-1,-1,,0.010365283363372578,0.010365283363372578
+gut - left palm,genus,silva_family,Scardovia,206,-1,-1,,0.00018341892883345562,0.00018341892883345562
+gut - left palm,genus,silva_family,Shuttleworthia,206,-1,-1,,9.170946441672781e-05,9.170946441672781e-05
+gut - left palm,genus,silva_family,Skermanella,206,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,genus,silva_family,Sphingobacterium,206,-1,-1,,0.001266624445851805,0.001266624445851805
+gut - left palm,genus,silva_family,Staphylococcus,206,-1,-1,,0.05866652542575039,0.05866652542575039
+gut - left palm,genus,silva_family,Streptococcus,206,-1,-1,,0.12846534307086327,0.12846534307086327
+gut - left palm,genus,silva_family,Tannerella,206,-1,-1,,0.0008914072865517416,0.0008914072865517416
+gut - left palm,genus,silva_family,Turicibacter,206,1,-1,,4.766747171730011e-05,4.766747171730011e-05
+gut - left palm,genus,silva_family,Vogesella,206,-1,-1,,0.0002469867615095831,0.0002469867615095831
+gut - left palm,genus,silva_family,Weissella,206,-1,-1,,0.00020632577761141432,0.00020632577761141432
+gut - left palm,genus,silva_phylum,Abiotrophia,40,-1,-1,,0.000611396429444852,0.000611396429444852
+gut - left palm,genus,silva_phylum,Acinetobacter,40,-1,-1,,0.03244533319971404,0.03244533319971404
+gut - left palm,genus,silva_phylum,Actinomyces,40,-1,-1,,0.0002139887503056982,0.0002139887503056982
+gut - left palm,genus,silva_phylum,Aeromicrobium,40,-1,-1,,0.0004740834386852086,0.0004740834386852086
+gut - left palm,genus,silva_phylum,Akkermansia,40,1,-1,,0.014339602065153964,0.014339602065153964
+gut - left palm,genus,silva_phylum,Alloprevotella,40,-1,-1,,0.010692302795398628,0.010692302795398628
+gut - left palm,genus,silva_phylum,Anaerococcus,40,-1,-1,,0.023577072690690017,0.023577072690690017
+gut - left palm,genus,silva_phylum,Anaerostipes,40,1,-1,,0.006024272909401061,0.006024272909401061
+gut - left palm,genus,silva_phylum,Bilophila,40,1,-1,,0.0018529907699358138,0.0018529907699358138
+gut - left palm,genus,silva_phylum,Blastococcus,40,-1,-1,,0.0009799102369938834,0.0009799102369938834
+gut - left palm,genus,silva_phylum,Brevibacterium,40,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,genus,silva_phylum,Brevundimonas,40,-1,-1,,0.0022142124000644014,0.0022142124000644014
+gut - left palm,genus,silva_phylum,Butyricimonas,40,1,-1,,0.0008154392759705464,0.0008154392759705464
+gut - left palm,genus,silva_phylum,Capnocytophaga,40,-1,-1,,0.0038326342109147146,0.0038326342109147146
+gut - left palm,genus,silva_phylum,Cardiobacterium,40,-1,-1,,0.0011005135730007337,0.0011005135730007337
+gut - left palm,genus,silva_phylum,Catenibacterium,40,-1,-1,,0.0004728231159160085,0.0004728231159160085
+gut - left palm,genus,silva_phylum,Cellvibrio,40,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,genus,silva_phylum,Centipeda,40,-1,-1,,0.0011922230374174616,0.0011922230374174616
+gut - left palm,genus,silva_phylum,Cloacibacterium,40,-1,-1,,0.00022253306205493388,0.00022253306205493388
+gut - left palm,genus,silva_phylum,Conchiformibius,40,-1,-1,,0.003654474329989649,0.003654474329989649
+gut - left palm,genus,silva_phylum,Corynebacterium,40,-1,-1,,0.037805941771201994,0.037805941771201994
+gut - left palm,genus,silva_phylum,Cutibacterium,40,-1,-1,,0.006248231871295085,0.006248231871295085
+gut - left palm,genus,silva_phylum,Dermabacter,40,-1,-1,,6.113964294448521e-05,6.113964294448521e-05
+gut - left palm,genus,silva_phylum,Desulfomicrobium,40,-1,-1,,0.00011766551615939755,0.00011766551615939755
+gut - left palm,genus,silva_phylum,Dolosigranulum,40,-1,-1,,0.0037063591550111413,0.0037063591550111413
+gut - left palm,genus,silva_phylum,Ezakiella,40,-1,-1,,0.0006974324967966428,0.0006974324967966428
+gut - left palm,genus,silva_phylum,F0058,40,-1,-1,,0.0018811026988536721,0.0018811026988536721
+gut - left palm,genus,silva_phylum,Faecalibacterium,40,1,-1,,0.07050103830853276,0.07050103830853276
+gut - left palm,genus,silva_phylum,Faecalibaculum,40,-1,-1,,0.00031665611146295124,0.00031665611146295124
+gut - left palm,genus,silva_phylum,Fastidiosipila,40,-1,-1,,0.00026167972474402024,0.00026167972474402024
+gut - left palm,genus,silva_phylum,Fenollaria,40,-1,-1,,0.0004608298067616492,0.0004608298067616492
+gut - left palm,genus,silva_phylum,Filifactor,40,-1,-1,,0.00015832805573147562,0.00015832805573147562
+gut - left palm,genus,silva_phylum,Finegoldia,40,-1,-1,,0.01174202213162673,0.01174202213162673
+gut - left palm,genus,silva_phylum,Flavobacterium,40,-1,-1,,0.0046574259770601496,0.0046574259770601496
+gut - left palm,genus,silva_phylum,Flectobacillus,40,-1,-1,,0.0006194729244808194,0.0006194729244808194
+gut - left palm,genus,silva_phylum,Frederiksenia,40,-1,-1,,0.012668489549101387,0.012668489549101387
+gut - left palm,genus,silva_phylum,Fretibacterium,40,-1,-1,,0.0008865248226950354,0.0008865248226950354
+gut - left palm,genus,silva_phylum,Fusicatenibacter,40,1,-1,,0.0027326026624912973,0.0027326026624912973
+gut - left palm,genus,silva_phylum,Gaiella,40,-1,-1,,0.0002745528710385943,0.0002745528710385943
+gut - left palm,genus,silva_phylum,Gemella,40,-1,-1,,0.0057181649541473215,0.0057181649541473215
+gut - left palm,genus,silva_phylum,Helcococcus,40,-1,-1,,0.0002444515031875676,0.0002444515031875676
+gut - left palm,genus,silva_phylum,Holdemanella,40,-1,-1,,0.00019791006966434453,0.00019791006966434453
+gut - left palm,genus,silva_phylum,Holdemania,40,1,-1,,0.0003036012618061557,0.0003036012618061557
+gut - left palm,genus,silva_phylum,Howardella,40,1,-1,,0.0002912399765386293,0.0002912399765386293
+gut - left palm,genus,silva_phylum,Hydrogenispora,40,-1,-1,,7.844367743959836e-05,7.844367743959836e-05
+gut - left palm,genus,silva_phylum,Intestinibacter,40,1,-1,,0.0003199203753732404,0.0003199203753732404
+gut - left palm,genus,silva_phylum,Intestinimonas,40,1,-1,,0.0002739511584220413,0.0002739511584220413
+gut - left palm,genus,silva_phylum,Johnsonella,40,-1,-1,,0.0002139887503056982,0.0002139887503056982
+gut - left palm,genus,silva_phylum,Lachnoanaerobaculum,40,-1,-1,,0.0019813857165535582,0.0019813857165535582
+gut - left palm,genus,silva_phylum,Lachnospira,40,1,-1,,0.02156667115188847,0.02156667115188847
+gut - left palm,genus,silva_phylum,Lactobacillus,40,-1,-1,,0.005090701662522668,0.005090701662522668
+gut - left palm,genus,silva_phylum,Latilactobacillus,40,-1,-1,,0.001821085957158218,0.001821085957158218
+gut - left palm,genus,silva_phylum,Lautropia,40,-1,-1,,0.007878292477899933,0.007878292477899933
+gut - left palm,genus,silva_phylum,Lawsonella,40,-1,-1,,0.03402124733506104,0.03402124733506104
+gut - left palm,genus,silva_phylum,Ligilactobacillus,40,-1,-1,,0.000866842379179349,0.000866842379179349
+gut - left palm,genus,silva_phylum,Megamonas,40,-1,-1,,0.0016441877627922817,0.0016441877627922817
+gut - left palm,genus,silva_phylum,Methylophilus,40,-1,-1,,0.000254323499491353,0.000254323499491353
+gut - left palm,genus,silva_phylum,Micrococcus,40,-1,-1,,0.0012187117752508873,0.0012187117752508873
+gut - left palm,genus,silva_phylum,Murdochiella,40,-1,-1,,0.0011218413554232285,0.0011218413554232285
+gut - left palm,genus,silva_phylum,Oceanisphaera,40,-1,-1,,0.0005098839033573894,0.0005098839033573894
+gut - left palm,genus,silva_phylum,Oceanivirga,40,-1,-1,,0.011501742255520692,0.011501742255520692
+gut - left palm,genus,silva_phylum,Oligella,40,-1,-1,,0.0004519875264262414,0.0004519875264262414
+gut - left palm,genus,silva_phylum,Oribacterium,40,-1,-1,,0.0017710201136740713,0.0017710201136740713
+gut - left palm,genus,silva_phylum,Oxalobacter,40,1,-1,,7.666830225711482e-05,7.666830225711482e-05
+gut - left palm,genus,silva_phylum,Paenalcaligenes,40,-1,-1,,0.00015688735487919673,0.00015688735487919673
+gut - left palm,genus,silva_phylum,Paeniglutamicibacter,40,-1,-1,,0.0009021022905553812,0.0009021022905553812
+gut - left palm,genus,silva_phylum,Paraperlucidibaca,40,-1,-1,,0.0002353310323187951,0.0002353310323187951
+gut - left palm,genus,silva_phylum,Parvimonas,40,-1,-1,,0.003723564712943885,0.003723564712943885
+gut - left palm,genus,silva_phylum,Peptostreptococcus,40,-1,-1,,0.00039740767913915383,0.00039740767913915383
+gut - left palm,genus,silva_phylum,Prevotella,40,-1,-1,,0.0037323405805370527,0.0037323405805370527
+gut - left palm,genus,silva_phylum,Pseudogracilibacillus,40,-1,-1,,0.0001961091935989959,0.0001961091935989959
+gut - left palm,genus,silva_phylum,Psychrobacter,40,-1,-1,,0.00568322296848045,0.00568322296848045
+gut - left palm,genus,silva_phylum,Reyranella,40,-1,-1,,0.00011874604179860671,0.00011874604179860671
+gut - left palm,genus,silva_phylum,Rothia,40,-1,-1,,0.010365283363372578,0.010365283363372578
+gut - left palm,genus,silva_phylum,Scardovia,40,-1,-1,,0.00018341892883345562,0.00018341892883345562
+gut - left palm,genus,silva_phylum,Shuttleworthia,40,-1,-1,,9.170946441672781e-05,9.170946441672781e-05
+gut - left palm,genus,silva_phylum,Skermanella,40,-1,-1,,9.537131230925737e-05,9.537131230925737e-05
+gut - left palm,genus,silva_phylum,Sphingobacterium,40,-1,-1,,0.001266624445851805,0.001266624445851805
+gut - left palm,genus,silva_phylum,Staphylococcus,40,-1,-1,,0.05866652542575039,0.05866652542575039
+gut - left palm,genus,silva_phylum,Streptococcus,40,-1,-1,,0.12846534307086327,0.12846534307086327
+gut - left palm,genus,silva_phylum,Tannerella,40,-1,-1,,0.0008914072865517416,0.0008914072865517416
+gut - left palm,genus,silva_phylum,Turicibacter,40,1,-1,,4.766747171730011e-05,4.766747171730011e-05
+gut - left palm,genus,silva_phylum,Vogesella,40,-1,-1,,0.0002469867615095831,0.0002469867615095831
+gut - left palm,genus,silva_phylum,Weissella,40,-1,-1,,0.00020632577761141432,0.00020632577761141432

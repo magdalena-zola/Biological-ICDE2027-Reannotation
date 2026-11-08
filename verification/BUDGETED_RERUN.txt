@@ -1,0 +1,5 @@
+Budgeted primary analysis and hierarchical DP independently rerun on 2026-11-08.
+All core summary CSVs and witness assignments matched their frozen original bytes.
+2970 exhaustive two-anchor block cases and 1380 random-tree cases passed.
+The two local timing outputs in this folder are NOT the original paper numbers; the frozen original timing outputs remain in results/.
+The external independent 41,328-ASV experiment was not re-executed here on the 21-MB QZV; only its frozen consistency and exact-operator small-world tests are checked without network access.

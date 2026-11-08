@@ -1,0 +1,811 @@
+contrast,rank,partition,k,blocks,budget,two_observed_agree,certified_strict,worst_margin,critical_edit_radius
+gut - tongue,phylum,feature,1,770,0,True,True,0.16408641885788638,-1
+gut - tongue,phylum,feature,1,770,1,True,True,0.1561492422324088,-1
+gut - tongue,phylum,feature,1,770,2,True,True,0.15205390758683093,-1
+gut - tongue,phylum,feature,1,770,4,True,True,0.14875931787111824,-1
+gut - tongue,phylum,feature,1,770,8,True,True,0.1312005983272365,-1
+gut - tongue,phylum,feature,1,770,16,True,True,0.11241116028058337,-1
+gut - tongue,phylum,feature,1,770,32,True,True,0.10874781652131987,-1
+gut - tongue,phylum,feature,1,770,64,True,True,0.10874781652131987,-1
+gut - tongue,phylum,feature,1,770,128,True,True,0.10874781652131987,-1
+gut - tongue,phylum,feature,1,770,all,True,True,0.10874781652131987,-1
+gut - tongue,phylum,feature,3,770,0,False,False,,0
+gut - tongue,phylum,feature,3,770,1,False,False,,0
+gut - tongue,phylum,feature,3,770,2,False,False,,0
+gut - tongue,phylum,feature,3,770,4,False,False,,0
+gut - tongue,phylum,feature,3,770,8,False,False,,0
+gut - tongue,phylum,feature,3,770,16,False,False,,0
+gut - tongue,phylum,feature,3,770,32,False,False,,0
+gut - tongue,phylum,feature,3,770,64,False,False,,0
+gut - tongue,phylum,feature,3,770,128,False,False,,0
+gut - tongue,phylum,feature,3,770,all,False,False,,0
+gut - tongue,phylum,feature,5,770,0,False,False,,0
+gut - tongue,phylum,feature,5,770,1,False,False,,0
+gut - tongue,phylum,feature,5,770,2,False,False,,0
+gut - tongue,phylum,feature,5,770,4,False,False,,0
+gut - tongue,phylum,feature,5,770,8,False,False,,0
+gut - tongue,phylum,feature,5,770,16,False,False,,0
+gut - tongue,phylum,feature,5,770,32,False,False,,0
+gut - tongue,phylum,feature,5,770,64,False,False,,0
+gut - tongue,phylum,feature,5,770,128,False,False,,0
+gut - tongue,phylum,feature,5,770,all,False,False,,0
+gut - tongue,phylum,silva_family,1,206,0,True,True,0.16408641885788658,-1
+gut - tongue,phylum,silva_family,1,206,1,True,True,0.162729177746811,-1
+gut - tongue,phylum,silva_family,1,206,2,True,True,0.15359995918845037,-1
+gut - tongue,phylum,silva_family,1,206,4,True,True,0.13053387087282822,-1
+gut - tongue,phylum,silva_family,1,206,8,True,True,0.12778100861005529,-1
+gut - tongue,phylum,silva_family,1,206,16,True,True,0.12765336455462128,-1
+gut - tongue,phylum,silva_family,1,206,32,True,True,0.12765336455462117,-1
+gut - tongue,phylum,silva_family,1,206,64,True,True,0.12765336455462117,-1
+gut - tongue,phylum,silva_family,1,206,128,True,True,0.12765336455462117,-1
+gut - tongue,phylum,silva_family,1,206,all,True,True,0.12765336455462117,-1
+gut - tongue,phylum,silva_family,3,206,0,False,False,,0
+gut - tongue,phylum,silva_family,3,206,1,False,False,,0
+gut - tongue,phylum,silva_family,3,206,2,False,False,,0
+gut - tongue,phylum,silva_family,3,206,4,False,False,,0
+gut - tongue,phylum,silva_family,3,206,8,False,False,,0
+gut - tongue,phylum,silva_family,3,206,16,False,False,,0
+gut - tongue,phylum,silva_family,3,206,32,False,False,,0
+gut - tongue,phylum,silva_family,3,206,64,False,False,,0
+gut - tongue,phylum,silva_family,3,206,128,False,False,,0
+gut - tongue,phylum,silva_family,3,206,all,False,False,,0
+gut - tongue,phylum,silva_family,5,206,0,False,False,,0
+gut - tongue,phylum,silva_family,5,206,1,False,False,,0
+gut - tongue,phylum,silva_family,5,206,2,False,False,,0
+gut - tongue,phylum,silva_family,5,206,4,False,False,,0
+gut - tongue,phylum,silva_family,5,206,8,False,False,,0
+gut - tongue,phylum,silva_family,5,206,16,False,False,,0
+gut - tongue,phylum,silva_family,5,206,32,False,False,,0
+gut - tongue,phylum,silva_family,5,206,64,False,False,,0
+gut - tongue,phylum,silva_family,5,206,128,False,False,,0
+gut - tongue,phylum,silva_family,5,206,all,False,False,,0
+gut - tongue,phylum,silva_phylum,1,40,0,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,1,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,2,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,4,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,8,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,16,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,32,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,64,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,128,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,1,40,all,True,True,0.16408641885788644,-1
+gut - tongue,phylum,silva_phylum,3,40,0,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,1,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,2,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,4,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,8,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,16,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,32,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,64,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,128,False,False,,0
+gut - tongue,phylum,silva_phylum,3,40,all,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,0,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,1,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,2,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,4,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,8,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,16,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,32,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,64,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,128,False,False,,0
+gut - tongue,phylum,silva_phylum,5,40,all,False,False,,0
+gut - tongue,family,feature,1,770,0,True,True,0.25650747352849007,-1
+gut - tongue,family,feature,1,770,1,True,True,0.25123960221728464,-1
+gut - tongue,family,feature,1,770,2,True,True,0.24828122312365755,-1
+gut - tongue,family,feature,1,770,4,True,True,0.24573268574015966,-1
+gut - tongue,family,feature,1,770,8,True,True,0.2431858344652967,-1
+gut - tongue,family,feature,1,770,16,True,True,0.24266464866908904,-1
+gut - tongue,family,feature,1,770,32,True,True,0.24266464866908904,-1
+gut - tongue,family,feature,1,770,64,True,True,0.24266464866908904,-1
+gut - tongue,family,feature,1,770,128,True,True,0.24266464866908904,-1
+gut - tongue,family,feature,1,770,all,True,True,0.24266464866908904,-1
+gut - tongue,family,feature,3,770,0,True,True,0.059230597180427634,-1
+gut - tongue,family,feature,3,770,1,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,2,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,4,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,8,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,16,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,32,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,64,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,128,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,3,770,all,True,True,0.05874196451212169,-1
+gut - tongue,family,feature,5,770,0,False,False,,0
+gut - tongue,family,feature,5,770,1,False,False,,0
+gut - tongue,family,feature,5,770,2,False,False,,0
+gut - tongue,family,feature,5,770,4,False,False,,0
+gut - tongue,family,feature,5,770,8,False,False,,0
+gut - tongue,family,feature,5,770,16,False,False,,0
+gut - tongue,family,feature,5,770,32,False,False,,0
+gut - tongue,family,feature,5,770,64,False,False,,0
+gut - tongue,family,feature,5,770,128,False,False,,0
+gut - tongue,family,feature,5,770,all,False,False,,0
+gut - tongue,family,silva_family,1,206,0,True,True,0.25650747352849024,-1
+gut - tongue,family,silva_family,1,206,1,True,True,0.2531709410778357,-1
+gut - tongue,family,silva_family,1,206,2,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,4,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,8,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,16,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,32,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,64,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,128,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,1,206,all,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_family,3,206,0,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_family,3,206,1,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,2,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,4,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,8,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,16,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,32,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,64,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,128,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,3,206,all,True,True,0.058741964512121686,-1
+gut - tongue,family,silva_family,5,206,0,False,False,,0
+gut - tongue,family,silva_family,5,206,1,False,False,,0
+gut - tongue,family,silva_family,5,206,2,False,False,,0
+gut - tongue,family,silva_family,5,206,4,False,False,,0
+gut - tongue,family,silva_family,5,206,8,False,False,,0
+gut - tongue,family,silva_family,5,206,16,False,False,,0
+gut - tongue,family,silva_family,5,206,32,False,False,,0
+gut - tongue,family,silva_family,5,206,64,False,False,,0
+gut - tongue,family,silva_family,5,206,128,False,False,,0
+gut - tongue,family,silva_family,5,206,all,False,False,,0
+gut - tongue,family,silva_phylum,1,40,0,True,True,0.2565074735284902,-1
+gut - tongue,family,silva_phylum,1,40,1,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,2,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,4,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,8,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,16,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,32,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,64,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,128,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,1,40,all,True,True,0.25317094107783567,-1
+gut - tongue,family,silva_phylum,3,40,0,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,1,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,2,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,4,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,8,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,16,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,32,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,64,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,128,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,3,40,all,True,True,0.05923059718042763,-1
+gut - tongue,family,silva_phylum,5,40,0,False,False,,0
+gut - tongue,family,silva_phylum,5,40,1,False,False,,0
+gut - tongue,family,silva_phylum,5,40,2,False,False,,0
+gut - tongue,family,silva_phylum,5,40,4,False,False,,0
+gut - tongue,family,silva_phylum,5,40,8,False,False,,0
+gut - tongue,family,silva_phylum,5,40,16,False,False,,0
+gut - tongue,family,silva_phylum,5,40,32,False,False,,0
+gut - tongue,family,silva_phylum,5,40,64,False,False,,0
+gut - tongue,family,silva_phylum,5,40,128,False,False,,0
+gut - tongue,family,silva_phylum,5,40,all,False,False,,0
+gut - tongue,genus,feature,1,770,0,False,False,,0
+gut - tongue,genus,feature,1,770,1,False,False,,0
+gut - tongue,genus,feature,1,770,2,False,False,,0
+gut - tongue,genus,feature,1,770,4,False,False,,0
+gut - tongue,genus,feature,1,770,8,False,False,,0
+gut - tongue,genus,feature,1,770,16,False,False,,0
+gut - tongue,genus,feature,1,770,32,False,False,,0
+gut - tongue,genus,feature,1,770,64,False,False,,0
+gut - tongue,genus,feature,1,770,128,False,False,,0
+gut - tongue,genus,feature,1,770,all,False,False,,0
+gut - tongue,genus,feature,3,770,0,False,False,,0
+gut - tongue,genus,feature,3,770,1,False,False,,0
+gut - tongue,genus,feature,3,770,2,False,False,,0
+gut - tongue,genus,feature,3,770,4,False,False,,0
+gut - tongue,genus,feature,3,770,8,False,False,,0
+gut - tongue,genus,feature,3,770,16,False,False,,0
+gut - tongue,genus,feature,3,770,32,False,False,,0
+gut - tongue,genus,feature,3,770,64,False,False,,0
+gut - tongue,genus,feature,3,770,128,False,False,,0
+gut - tongue,genus,feature,3,770,all,False,False,,0
+gut - tongue,genus,feature,5,770,0,False,False,,0
+gut - tongue,genus,feature,5,770,1,False,False,,0
+gut - tongue,genus,feature,5,770,2,False,False,,0
+gut - tongue,genus,feature,5,770,4,False,False,,0
+gut - tongue,genus,feature,5,770,8,False,False,,0
+gut - tongue,genus,feature,5,770,16,False,False,,0
+gut - tongue,genus,feature,5,770,32,False,False,,0
+gut - tongue,genus,feature,5,770,64,False,False,,0
+gut - tongue,genus,feature,5,770,128,False,False,,0
+gut - tongue,genus,feature,5,770,all,False,False,,0
+gut - tongue,genus,silva_family,1,206,0,False,False,,0
+gut - tongue,genus,silva_family,1,206,1,False,False,,0
+gut - tongue,genus,silva_family,1,206,2,False,False,,0
+gut - tongue,genus,silva_family,1,206,4,False,False,,0
+gut - tongue,genus,silva_family,1,206,8,False,False,,0
+gut - tongue,genus,silva_family,1,206,16,False,False,,0
+gut - tongue,genus,silva_family,1,206,32,False,False,,0
+gut - tongue,genus,silva_family,1,206,64,False,False,,0
+gut - tongue,genus,silva_family,1,206,128,False,False,,0
+gut - tongue,genus,silva_family,1,206,all,False,False,,0
+gut - tongue,genus,silva_family,3,206,0,False,False,,0
+gut - tongue,genus,silva_family,3,206,1,False,False,,0
+gut - tongue,genus,silva_family,3,206,2,False,False,,0
+gut - tongue,genus,silva_family,3,206,4,False,False,,0
+gut - tongue,genus,silva_family,3,206,8,False,False,,0
+gut - tongue,genus,silva_family,3,206,16,False,False,,0
+gut - tongue,genus,silva_family,3,206,32,False,False,,0
+gut - tongue,genus,silva_family,3,206,64,False,False,,0
+gut - tongue,genus,silva_family,3,206,128,False,False,,0
+gut - tongue,genus,silva_family,3,206,all,False,False,,0
+gut - tongue,genus,silva_family,5,206,0,False,False,,0
+gut - tongue,genus,silva_family,5,206,1,False,False,,0
+gut - tongue,genus,silva_family,5,206,2,False,False,,0
+gut - tongue,genus,silva_family,5,206,4,False,False,,0
+gut - tongue,genus,silva_family,5,206,8,False,False,,0
+gut - tongue,genus,silva_family,5,206,16,False,False,,0
+gut - tongue,genus,silva_family,5,206,32,False,False,,0
+gut - tongue,genus,silva_family,5,206,64,False,False,,0
+gut - tongue,genus,silva_family,5,206,128,False,False,,0
+gut - tongue,genus,silva_family,5,206,all,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,0,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,1,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,2,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,4,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,8,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,16,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,32,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,64,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,128,False,False,,0
+gut - tongue,genus,silva_phylum,1,40,all,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,0,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,1,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,2,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,4,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,8,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,16,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,32,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,64,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,128,False,False,,0
+gut - tongue,genus,silva_phylum,3,40,all,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,0,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,1,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,2,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,4,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,8,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,16,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,32,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,64,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,128,False,False,,0
+gut - tongue,genus,silva_phylum,5,40,all,False,False,,0
+left palm - right palm,phylum,feature,1,770,0,True,True,0.0523111594321861,44
+left palm - right palm,phylum,feature,1,770,1,True,True,0.04396950499463784,44
+left palm - right palm,phylum,feature,1,770,2,True,True,0.04158872171477902,44
+left palm - right palm,phylum,feature,1,770,4,True,True,0.038830096844787484,44
+left palm - right palm,phylum,feature,1,770,8,True,True,0.03091770380784152,44
+left palm - right palm,phylum,feature,1,770,16,True,True,0.021218804046002016,44
+left palm - right palm,phylum,feature,1,770,32,True,True,0.005802496738891202,44
+left palm - right palm,phylum,feature,1,770,64,True,False,-0.0038836620566182894,44
+left palm - right palm,phylum,feature,1,770,128,True,False,-0.005215111178576842,44
+left palm - right palm,phylum,feature,1,770,all,True,False,-0.005215111178576842,44
+left palm - right palm,phylum,feature,3,770,0,False,False,,0
+left palm - right palm,phylum,feature,3,770,1,False,False,,0
+left palm - right palm,phylum,feature,3,770,2,False,False,,0
+left palm - right palm,phylum,feature,3,770,4,False,False,,0
+left palm - right palm,phylum,feature,3,770,8,False,False,,0
+left palm - right palm,phylum,feature,3,770,16,False,False,,0
+left palm - right palm,phylum,feature,3,770,32,False,False,,0
+left palm - right palm,phylum,feature,3,770,64,False,False,,0
+left palm - right palm,phylum,feature,3,770,128,False,False,,0
+left palm - right palm,phylum,feature,3,770,all,False,False,,0
+left palm - right palm,phylum,feature,5,770,0,False,False,,0
+left palm - right palm,phylum,feature,5,770,1,False,False,,0
+left palm - right palm,phylum,feature,5,770,2,False,False,,0
+left palm - right palm,phylum,feature,5,770,4,False,False,,0
+left palm - right palm,phylum,feature,5,770,8,False,False,,0
+left palm - right palm,phylum,feature,5,770,16,False,False,,0
+left palm - right palm,phylum,feature,5,770,32,False,False,,0
+left palm - right palm,phylum,feature,5,770,64,False,False,,0
+left palm - right palm,phylum,feature,5,770,128,False,False,,0
+left palm - right palm,phylum,feature,5,770,all,False,False,,0
+left palm - right palm,phylum,silva_family,1,206,0,True,True,0.05231115943218609,-1
+left palm - right palm,phylum,silva_family,1,206,1,True,True,0.04239109358934248,-1
+left palm - right palm,phylum,silva_family,1,206,2,True,True,0.03515373925796748,-1
+left palm - right palm,phylum,silva_family,1,206,4,True,True,0.026103242201738805,-1
+left palm - right palm,phylum,silva_family,1,206,8,True,True,0.01802180416618579,-1
+left palm - right palm,phylum,silva_family,1,206,16,True,True,0.0170804416867104,-1
+left palm - right palm,phylum,silva_family,1,206,32,True,True,0.01708044168671037,-1
+left palm - right palm,phylum,silva_family,1,206,64,True,True,0.01708044168671037,-1
+left palm - right palm,phylum,silva_family,1,206,128,True,True,0.01708044168671037,-1
+left palm - right palm,phylum,silva_family,1,206,all,True,True,0.01708044168671037,-1
+left palm - right palm,phylum,silva_family,3,206,0,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,1,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,2,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,4,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,8,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,16,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,32,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,64,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,128,False,False,,0
+left palm - right palm,phylum,silva_family,3,206,all,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,0,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,1,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,2,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,4,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,8,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,16,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,32,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,64,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,128,False,False,,0
+left palm - right palm,phylum,silva_family,5,206,all,False,False,,0
+left palm - right palm,phylum,silva_phylum,1,40,0,True,True,0.05231115943218607,-1
+left palm - right palm,phylum,silva_phylum,1,40,1,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,2,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,4,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,8,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,16,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,32,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,64,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,128,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,1,40,all,True,True,0.05227211304925922,-1
+left palm - right palm,phylum,silva_phylum,3,40,0,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,1,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,2,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,4,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,8,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,16,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,32,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,64,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,128,False,False,,0
+left palm - right palm,phylum,silva_phylum,3,40,all,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,0,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,1,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,2,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,4,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,8,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,16,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,32,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,64,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,128,False,False,,0
+left palm - right palm,phylum,silva_phylum,5,40,all,False,False,,0
+left palm - right palm,family,feature,1,770,0,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,1,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,2,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,4,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,8,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,16,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,32,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,64,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,128,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,1,770,all,True,True,0.005795386370184546,-1
+left palm - right palm,family,feature,3,770,0,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,1,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,2,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,4,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,8,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,16,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,32,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,64,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,128,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,3,770,all,True,True,0.006277005362397578,-1
+left palm - right palm,family,feature,5,770,0,True,True,0.010279803825288768,-1
+left palm - right palm,family,feature,5,770,1,True,True,0.0062296710184642804,-1
+left palm - right palm,family,feature,5,770,2,True,True,0.002189825638153472,-1
+left palm - right palm,family,feature,5,770,4,True,True,0.0010616633140061327,-1
+left palm - right palm,family,feature,5,770,8,True,True,0.0008089459218041141,-1
+left palm - right palm,family,feature,5,770,16,True,True,0.0008018736261657285,-1
+left palm - right palm,family,feature,5,770,32,True,True,0.0008018736261657285,-1
+left palm - right palm,family,feature,5,770,64,True,True,0.0008018736261657285,-1
+left palm - right palm,family,feature,5,770,128,True,True,0.0008018736261657285,-1
+left palm - right palm,family,feature,5,770,all,True,True,0.0008018736261657285,-1
+left palm - right palm,family,silva_family,1,206,0,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,1,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,2,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,4,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,8,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,16,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,32,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,64,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,128,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,1,206,all,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_family,3,206,0,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,1,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,2,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,4,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,8,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,16,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,32,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,64,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,128,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,3,206,all,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_family,5,206,0,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_family,5,206,1,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_family,5,206,2,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_family,5,206,4,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_family,5,206,8,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_family,5,206,16,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_family,5,206,32,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_family,5,206,64,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_family,5,206,128,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_family,5,206,all,True,True,0.01027980382528876,-1
+left palm - right palm,family,silva_phylum,1,40,0,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,1,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,2,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,4,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,8,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,16,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,32,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,64,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,128,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,1,40,all,True,True,0.00579538637018457,-1
+left palm - right palm,family,silva_phylum,3,40,0,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,1,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,2,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,4,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,8,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,16,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,32,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,64,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,128,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,3,40,all,True,True,0.00627700536239759,-1
+left palm - right palm,family,silva_phylum,5,40,0,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,1,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,2,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,4,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,8,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,16,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,32,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,64,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,128,True,True,0.010279803825288761,-1
+left palm - right palm,family,silva_phylum,5,40,all,True,True,0.010279803825288761,-1
+left palm - right palm,genus,feature,1,770,0,True,True,0.0061134033519108025,-1
+left palm - right palm,genus,feature,1,770,1,True,True,0.005062793034478425,-1
+left palm - right palm,genus,feature,1,770,2,True,True,0.005062793034478425,-1
+left palm - right palm,genus,feature,1,770,4,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,1,770,8,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,1,770,16,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,1,770,32,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,1,770,64,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,1,770,128,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,1,770,all,True,True,0.005062793034478423,-1
+left palm - right palm,genus,feature,3,770,0,False,False,,0
+left palm - right palm,genus,feature,3,770,1,False,False,,0
+left palm - right palm,genus,feature,3,770,2,False,False,,0
+left palm - right palm,genus,feature,3,770,4,False,False,,0
+left palm - right palm,genus,feature,3,770,8,False,False,,0
+left palm - right palm,genus,feature,3,770,16,False,False,,0
+left palm - right palm,genus,feature,3,770,32,False,False,,0
+left palm - right palm,genus,feature,3,770,64,False,False,,0
+left palm - right palm,genus,feature,3,770,128,False,False,,0
+left palm - right palm,genus,feature,3,770,all,False,False,,0
+left palm - right palm,genus,feature,5,770,0,False,False,,0
+left palm - right palm,genus,feature,5,770,1,False,False,,0
+left palm - right palm,genus,feature,5,770,2,False,False,,0
+left palm - right palm,genus,feature,5,770,4,False,False,,0
+left palm - right palm,genus,feature,5,770,8,False,False,,0
+left palm - right palm,genus,feature,5,770,16,False,False,,0
+left palm - right palm,genus,feature,5,770,32,False,False,,0
+left palm - right palm,genus,feature,5,770,64,False,False,,0
+left palm - right palm,genus,feature,5,770,128,False,False,,0
+left palm - right palm,genus,feature,5,770,all,False,False,,0
+left palm - right palm,genus,silva_family,1,206,0,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,1,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,2,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,4,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,8,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,16,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,32,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,64,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,128,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,1,206,all,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_family,3,206,0,False,False,,0
+left palm - right palm,genus,silva_family,3,206,1,False,False,,0
+left palm - right palm,genus,silva_family,3,206,2,False,False,,0
+left palm - right palm,genus,silva_family,3,206,4,False,False,,0
+left palm - right palm,genus,silva_family,3,206,8,False,False,,0
+left palm - right palm,genus,silva_family,3,206,16,False,False,,0
+left palm - right palm,genus,silva_family,3,206,32,False,False,,0
+left palm - right palm,genus,silva_family,3,206,64,False,False,,0
+left palm - right palm,genus,silva_family,3,206,128,False,False,,0
+left palm - right palm,genus,silva_family,3,206,all,False,False,,0
+left palm - right palm,genus,silva_family,5,206,0,False,False,,0
+left palm - right palm,genus,silva_family,5,206,1,False,False,,0
+left palm - right palm,genus,silva_family,5,206,2,False,False,,0
+left palm - right palm,genus,silva_family,5,206,4,False,False,,0
+left palm - right palm,genus,silva_family,5,206,8,False,False,,0
+left palm - right palm,genus,silva_family,5,206,16,False,False,,0
+left palm - right palm,genus,silva_family,5,206,32,False,False,,0
+left palm - right palm,genus,silva_family,5,206,64,False,False,,0
+left palm - right palm,genus,silva_family,5,206,128,False,False,,0
+left palm - right palm,genus,silva_family,5,206,all,False,False,,0
+left palm - right palm,genus,silva_phylum,1,40,0,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,1,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,2,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,4,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,8,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,16,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,32,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,64,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,128,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,1,40,all,True,True,0.006113403351910809,-1
+left palm - right palm,genus,silva_phylum,3,40,0,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,1,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,2,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,4,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,8,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,16,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,32,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,64,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,128,False,False,,0
+left palm - right palm,genus,silva_phylum,3,40,all,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,0,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,1,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,2,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,4,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,8,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,16,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,32,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,64,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,128,False,False,,0
+left palm - right palm,genus,silva_phylum,5,40,all,False,False,,0
+gut - left palm,phylum,feature,1,770,0,True,True,0.29252486649670645,-1
+gut - left palm,phylum,feature,1,770,1,True,True,0.27659496635356223,-1
+gut - left palm,phylum,feature,1,770,2,True,True,0.26272538766010967,-1
+gut - left palm,phylum,feature,1,770,4,True,True,0.2458259751829292,-1
+gut - left palm,phylum,feature,1,770,8,True,True,0.23804912450575613,-1
+gut - left palm,phylum,feature,1,770,16,True,True,0.23001376341236396,-1
+gut - left palm,phylum,feature,1,770,32,True,True,0.21451622410534732,-1
+gut - left palm,phylum,feature,1,770,64,True,True,0.192822009965898,-1
+gut - left palm,phylum,feature,1,770,128,True,True,0.18354355072032058,-1
+gut - left palm,phylum,feature,1,770,all,True,True,0.18354355072032058,-1
+gut - left palm,phylum,feature,3,770,0,False,False,,0
+gut - left palm,phylum,feature,3,770,1,False,False,,0
+gut - left palm,phylum,feature,3,770,2,False,False,,0
+gut - left palm,phylum,feature,3,770,4,False,False,,0
+gut - left palm,phylum,feature,3,770,8,False,False,,0
+gut - left palm,phylum,feature,3,770,16,False,False,,0
+gut - left palm,phylum,feature,3,770,32,False,False,,0
+gut - left palm,phylum,feature,3,770,64,False,False,,0
+gut - left palm,phylum,feature,3,770,128,False,False,,0
+gut - left palm,phylum,feature,3,770,all,False,False,,0
+gut - left palm,phylum,feature,5,770,0,False,False,,0
+gut - left palm,phylum,feature,5,770,1,False,False,,0
+gut - left palm,phylum,feature,5,770,2,False,False,,0
+gut - left palm,phylum,feature,5,770,4,False,False,,0
+gut - left palm,phylum,feature,5,770,8,False,False,,0
+gut - left palm,phylum,feature,5,770,16,False,False,,0
+gut - left palm,phylum,feature,5,770,32,False,False,,0
+gut - left palm,phylum,feature,5,770,64,False,False,,0
+gut - left palm,phylum,feature,5,770,128,False,False,,0
+gut - left palm,phylum,feature,5,770,all,False,False,,0
+gut - left palm,phylum,silva_family,1,206,0,True,True,0.2925248664967065,-1
+gut - left palm,phylum,silva_family,1,206,1,True,True,0.23382241713270618,-1
+gut - left palm,phylum,silva_family,1,206,2,True,True,0.23206549403838694,-1
+gut - left palm,phylum,silva_family,1,206,4,True,True,0.20163773077337316,-1
+gut - left palm,phylum,silva_family,1,206,8,True,True,0.19548624326288017,-1
+gut - left palm,phylum,silva_family,1,206,16,True,True,0.19438120592889885,-1
+gut - left palm,phylum,silva_family,1,206,32,True,True,0.19438120592889874,-1
+gut - left palm,phylum,silva_family,1,206,64,True,True,0.19438120592889874,-1
+gut - left palm,phylum,silva_family,1,206,128,True,True,0.19438120592889874,-1
+gut - left palm,phylum,silva_family,1,206,all,True,True,0.19438120592889874,-1
+gut - left palm,phylum,silva_family,3,206,0,False,False,,0
+gut - left palm,phylum,silva_family,3,206,1,False,False,,0
+gut - left palm,phylum,silva_family,3,206,2,False,False,,0
+gut - left palm,phylum,silva_family,3,206,4,False,False,,0
+gut - left palm,phylum,silva_family,3,206,8,False,False,,0
+gut - left palm,phylum,silva_family,3,206,16,False,False,,0
+gut - left palm,phylum,silva_family,3,206,32,False,False,,0
+gut - left palm,phylum,silva_family,3,206,64,False,False,,0
+gut - left palm,phylum,silva_family,3,206,128,False,False,,0
+gut - left palm,phylum,silva_family,3,206,all,False,False,,0
+gut - left palm,phylum,silva_family,5,206,0,False,False,,0
+gut - left palm,phylum,silva_family,5,206,1,False,False,,0
+gut - left palm,phylum,silva_family,5,206,2,False,False,,0
+gut - left palm,phylum,silva_family,5,206,4,False,False,,0
+gut - left palm,phylum,silva_family,5,206,8,False,False,,0
+gut - left palm,phylum,silva_family,5,206,16,False,False,,0
+gut - left palm,phylum,silva_family,5,206,32,False,False,,0
+gut - left palm,phylum,silva_family,5,206,64,False,False,,0
+gut - left palm,phylum,silva_family,5,206,128,False,False,,0
+gut - left palm,phylum,silva_family,5,206,all,False,False,,0
+gut - left palm,phylum,silva_phylum,1,40,0,True,True,0.2925248664967063,-1
+gut - left palm,phylum,silva_phylum,1,40,1,True,True,0.29150242529793274,-1
+gut - left palm,phylum,silva_phylum,1,40,2,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,4,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,8,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,16,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,32,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,64,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,128,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,1,40,all,True,True,0.29146328941815813,-1
+gut - left palm,phylum,silva_phylum,3,40,0,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,1,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,2,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,4,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,8,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,16,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,32,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,64,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,128,False,False,,0
+gut - left palm,phylum,silva_phylum,3,40,all,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,0,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,1,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,2,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,4,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,8,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,16,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,32,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,64,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,128,False,False,,0
+gut - left palm,phylum,silva_phylum,5,40,all,False,False,,0
+gut - left palm,family,feature,1,770,0,True,True,0.3555064164641763,-1
+gut - left palm,family,feature,1,770,1,True,True,0.35023854515297087,-1
+gut - left palm,family,feature,1,770,2,True,True,0.3472801660593438,-1
+gut - left palm,family,feature,1,770,4,True,True,0.3447316286758459,-1
+gut - left palm,family,feature,1,770,8,True,True,0.3422987764889902,-1
+gut - left palm,family,feature,1,770,16,True,True,0.3417775906927826,-1
+gut - left palm,family,feature,1,770,32,True,True,0.3417775906927826,-1
+gut - left palm,family,feature,1,770,64,True,True,0.3417775906927826,-1
+gut - left palm,family,feature,1,770,128,True,True,0.3417775906927826,-1
+gut - left palm,family,feature,1,770,all,True,True,0.3417775906927826,-1
+gut - left palm,family,feature,3,770,0,True,True,0.05621981111002649,-1
+gut - left palm,family,feature,3,770,1,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,2,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,4,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,8,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,16,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,32,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,64,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,128,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,3,770,all,True,True,0.05573117844172055,-1
+gut - left palm,family,feature,5,770,0,False,False,,0
+gut - left palm,family,feature,5,770,1,False,False,,0
+gut - left palm,family,feature,5,770,2,False,False,,0
+gut - left palm,family,feature,5,770,4,False,False,,0
+gut - left palm,family,feature,5,770,8,False,False,,0
+gut - left palm,family,feature,5,770,16,False,False,,0
+gut - left palm,family,feature,5,770,32,False,False,,0
+gut - left palm,family,feature,5,770,64,False,False,,0
+gut - left palm,family,feature,5,770,128,False,False,,0
+gut - left palm,family,feature,5,770,all,False,False,,0
+gut - left palm,family,silva_family,1,206,0,True,True,0.35550641646417636,-1
+gut - left palm,family,silva_family,1,206,1,True,True,0.3522334648883947,-1
+gut - left palm,family,silva_family,1,206,2,True,True,0.3522334648883947,-1
+gut - left palm,family,silva_family,1,206,4,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,1,206,8,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,1,206,16,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,1,206,32,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,1,206,64,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,1,206,128,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,1,206,all,True,True,0.35223346488839463,-1
+gut - left palm,family,silva_family,3,206,0,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_family,3,206,1,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,2,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,4,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,8,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,16,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,32,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,64,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,128,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,3,206,all,True,True,0.05573117844172054,-1
+gut - left palm,family,silva_family,5,206,0,False,False,,0
+gut - left palm,family,silva_family,5,206,1,False,False,,0
+gut - left palm,family,silva_family,5,206,2,False,False,,0
+gut - left palm,family,silva_family,5,206,4,False,False,,0
+gut - left palm,family,silva_family,5,206,8,False,False,,0
+gut - left palm,family,silva_family,5,206,16,False,False,,0
+gut - left palm,family,silva_family,5,206,32,False,False,,0
+gut - left palm,family,silva_family,5,206,64,False,False,,0
+gut - left palm,family,silva_family,5,206,128,False,False,,0
+gut - left palm,family,silva_family,5,206,all,False,False,,0
+gut - left palm,family,silva_phylum,1,40,0,True,True,0.35550641646417624,-1
+gut - left palm,family,silva_phylum,1,40,1,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,2,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,4,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,8,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,16,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,32,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,64,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,128,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,1,40,all,True,True,0.3522334648883946,-1
+gut - left palm,family,silva_phylum,3,40,0,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,1,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,2,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,4,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,8,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,16,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,32,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,64,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,128,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,3,40,all,True,True,0.05621981111002648,-1
+gut - left palm,family,silva_phylum,5,40,0,False,False,,0
+gut - left palm,family,silva_phylum,5,40,1,False,False,,0
+gut - left palm,family,silva_phylum,5,40,2,False,False,,0
+gut - left palm,family,silva_phylum,5,40,4,False,False,,0
+gut - left palm,family,silva_phylum,5,40,8,False,False,,0
+gut - left palm,family,silva_phylum,5,40,16,False,False,,0
+gut - left palm,family,silva_phylum,5,40,32,False,False,,0
+gut - left palm,family,silva_phylum,5,40,64,False,False,,0
+gut - left palm,family,silva_phylum,5,40,128,False,False,,0
+gut - left palm,family,silva_phylum,5,40,all,False,False,,0
+gut - left palm,genus,feature,1,770,0,False,False,,0
+gut - left palm,genus,feature,1,770,1,False,False,,0
+gut - left palm,genus,feature,1,770,2,False,False,,0
+gut - left palm,genus,feature,1,770,4,False,False,,0
+gut - left palm,genus,feature,1,770,8,False,False,,0
+gut - left palm,genus,feature,1,770,16,False,False,,0
+gut - left palm,genus,feature,1,770,32,False,False,,0
+gut - left palm,genus,feature,1,770,64,False,False,,0
+gut - left palm,genus,feature,1,770,128,False,False,,0
+gut - left palm,genus,feature,1,770,all,False,False,,0
+gut - left palm,genus,feature,3,770,0,False,False,,0
+gut - left palm,genus,feature,3,770,1,False,False,,0
+gut - left palm,genus,feature,3,770,2,False,False,,0
+gut - left palm,genus,feature,3,770,4,False,False,,0
+gut - left palm,genus,feature,3,770,8,False,False,,0
+gut - left palm,genus,feature,3,770,16,False,False,,0
+gut - left palm,genus,feature,3,770,32,False,False,,0
+gut - left palm,genus,feature,3,770,64,False,False,,0
+gut - left palm,genus,feature,3,770,128,False,False,,0
+gut - left palm,genus,feature,3,770,all,False,False,,0
+gut - left palm,genus,feature,5,770,0,False,False,,0
+gut - left palm,genus,feature,5,770,1,False,False,,0
+gut - left palm,genus,feature,5,770,2,False,False,,0
+gut - left palm,genus,feature,5,770,4,False,False,,0
+gut - left palm,genus,feature,5,770,8,False,False,,0
+gut - left palm,genus,feature,5,770,16,False,False,,0
+gut - left palm,genus,feature,5,770,32,False,False,,0
+gut - left palm,genus,feature,5,770,64,False,False,,0
+gut - left palm,genus,feature,5,770,128,False,False,,0
+gut - left palm,genus,feature,5,770,all,False,False,,0
+gut - left palm,genus,silva_family,1,206,0,False,False,,0
+gut - left palm,genus,silva_family,1,206,1,False,False,,0
+gut - left palm,genus,silva_family,1,206,2,False,False,,0
+gut - left palm,genus,silva_family,1,206,4,False,False,,0
+gut - left palm,genus,silva_family,1,206,8,False,False,,0
+gut - left palm,genus,silva_family,1,206,16,False,False,,0
+gut - left palm,genus,silva_family,1,206,32,False,False,,0
+gut - left palm,genus,silva_family,1,206,64,False,False,,0
+gut - left palm,genus,silva_family,1,206,128,False,False,,0
+gut - left palm,genus,silva_family,1,206,all,False,False,,0
+gut - left palm,genus,silva_family,3,206,0,False,False,,0
+gut - left palm,genus,silva_family,3,206,1,False,False,,0
+gut - left palm,genus,silva_family,3,206,2,False,False,,0
+gut - left palm,genus,silva_family,3,206,4,False,False,,0
+gut - left palm,genus,silva_family,3,206,8,False,False,,0
+gut - left palm,genus,silva_family,3,206,16,False,False,,0
+gut - left palm,genus,silva_family,3,206,32,False,False,,0
+gut - left palm,genus,silva_family,3,206,64,False,False,,0
+gut - left palm,genus,silva_family,3,206,128,False,False,,0
+gut - left palm,genus,silva_family,3,206,all,False,False,,0
+gut - left palm,genus,silva_family,5,206,0,False,False,,0
+gut - left palm,genus,silva_family,5,206,1,False,False,,0
+gut - left palm,genus,silva_family,5,206,2,False,False,,0
+gut - left palm,genus,silva_family,5,206,4,False,False,,0
+gut - left palm,genus,silva_family,5,206,8,False,False,,0
+gut - left palm,genus,silva_family,5,206,16,False,False,,0
+gut - left palm,genus,silva_family,5,206,32,False,False,,0
+gut - left palm,genus,silva_family,5,206,64,False,False,,0
+gut - left palm,genus,silva_family,5,206,128,False,False,,0
+gut - left palm,genus,silva_family,5,206,all,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,0,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,1,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,2,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,4,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,8,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,16,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,32,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,64,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,128,False,False,,0
+gut - left palm,genus,silva_phylum,1,40,all,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,0,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,1,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,2,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,4,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,8,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,16,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,32,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,64,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,128,False,False,,0
+gut - left palm,genus,silva_phylum,3,40,all,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,0,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,1,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,2,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,4,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,8,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,16,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,32,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,64,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,128,False,False,,0
+gut - left palm,genus,silva_phylum,5,40,all,False,False,,0

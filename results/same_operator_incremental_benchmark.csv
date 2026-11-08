@@ -1,0 +1,4 @@
+groups,taxa,top_k,budget,updates,repetition,comparisons,baseline_full_ms,indexed_ms,speedup,max_abs_error,execution_note
+206,64,4,4,120,0,240,959.8188690001734,21.71326099983162,44.20427079136647,0.0,Python; same exact budgeted pair-minimum operator; single taxon-block update
+206,64,4,4,120,1,240,1009.8592010001539,29.419361999998728,34.32634606420756,0.0,Python; same exact budgeted pair-minimum operator; single taxon-block update
+206,64,4,4,120,2,240,936.1397099999067,25.06842200000392,37.34338403908153,0.0,Python; same exact budgeted pair-minimum operator; single taxon-block update

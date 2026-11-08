@@ -1,0 +1,28 @@
+contrast,rank,partition,blocks,observed_same_sign,taxa
+gut - tongue,phylum,feature,770,5,34
+gut - tongue,phylum,silva_family,206,5,34
+gut - tongue,phylum,silva_phylum,40,5,34
+gut - tongue,family,feature,770,29,197
+gut - tongue,family,silva_family,206,29,197
+gut - tongue,family,silva_phylum,40,29,197
+gut - tongue,genus,feature,770,29,468
+gut - tongue,genus,silva_family,206,29,468
+gut - tongue,genus,silva_phylum,40,29,468
+left palm - right palm,phylum,feature,770,10,34
+left palm - right palm,phylum,silva_family,206,10,34
+left palm - right palm,phylum,silva_phylum,40,10,34
+left palm - right palm,family,feature,770,72,197
+left palm - right palm,family,silva_family,206,72,197
+left palm - right palm,family,silva_phylum,40,72,197
+left palm - right palm,genus,feature,770,93,468
+left palm - right palm,genus,silva_family,206,93,468
+left palm - right palm,genus,silva_phylum,40,93,468
+gut - left palm,phylum,feature,770,8,34
+gut - left palm,phylum,silva_family,206,8,34
+gut - left palm,phylum,silva_phylum,40,8,34
+gut - left palm,family,feature,770,64,197
+gut - left palm,family,silva_family,206,64,197
+gut - left palm,family,silva_phylum,40,64,197
+gut - left palm,genus,feature,770,84,468
+gut - left palm,genus,silva_family,206,84,468
+gut - left palm,genus,silva_phylum,40,84,468

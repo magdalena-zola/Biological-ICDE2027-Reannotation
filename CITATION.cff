@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the corresponding scientific paper when using this artifact."
+title: "Biological Findings That Survive Reannotation - ICDE 2027 Research Artifact"
+type: software
+authors:
+  - family-names: Kiersztyn
+    given-names: Adam
+  - family-names: Zoła
+    given-names: Magdalena
+  - family-names: Kiersztyn
+    given-names: Krystyna
+version: 2026.11.08

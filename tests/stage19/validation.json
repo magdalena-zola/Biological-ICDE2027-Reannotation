@@ -1,0 +1,45 @@
+{
+  "validation_cases": 80,
+  "cases_with_strictly_tighter_bounds": 80,
+  "max_abs_error": 3.552713678800501e-15,
+  "small_counterexample": {
+    "independent_lower": 0.0,
+    "tree_lower": 1.0,
+    "independent_upper": 2.0,
+    "tree_upper": 2.0
+  },
+  "model": "synthetic binary pairwise state compatibility; fixed additive query contribution; not biological dependency evidence",
+  "baseline": "Full tree DP, same constraints and query vectors, not database SQL",
+  "benchmarks": [
+    {
+      "nodes": 63,
+      "queries": 48,
+      "events": 60,
+      "incremental_median_ms": 0.15179900000000002,
+      "full_dp_median_ms": 1.093683,
+      "full_over_incremental": 7.204810308368302,
+      "median_recomputed_nodes": 5.0,
+      "full_recomputed_nodes": 63
+    },
+    {
+      "nodes": 255,
+      "queries": 48,
+      "events": 60,
+      "incremental_median_ms": 0.218194,
+      "full_dp_median_ms": 4.686226,
+      "full_over_incremental": 21.47733668203525,
+      "median_recomputed_nodes": 7.0,
+      "full_recomputed_nodes": 255
+    },
+    {
+      "nodes": 1023,
+      "queries": 48,
+      "events": 60,
+      "incremental_median_ms": 0.2852595,
+      "full_dp_median_ms": 17.9540965,
+      "full_over_incremental": 62.939521733719644,
+      "median_recomputed_nodes": 9.0,
+      "full_recomputed_nodes": 1023
+    }
+  ]
+}

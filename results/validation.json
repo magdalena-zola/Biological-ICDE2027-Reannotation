@@ -1,0 +1,7 @@
+{
+  "exhaustive_cases": 2970,
+  "max_abs_error": 3.552713678800501e-15,
+  "budget_monotonic_checks": 2970,
+  "witness_checks": 2970,
+  "elapsed_sec_total": 3.444974924999997
+}
